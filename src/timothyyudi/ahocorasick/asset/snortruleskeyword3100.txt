@@ -1,0 +1,3100 @@
+ADVDAUDIO.ADVDAUDIOCtrl
+/sitereview.asmx/GetReview
+053AFEBA-D968-435F-B557-19FF76372B1B
+N|00|a|00|v|00|C|00|o|00|m|00|U|00|I|00|.|00|A|00|x|00|S|00|y|00|s|00|L|00|i|00|s|00|t|00|V|00|i|00|e|00|w|00|3|00|2|00|
+/ans.pl?p=../../
+/notfound.php
+510A4910-7F1C-11CE-BE57-00AA0051FE20
+/notifyft
+dbms_repcat.refresh_mview_repgroup
+echo |22|+ +|22|
+|04 03 02 01|n|00 00 00|
+/pfdispaly.cgi
+/bigconf.cgi
+/filemail.pl
+/mdh/adcr2.aspx
+3BB56637-651D-4D1D-AFA4-C0506F57EAF8
+/etc/passwd
+|AB B4|+|F6 04 19 B8 9F CB|t|24|HpR|04 A6 8E|R|17 B1 7F 8A 1E|z|12 8C B8 0C|aVM|81 7C|0|AC|8|BA B5 EE 1A|B|9B|a*xe@|D1|q8|22|T|B7|.`|11 E0|iQ}|C7 CA C1 81 D9|i|B7 A4|C|BE|0|23|2X|9A DF 5C 3B|v|12 CC| |80 AD 7C|cT|19|.|AE|!|8E F8 84|R|F5|1n|D7 1B|8|E8 B0|<U1F|BE B7 16 8B 89 17|Z2|B0 ED|%ED|C4 07 8B B6 CF 92 B2 22|
+/statsconfig.pl
+WALLPAPER
+alert udp $EXTERNAL_NET any -> $HOME_NET 5093 (msg:
+/speedbar/mySpeedbarCfg2.jsp
+SmartCode.ViewerX
+,|3A|,j
+C|00|A|00|P|00|I|00|C|00|O|00|M|00|.|00|C|00|e|00|r|00|t|00|i|00|f|00|i|00|c|00|a|00|t|00|e|00|s|00|
+?|FE 83 1F|
+|F7|F|DA C4|D|22|A|AB E6 0D AA 10 17 A5 9F|=|90 B6|D7|AD F6 EE|UN|E5 17|rx|B7|v|E1 94 C7 8C|Q9y|A1 D9 C9|wL|E2 94|Q|7C 0F|6QA6|02|Y|D4 D2 B0 C9|k|C5|r|B9|m|81 DE|'|08 D8 DB 1B A4 99 AC EB 08 BD A7 24|G|8C BC 07 0D E5 06 7F|3|80 0A|T3|90|B|7F 0F|V|95|m|0D 16|g|0A|Y|CB CF 18 FF CB CA|Z|01|_|DE|Z52|0C|Y|CE|Y|1F|&|8C|W|B0 14|u|5C 88 B1 B0 EB C3|<|84 B4|h|D4|>|B8 1E 0F A6|~
+4|00|4|00|C|00|7|00|9|00|5|00|9|00|1|00|-|00|D|00|0|00|D|00|E|00|-|00|4|00|9|00|C|00|4|00|-|00|B|00|A|00|3|00|C|00|-|00|A|00|4|00|5|00|A|00|B|00|7|00|0|00|0|00|3|00|3|00|5|00|6|00|
+/ultraboard
+OwT4dgXDeVgnYHMODdBsTCbwmeciQpDLT1c3bLF1CDPoOT4eiUYEQgtW6Dyq/V0eWdlNFpXqMULp|0D 0A|QSWsmyBXNyoMu5xxWfoEcA/D8fxQV4hosCndivKbkCHoTCa6MLVnCwngBJFJlBHr7ka36Cpo/Mib
+BA726BF9-ED2F-461B-9447-CD5C7D66CE8D
+accept|3A|
+dbms_repcat.alter_master_propagation
+9|00|8|00|C|00|5|00|3|00|9|00|8|00|4|00|-|00|8|00|B|00|F|00|8|00|-|00|4|00|D|00|1|00|1|00|-|00|9|00|B|00|1|00|C|00|-|00|C|00|3|00|2|00|4|00|F|00|C|00|A|00|9|00|C|00|A|00|D|00|E|00|
+000Chat ouvert...
+XXXX%.172u%300|24|n
+xp_peekqueue
+/103/co.aspx?
+9 |D0 00 92 01 C2 00|R|00|U|00|9 |EC 00|
+CAPICOM.Certificates
+C|07 89|[|08 8D|K|08 89|C|0C B0 0B CD 80|1|C0 FE C0 CD 80 E8 94 FF FF FF|/bin/sh|0A|
+alert udp $EXTERNAL_NET any -> $HOME_NET 4569 (msg:
+E8F92847-7C21-452B-91A5-49D93AA18F30
+18A295DA-088E-42D1-BE31-5028D7F9B9B5
+File Name -~-
+alert udp $EXTERNAL_NET any -> $HOME_NET 41524 (msg:
+|23|+|0D 0A|
+ClassCDDBControl.CddbSegments
+sys.dbms_repcat_mas.do_deferred_repcat_admin
+/GWWEB.EXE
+47C6C527-6204-4F91-849D-66E234DEE015
+8E26BFC1-AFD6-11CF-BFFC-00AA003CFDFC
+JNILOADER.JNILoaderCtrl
+/error.php
+6|00|E|00|D|00|7|00|4|00|A|00|E|00|3|00|-|00|8|00|0|00|6|00|6|00|-|00|4|00|3|00|8|00|5|00|-|00|A|00|A|00|B|00|A|00|-|00|2|00|4|00|3|00|E|00|0|00|3|00|3|00|F|00|7|00|5|00|A|00|3|00|
+S|00|m|00|a|00|r|00|t|00|C|00|o|00|d|00|e|00|.|00|V|00|i|00|e|00|w|00|e|00|r|00|X|00|
+9|00|b|00|9|00|3|00|5|00|4|00|7|00|0|00|-|00|a|00|d|00|4|00|a|00|-|00|1|00|1|00|d|00|5|00|-|00|b|00|6|00|3|00|e|00|-|00|0|00|0|00|c|00|0|00|4|00|f|00|a|00|e|00|d|00|b|00|1|00|8|00|
+A|00|E|00|D|00|9|00|8|00|6|00|3|00|0|00|-|00|0|00|2|00|5|00|1|00|-|00|4|00|E|00|8|00|3|00|-|00|9|00|1|00|7|00|D|00|-|00|4|00|3|00|A|00|2|00|3|00|D|00|6|00|6|00|D|00|5|00|0|00|7|00|
+xp_showcolv
+Y|00|W|00|c|00|V|00|w|00|r|00|.|00|W|00|c|00|V|00|i|00|e|00|w|00|e|00|r|00|
+connect
+|00 00 00 00 00 00 09 01|
+|D7 CD C6 9A|
+/left_main.php
+/modules.php
+|FF|SMB
+Disinfect
+getclient
+FROM_TZ
+C0EF89EE-EEC7-4535-A041-F1EBF79560A7
+ftp.exe
+CFzisjUEyJsg4LLn9YPllwezsmCH/FoLDp8ttt5rlq2cy18Y2O3lemS1iy+B35D9veT2X3ys|0D 0A|6mupMisPtw82NJQBvU4U30nV3kdI4KNtHjiz9AUOmU+oQYcw9M3v9pJHb2MNmFxxkYvyqDWc
+ehlo cybercop|0A|quit|0A|
+760C4B83-E211-11D2-BF3E-00805FBE84A6
+/searchcat.jsp?
+/gozila.cgi
+dbms_repcat.comment_on_mview_repsites
+sys.dbms_repcat_conf.drop_update_resolution
+/printmail.cgi
+/phrase.php?
+4CECCEB2-8359-11D0-A34E-00AA00BDCDFD
+/cgi-bin/prorat.cgi
+all_views
+B|00|0|00|0|00|5|00|E|00|6|00|9|00|0|00|-|00|6|00|7|00|8|00|D|00|-|00|1|00|1|00|D|00|1|00|-|00|B|00|7|00|5|00|8|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|0|00|5|00|6|00|4|00|F|00|E|00|
+/installer?
+/web-map.cgi
+/UploadScript11.asp
+/admin_tpl_misc_new.php
+&raport
+/squirrelspell/modules/check_me.mod.php
+00020425-0000-0000-C000-000000000046
+RA Chat|00 00|
+|81 80 00 01 00 01 00 00 00 00|
+.html/......
+C|00|6|00|3|00|3|00|4|00|4|00|D|00|8|00|-|00|7|00|0|00|D|00|3|00|-|00|4|00|0|00|3|00|2|00|-|00|9|00|B|00|3|00|2|00|-|00|7|00|A|00|3|00|C|00|A|00|D|00|5|00|0|00|9|00|1|00|A|00|5|00|
+V|0E|1|C0 B0 3B 8D|~|12 89 F9 89 F9|
+f|00|o|00|r|00|m|00|a|00|t|00|m|00|e|00|s|00|s|00|a|00|g|00|e|00|
+alter database
+/bi/servlet/Thinstall
+servlet/.......
+inc|AC|
+N|00|M|00|S|00|A|00|.|00|S|00|e|00|s|00|s|00|i|00|o|00|n|00|D|00|e|00|s|00|c|00|r|00|i|00|p|00|t|00|i|00|o|00|n|00|
+not on system console
+|00 00 08|@
+dbms_offline_og.begin_flavor_change
+|01 00 00 00 01 00 00 00 08 08|
+|09 08|
+F72A7B0E-0DD8-11D1-BD6E-00AA00B92AF1
+/ncommerce3/ExecMacro/orderdspc.d2w
+/\.x[sm]l/Ui
+BarcodeWiz.BarcodeWiz
+.forward
+D0C07D56-7C69-43F1-B4A0-25F5A11FAB19
+F|00|9|00|3|00|5|00|D|00|C|00|2|00|2|00|-|00|1|00|C|00|F|00|0|00|-|00|1|00|1|00|D|00|0|00|-|00|A|00|D|00|B|00|9|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|D|00|5|00|8|00|A|00|0|00|B|00|
+/.DS_Store
+/a/Corr.sen?StubName=conscorr
+0EB0E74A-2A76-4AB3-A7FB-9BD8C29F7F75
+/chatheader.php
+/ping?query=
+alert tcp $EXTERNAL_NET any <> $HOME_NET 179 (msg:
+.htaccess
+/dlp_def/
+1B00725B-C455-4DE6-BFB6-AD540AD427CD
+sys.dbms_repcat_conf.add_priority_char
+Hello...
+sys.dbms_repcat_conf.register_statistics
+/album.pl
+C|00|4|00|6|00|C|00|1|00|B|00|D|00|2|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+3|00|B|00|4|00|6|00|0|00|6|00|7|00|C|00|-|00|F|00|D|00|8|00|7|00|-|00|4|00|9|00|B|00|6|00|-|00|8|00|D|00|D|00|D|00|-|00|1|00|2|00|F|00|0|00|D|00|6|00|8|00|7|00|0|00|3|00|5|00|F|00|
+username too long
+Object.Microsoft.DXTFilter
+real snuff
+/RealMedia/ads/adstream_sx.cgi/www.wbug.com/
+/textcounter.pl
+/db2www
+dbms_offline_og.end_flavor_change
+/pagelog.cgi
+myaccount/login.asp
+|AC|kC|3A 5C|
+/register.dll
+_private/shopping_cart.mdb
+201EA564-A6F6-11D1-811D-00C04FB6BD36
+/plugins/hpjdwm/script/test/setinfo.hts
+/admin/socks/bot/cmd.txt
+dbms_repcat_admin.register_user_repgroup
+aWNyb3NvZnQAQGF2cC4AACVzP3A9JWx1JmlkPSVzAGh0dHA6Ly93d3cuZWxyYXNzaG9wLmRl|0D 0A|LzEucGhwAGh0dHA6Ly93d3cuaXQtbXNjLmRlLzEucGhwAGh0dHA6Ly93d3cuZ2V0eW91cmZy
+/t.php?
+alert tcp $HOME_NET any -> [128.118.25.3,128.138.140.44,128.2.129.21,128.2.136.71,128.206.12.130,128.59.59.177,129.132.2.21,130.235.20.3,130.88.200.6,130.88.200.98,131.188.3.221,131.188.3.223,131.216.1.101,132.163.4.101,132.163.4.102,132.163.4.103,132.236.56.250,132.246.168.148] 37 (msg:
+|07|authors
+742D385A-D5BF-427D-9AF2-88258FB73EAF
+/.bash_history
+C|00|4|00|D|00|2|00|D|00|8|00|E|00|0|00|-|00|D|00|1|00|D|00|D|00|-|00|1|00|1|00|C|00|E|00|-|00|9|00|4|00|0|00|F|00|-|00|0|00|0|00|8|00|0|00|2|00|9|00|0|00|0|00|4|00|3|00|4|00|7|00|
+cmdping
+/xml/hithopper.xml
+6E449683-C509-11CF-AAFA-00AA00B6015C
+/sw/promo/index.php
+03CB9467-FD9D-42A8-82F9-8615B4223E6E
+g8QMhcB1Fv////+DffwCdA5qZP8VYHBAAEaD/gJ81jPAXsnD|0D 0A|i0QkDIHsKN5+97cBKlNVVos1bB1XM+1oABAQVccA7d9s7xYA/9ZQNWiL2DvdD4RWAhL2N7f2|0D 0A|ahFqAgEV
+sendsubject
+5B4B05EB-1F63-446B-AAD1-E10A34D650E0
+DXImageTransform.Microsoft.Gradient.1
+|05 01|
+/rpc-smb.pl
+CFADMIN_REGISTRY_GET|28 29|
+&first&
+8|00|B|00|2|00|1|00|7|00|7|00|5|00|2|00|-|00|7|00|1|00|7|00|D|00|-|00|1|00|1|00|C|00|E|00|-|00|A|00|B|00|5|00|B|00|-|00|D|00|4|00|1|00|2|00|0|00|3|00|C|00|1|00|0|00|0|00|0|00|0|00|
+B0406343-B0C5-11d0-89A9-00A0C9054129
+login|3A|
+BlnMgrPs.BlnSetUserPs.11
+Version_Mapper
+|FA CB D9 D9 E5 E1 D6|
+|EB|K[S2|E4 83 C3 0B|K|88 23 B8|Pw
+L|00|E|00|A|00|D|00|I|00|s|00|i|00|s|00|.|00|L|00|E|00|A|00|D|00|I|00|s|00|i|00|s|00|
+|03|create
+|05 00|
+19B7F2D6-1610-11D3-BF30-1AF820524153
+i4wMwBVUFghDQkCCEgAH0PRKH5o+uIAAF5sAAAAwgAAJgAAVee+
+D|00|4|00|5|00|F|00|D|00|3|00|1|00|B|00|-|00|5|00|C|00|6|00|E|00|-|00|1|00|1|00|D|00|1|00|-|00|9|00|E|00|C|00|1|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|D|00|7|00|0|00|8|00|1|00|F|00|
+44C79591-D0DE-49C4-BA3C-A45AB7003356
+sys.dbms_repcat_sna_utl.register_snapshot_repgroup
+/philboard_admin.asp
+recolorinfo
+233A9694-667E-11d1-9DFB-006097D50408
+LjI2BDAAorXCxzNJTUVPLDRQ04B9WAN1VEJ5QE1mwWlkOx4gVjm42kp3LOx0Ni1UeepAb S3soFBE|0D 0A|2eN0L/d4UADTtkc7IQkKO a/NWrhyPSJSInMFcbG2vdotVqfZNTFPGIKG5hzoQwecasmOtdZACjEX
+208DD6A3-E12B-4755-9607-2E39EF84CFC5
+|19 00 C8 00 01 00|
+/mtc/yahoo/search.php?
+C|00|C|00|4|00|5|00|B|00|0|00|B|00|0|00|-|00|7|00|2|00|D|00|8|00|-|00|4|00|6|00|5|00|2|00|-|00|A|00|E|00|5|00|F|00|-|00|5|00|E|00|3|00|E|00|2|00|6|00|6|00|B|00|E|00|7|00|E|00|D|00|
+/cvsview2.cgi
+TriEditDocument.TriEditDocument
+/v70click.cgi?
+/GR_check_site.html
+HTTP/1.1|0A|Content-type|3A| text/xml|0A|HOST|3A|
+/whitepages/page_me/1,,,00.html
+/^[^\x00]{1000}/m
+@PJL RDYMSG DISPLAY =
+|C2 C5 CD C4 FD F9 FF 86 E4 9A F8 FF E5 9B 98 E5 FC E1 FD A9 FC C2 C5 99 C0 A9|
+SizeIs|AC|
+Content-Type|3A| text/css
+filename*=utf-8
+/desktop/
+/visadmin.exe
+/edit_action.cgi
+1|00|5|00|6|00|B|00|F|00|4|00|B|00|7|00|-|00|A|00|E|00|3|00|A|00|-|00|4|00|3|00|6|00|5|00|-|00|B|00|D|00|8|00|8|00|-|00|9|00|5|00|A|00|7|00|5|00|A|00|F|00|8|00|F|00|0|00|9|00|D|00|
+window.navigator
+sys.dbms_repcat_conf.drop_priority_nchar
+|00 00 00 00 00 00 00 00 00 00 00 00 08 09 0A 0B|
+/sdbsearch.cgi
+5|00|B|00|4|00|B|00|0|00|5|00|E|00|B|00|-|00|1|00|F|00|6|00|3|00|-|00|4|00|4|00|6|00|B|00|-|00|A|00|A|00|D|00|1|00|-|00|E|00|1|00|0|00|A|00|3|00|4|00|D|00|6|00|5|00|0|00|E|00|0|00|
+60664CAF-AF0D-0004-A300-5C7D25FF22A0
+MM|00|*
+dbms_repcat.register_mview_repgroup
+V|00|i|00|e|00|L|00|i|00|b|00|2|00|.|00|V|00|i|00|e|00|2|00|P|00|r|00|o|00|c|00|e|00|s|00|s|00|
+24F3EAD6-8B87-4C1A-97DA-71C126BDA08F
+C|00|4|00|6|00|C|00|1|00|B|00|F|00|0|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+/Webnews.exe
+sndmsg|5C|
+JfzwQACLwP8lnPFAAIvA/yWY8UAAi8D/JZTxQACLwP8lkPFAAIvA/yWM8UAAi8D/JYjxQACLwFOD|0D 0A|xLy7CgAAAFToYf////ZEJCwBdAUPt1wkMIvDg8REW8OLwP8l+PBAAIvA/yX08EAAi8D/JfDwQACL
+/request/req.cgi?
+charset = |22 22|
+/login.aspx
+/cfdocs/expeval/displayopenedfile.cfm
+dbms_repcat_instantiate.drop_site_instantiation
+dbms_repcat.add_priority_date
+/poll_ssi.php
+D|00|i|00|r|00|e|00|c|00|t|00|S|00|R|00|.|00|D|00|i|00|r|00|e|00|c|00|t|00|S|00|R|00|
+dbms_repcat.alter_priority
+User-Agent|3A| Webtrends Security Analyzer|0D 0A|
+17E3A1C3-EA8A-4970-AF29-7F54610B1D4C
+/simplesearch/update.asp
+sys.dbms_repcat_utl4.drop_master_repobject
+/zml.cgi
+whois|3A|//
+sys.dbms_internal_repcat.disable_receiver_trace
+SEND|7C|
+/search.php?Keywords=
+/cgiforum.pl
+B6FFC24C-7E13-11D0-9B47-00C04FC2F51D
+72770C4F-967D-4517-982B-92D6B9015649
+sys.dbms_repcat_fla.validate_flavor_definition
+6BF52A52-394A-11D3-B153-00C04F79FAA6
+/webcart-lite/
+sys.dbms_repcat_fla_mas.add_columns_to_flavor
+sys.dbms_repcat_sna_utl.refresh_snapshot_repgroup
+alert tcp $EXTERNAL_NET any -> $HOME_NET any (msg:
+Host|3A| aimexpress.aol.com
+O|00|W|00|C|00|1|00|1|00|.|00|D|00|a|00|t|00|a|00|S|00|o|00|u|00|r|00|c|00|e|00|C|00|o|00|n|00|t|00|r|00|o|00|l|00|
+Content-Disposition|3A|
+A|00|E|00|C|00|F|00|5|00|D|00|2|00|E|00|-|00|7|00|A|00|1|00|8|00|-|00|4|00|D|00|D|00|2|00|-|00|B|00|D|00|C|00|D|00|-|00|2|00|9|00|B|00|6|00|F|00|6|00|1|00|5|00|B|00|4|00|4|00|8|00|
+sys.dbms_repcat_sna.create_snapshot_repgroup
+sys.pbsde.init
+dbms_repcat.generate_mview_support
+/webplus?about
+C46C1BDE-3C52-11D0-9200-848C1D000000
+%%DocumentMedia|3A|
+DirectAnimation.DABbox3.1
+<STREAMQUOTE>
+{|05 00 00|
+/sacc/popup.php
+Bad command or filename
+/_vti_bin/.dll/
+/ComGetLogFile.php3
+NUCLEAR-NOTIFY
+/StoreCSVS/InstantOrder.asmx
+Product Name
+/exchange/root.asp?acs=anon
+|01 00 00 02|WordUP
+D|00|4|00|5|00|F|00|D|00|3|00|1|00|E|00|-|00|5|00|C|00|6|00|E|00|-|00|1|00|1|00|D|00|1|00|-|00|9|00|E|00|C|00|1|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|D|00|7|00|0|00|8|00|1|00|F|00|
+?EditDocument
+6|00|9|00|A|00|D|00|9|00|0|00|E|00|F|00|-|00|1|00|C|00|2|00|0|00|-|00|1|00|1|00|D|00|1|00|-|00|8|00|8|00|0|00|1|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|C|00|2|00|9|00|D|00|4|00|6|00|
+--use-compress-program
+2C10A98F-D64F-43B4-BED6-DD0E1BF2074C
+/cgi-bin/lzRedirect.cgi
+/dnewsweb.cgi
+mhtml|3A|//
+/cal_make.pl
+x|00|p|00|_|00|S|00|e|00|t|00|S|00|Q|00|L|00|S|00|e|00|c|00|u|00|r|00|i|00|t|00|y|00|
+/home/www
+alert udp $EXTERNAL_NET any -> $HOME_NET 5060 (msg:
+|EB|0^|FC AD 93 AD 8D 1C 18 AD 8D 14 18 87 D1|VZ|01 1E AD E2 FB|V|8B 02|
+?wp-verify-link
+4|00|1|00|2|00|6|00|6|00|C|00|2|00|1|00|-|00|1|00|8|00|D|00|8|00|-|00|4|00|1|00|4|00|B|00|-|00|8|00|8|00|C|00|0|00|-|00|8|00|D|00|C|00|A|00|6|00|C|00|2|00|5|00|C|00|E|00|A|00|0|00|
+enableklog
+09C282FE-7DE7-4697-9BE2-1C4F4DA825B3
+/abho/autosrch.abs
+/admin.php3
+/cfide/administrator/startstop.html
+/awstats.pl?
+/philboard.mdb
+E|00|F|00|1|00|0|00|5|00|B|00|C|00|3|00|-|00|C|00|0|00|6|00|4|00|-|00|4|00|5|00|F|00|1|00|-|00|A|00|D|00|5|00|3|00|-|00|6|00|D|00|8|00|A|00|8|00|5|00|7|00|8|00|D|00|0|00|1|00|B|00|
+D4A97620-8E8F-11CF-93CD-00AA00C08FDF
+D670D0B3-05AB-4115-9F87-D983EF1AC747
+Attached
+/mySpeedbarConfig.jsp?
+|B4| |B4|!|8B CC 83 E9 04 8B 19|3|C9|f|B9 10|
+/input2.bat
+Username|3A|
+/searchbar/
+0|00|6|00|2|00|9|00|0|00|B|00|D|00|5|00|-|00|4|00|8|00|A|00|A|00|-|00|1|00|1|00|D|00|2|00|-|00|8|00|4|00|3|00|2|00|-|00|0|00|0|00|6|00|0|00|0|00|8|00|C|00|3|00|F|00|B|00|F|00|C|00|
+DXImageTransform.Microsoft.MMSpecialEffect2Inputs
+Y|00|a|00|h|00|o|00|o|00|.|00|A|00|u|00|d|00|i|00|o|00|C|00|o|00|n|00|f|00|
+/newuser
+/download/toolbar/dnserror.php?
+sys.dbms_repcat_mas.comment_on_repobject
+new_rights=admin
+7|00|7|00|8|00|2|00|9|00|F|00|1|00|4|00|-|00|D|00|9|00|1|00|1|00|-|00|4|00|0|00|F|00|F|00|-|00|A|00|2|00|F|00|0|00|-|00|D|00|1|00|1|00|D|00|B|00|8|00|D|00|6|00|D|00|0|00|B|00|C|00|
+/data/startup.txt
+0|00|0|00|1|00|4|00|0|00|B|00|3|00|0|00|-|00|B|00|1|00|B|00|A|00|-|00|1|00|1|00|C|00|E|00|-|00|A|00|B|00|C|00|6|00|-|00|F|00|5|00|B|00|2|00|E|00|7|00|9|00|D|00|9|00|E|00|3|00|F|00|
+/level/
+F1029E5B-CB5B-11D0-8D59-00C04FD91AC0
+C|00|4|00|6|00|C|00|1|00|B|00|E|00|E|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+newgroup
+GCR CHECKSUMS<
+E|00|8|00|C|00|3|00|1|00|D|00|1|00|1|00|-|00|6|00|F|00|D|00|2|00|-|00|4|00|6|00|5|00|9|00|-|00|A|00|D|00|7|00|5|00|-|00|1|00|5|00|5|00|F|00|A|00|1|00|4|00|3|00|F|00|4|00|2|00|B|00|
+sys.dbms_system.ksdwrt
+LoadTestPassword|3A|
+verifyPASS
+CCCCCCC|3A| AAAAAAAAAAAAAAAAAAA
+|03 E8|
+4|00|7|00|F|00|5|00|9|00|2|00|0|00|0|00|-|00|8|00|7|00|8|00|3|00|-|00|1|00|1|00|D|00|2|00|-|00|8|00|3|00|4|00|3|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|4|00|5|00|A|00|8|00|1|00|9|00|
+|00 00 FC|
+f+xt2OHdR5d|0A|oYEgACjEdRRHXvYmP9iDPXUL7TXuZkm+6wfHeTAGsEn3sfxyGYt9/GE5yHe7tcZ/Hhj4ORt835ps|0A|Mx+zk+UMO/RnXp7d+QBQQEz4gFL098fbv+3/G3
+JavaWebStart.isInstalled
+MESSAGE +
+/day5datacopier.cgi
+/smssend.php
+/test.cgi
+/dm/demarc
+ADODB.Connection.2.7
+C|00|6|00|A|00|9|00|6|00|E|00|8|00|3|00|-|00|F|00|5|00|A|00|F|00|-|00|4|00|B|00|D|00|4|00|-|00|9|00|B|00|D|00|D|00|-|00|7|00|B|00|1|00|8|00|4|00|4|00|4|00|F|00|8|00|1|00|4|00|F|00|
+0006F023-0000-0000-C000-000000000046
+A|00|C|00|T|00|I|00|V|00|E|00|G|00|S|00|.|00|A|00|c|00|t|00|i|00|v|00|e|00|G|00|S|00|C|00|t|00|r|00|l|00|
+59DBDDA6-9A80-42A4-B824-9BC50CC172F5
+53C74826-AB99-4D33-ACA4-3117F51D3788
+/globals.jsa
+tstisapi.dll
+x|00|p|00|_|00|o|00|a|00|m|00|e|00|t|00|h|00|o|00|d|00|
+/get32.exe
+CFUSION_GETODBCINI|28 29|
+8|00|5|00|A|00|4|00|A|00|9|00|9|00|C|00|-|00|8|00|C|00|3|00|D|00|-|00|4|00|9|00|9|00|E|00|-|00|A|00|3|00|8|00|6|00|-|00|E|00|0|00|7|00|4|00|3|00|D|00|F|00|F|00|8|00|F|00|B|00|7|00|
+getinfo
+mailto|3A|ops@digisle.com
+SendChannelData
+dbms_offline_og.resume_subset_of_masters
+/index-tf.php
+jedi request
+844F4806-E8A8-11D2-9652-00C04FC30871
+secure_site, ok
+dbms_repcat.drop_site_priority_site
+/members.php?
+sys.dbms_repcat_sna.repcat_import_check
+[zxconfig]
+CFUSION_SETODBCINI|28 29|
+/nph-maillist.pl
+/www-sql
+|80 07 00 00 07 00 00 04 00 00 00 00 00|
+9CDE7341-3C20-11D0-A330-00AA00B92C03
+|00 00 00|R
+/archie
+/issamples/query.asp
+xp_regdeletekey
+Detonate
+C|00|A|00|8|00|A|00|9|00|7|00|8|00|0|00|-|00|2|00|8|00|0|00|D|00|-|00|1|00|1|00|C|00|F|00|-|00|A|00|2|00|4|00|D|00|-|00|4|00|4|00|4|00|5|00|5|00|3|00|5|00|4|00|0|00|0|00|0|00|0|00|
+/version/stationripper-getver
+/webfind.exe
+/freeIPaddrs.ovpl
+/bdir.htr
+/ROADS/cgi-bin/search.pl
+100|8D|
+/view_source
+/cgi-bin/cs.exe
+/cgi-bin/ads9.dll?
+dbms_repcat.alter_priority_number
+/pages/scanner/order.php
+/?action=post
+D|00|A|00|5|00|6|00|F|00|8|00|5|00|1|00|-|00|D|00|3|00|C|00|5|00|-|00|1|00|1|00|D|00|3|00|-|00|8|00|4|00|4|00|C|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|7|00|A|00|0|00|6|00|E|00|5|00|
+dbms_repcat.add_object_to_flavor
+/cfdocs/snippets/
+/autohtml.php
+rxrLogin
+|0D 0A|
+/HTTP/1.
+ttTransferring
+0|00|0|00|0|00|6|00|F|00|0|00|3|00|A|00|-|00|0|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|-|00|C|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|4|00|6|00|
+OWC11.DataSourceControl
+YMMAPI.YMailAttach
+/IntermixWO/Redirect/HelpRedirect.asp?
+forum_details.php
+nude cheerleader
+C|00|4|00|6|00|C|00|1|00|B|00|D|00|A|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+/admisapi/fpadmin.htm
+Subject|3A| Re[2]
+0006F071-0000-0000-C000-000000000046
+Content-Transfer-Encoding|3A|
+/cs/cs.aspx?
+/setpasswd.cgi
+clsid|3A|
+Cookie|3A|
+6|00|E|00|3|00|1|00|9|00|7|00|A|00|3|00|-|00|B|00|B|00|C|00|3|00|-|00|1|00|1|00|D|00|4|00|-|00|8|00|4|00|C|00|0|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|7|00|A|00|0|00|6|00|E|00|5|00|
+dbms_repcat.add_unique_resolution
+/home/ftp
+i4wMwBVUFghDQkCCHAOKRNyQeuyBeMAAHBsAAAAwgAAJgAA7/dT
+DirectAnimation.DAColor.1
+sys.dbms_repcat_conf.drop_priority_varchar2
+/scripts/iisadmin/ism.dll?http/dir
+GRInstallCL.asp
+dbms_repcat.alter_priority_raw
+*HELLO*
+Connected.
+/calendar_admin.pl
+/cached_feed.cgi
+_WinSession
+/fast-cgi/bsc?
+From|3A D0 C5 CF A2|
+/exair/search/
+|01 0A 02|
+Extended module|3A|
+GCR NETWORK<
+/alienform.cgi
+/downloads/toolbar/ticker.xml
+24E0CD64-A8DE-4BE4-9706-4CFC89D212C9
+/showphoto.php
+/cfdocs/expeval/
+4|00|2|00|B|00|A|00|8|00|2|00|6|00|E|00|-|00|F|00|8|00|D|00|8|00|-|00|4|00|D|00|8|00|D|00|-|00|8|00|C|00|0|00|5|00|-|00|1|00|4|00|A|00|B|00|C|00|E|00|0|00|0|00|D|00|4|00|D|00|D|00|
+|FA F9 00 10|
+shtml.dll
+sys.dbms_rectifier_diff.rectify
+6E22710F-F799-11CF-9227-00AA00A1EB95
+|AB CD 09 80 00 00 00 01 00 00 00 00 00 00 01 00 01|    |02|a
+javascript|3A|//
+D27CDB6E-AE6D-11CF-96B8-444553540000
+DIST00000001
+Computer
+/web/search.php
+NeoTraceExplorer.NeoTraceLoader
+/scripts/samples/details.idc
+dbms_repcat.register_statistics
+D|00|X|00|I|00|m|00|a|00|g|00|e|00|T|00|r|00|a|00|n|00|s|00|f|00|o|00|r|00|m|00|.|00|M|00|i|00|c|00|r|00|o|00|s|00|o|00|f|00|t|00|.|00|C|00|h|00|r|00|o|00|m|00|a|00|
+Data|00 00 00 00 00 00 00 00 00 00 00 00|
+/faqmanager.cgi
+ercbroker.servlets.PingServlet
+/cfdocs/exampleapp/publish/admin/addcontent.cfm
+|05 00 00 00|1|00 01 00 01 FD 12 00|
+dbms_export_extension
+pass -cklaus
+|5C 00 5C 00|*|00|S|00|M|00|B|00|S|00|E|00|R|00|V|00|E|00|R|00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 FF FF FF FF 00 00 00 00|
+dbms_offline_snapshot.begin_load
+|0B 00 00 00 05 00 00 00|OK|00|
+|00 01 87 99|
+forum/index.php
+/PRN/../../
+8B217746-717D-11CE-AB5B-D41203C10000
+/biztalkhttpreceive.dll
+BD80D375-5439-4D80-B128-DDA5FDC3AE6C
+0|00|0|00|0|00|2|00|E|00|5|00|5|00|2|00|-|00|0|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|-|00|C|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|4|00|6|00|
+ref%3Cscript%20language%3D%22Javascript
+/advers/zl/version.txt
+13FA0C3E-6B1C-4D8B-88CD-6DA8E1CA7653
+Yahoo.AudioConf
+sys.dbms_repcat_fla_mas.drop_column_group_from_flavor
+Connected to
+sys.dbms_repcat_mas.resume_master_activity
+7|00|2|00|6|00|1|00|E|00|E|00|4|00|2|00|-|00|3|00|1|00|8|00|E|00|-|00|4|00|9|00|0|00|A|00|-|00|A|00|E|00|8|00|F|00|-|00|7|00|7|00|6|00|4|00|9|00|D|00|B|00|A|00|1|00|E|00|C|00|A|00|
+/searchweb.aspx?
+/post32.exe|7C|
+alert ip $EXTERNAL_NET any -> $HOME_NET any (msg:
+/emumail.fcgi
+/apps/eps/eps.cgi?
+/log/log.cgi?
+gstsearch
+/wwwwais
+Zacc/sWcQrpGNGbPzJedST7hJMXZJVKNy7LLBP2V90UwX7IHSyhFxPPTlRpdlJtxYLAU3s+E|0D 0A|ekcFyTLIwRYHVjWm16JZXIxAhQROCT/c+L5SU8juIBBaGTg21xUr52qxnAfzmZdzLksQUE+0
+/trackedevent.aspx?
+|01 01|
+mdsys.sdo_admin.sdo_code_size
+/isqlplus
+/axs.cgi
+dGpuby9meWYAT1VUTE9PSy5FWEVOZXRDYXB0b3IuZXhlbWlyYzMyLmV4ZWFpbS5leGVZcGFnZXIu|0D 0A|ZXhlAHV2anNidWRpYm9kdnBkZXBqb2J6QXpiaXBwL2RwbgBOUUhfTE9WRQBsb3ZlX2xvcm5AeWFo|0D 0A|b28uY29tAE5RSF9MT1ZFTE9STgB0aHV5cXV5ZW5AeWFob28uY29tAE5RSABsb3ZlbG9ybkB5YWhv
+Max-Forwards|3A|
+127698E4-E730-4E5C-A2B1-21490A70C8A1
+backdoor
+/updates/check_img.php?
+|88 04|
+B|00|4|00|B|00|3|00|A|00|E|00|C|00|B|00|-|00|D|00|F|00|D|00|6|00|-|00|1|00|1|00|D|00|1|00|-|00|9|00|D|00|A|00|A|00|-|00|0|00|0|00|8|00|0|00|5|00|F|00|8|00|5|00|C|00|F|00|E|00|3|00|
+/newsurfer4/
+/dnstools.php
+!|00 00 00|&|01 01 00 01|KA
+dbms_repcat.execute_ddl
+/GetAd/
+/glimpse
+/ieb/res/topres.xsl
+/newsurfer4/getgateway.asp?
+A|00|B|00|a|00|r|00|C|00|o|00|d|00|e|00|.|00|A|00|c|00|t|00|i|00|v|00|e|00|B|00|C|00|
+L|00|E|00|A|00|D|00|R|00|a|00|s|00|t|00|e|00|r|00|D|00|o|00|c|00|u|00|m|00|e|00|n|00|t|00|.|00|L|00|E|00|A|00|D|00|R|00|a|00|s|00|t|00|e|00|r|00|D|00|o|00|c|00|u|00|m|00|e|00|n|00|t|00|
+|EB|,[|89 D9 80 C1 06|9|D9 7C 07 80 01|
+79EAC9E5-BAF9-11CE-8C82-00AA004BA90B
+/103/getad.aspx?
+A|00|u|00|d|00|i|00|o|00|_|00|C|00|D|00|_|00|R|00|i|00|p|00|p|00|e|00|r|00|_|00|O|00|C|00|X|00|.|00|c|00|A|00|u|00|d|00|i|00|o|00|C|00|D|00|R|00|i|00|p|00|p|00|e|00|r|00|
+/dsgw/bin/search?context=
+|02 00 00 00 90|x
+GET / HTTP/1.1|0D 0A 0D 0A|
+action.php
+res|3A|//
+hardcore anal
+HgAAAAAAAAAAAAAAAAAAQAAA|0D 0A|wDEuMjIAVVBYIQwJAgkUTDlhQxNezL9kAACkGQAAIEAAACYAABn+//L/McBA|0D 0A|i0wkBPdBBAYAdA+LRCQIi1QkEIkCuAO5/3fvEMNTVlc
+/9899/srng/jrnl.php
+/bizdb1-search.cgi
+BackLash Server
+|01 03|
+|03 00 01|
+hello>WELCOMEwho do u want to phuk today>
+/SFNofitication.dll
+4|00|0|00|F|00|8|00|9|00|6|00|7|00|E|00|-|00|3|00|4|00|A|00|6|00|-|00|4|00|7|00|4|00|a|00|-|00|8|00|3|00|7|00|A|00|-|00|C|00|E|00|C|00|1|00|E|00|7|00|D|00|A|00|C|00|5|00|4|00|C|00|
+/^(\x03|\x04|\x05)/sm
+/cbb/frame.asp?
+TENmanUFactOryPOWER
+4|00|E|00|A|00|7|00|C|00|4|00|C|00|5|00|-|00|C|00|5|00|C|00|0|00|-|00|4|00|F|00|5|00|C|00|-|00|A|00|0|00|0|00|8|00|-|00|8|00|2|00|9|00|3|00|5|00|0|00|5|00|F|00|7|00|1|00|C|00|C|00|
+sys.dbms_repcat_fla.add_object_to_flavor
+/get-update.php
+4EA7C4C5-C5C0-4F5C-A008-8293505F71CC
+51B4ABF3-748F-4E3B-A276-C828330E926A
+|01 02|
+|FF FF FF|/BIN/SH|00|
+|03 00 00|
+i|00|d|00|a|00|i|00|e|00|h|00|l|00|p|00|.|00|I|00|D|00|A|00|I|00|E|00|H|00|e|00|l|00|p|00|e|00|r|00|
+C|00|C|00|7|00|B|00|F|00|B|00|4|00|2|00|-|00|F|00|1|00|7|00|5|00|-|00|1|00|1|00|D|00|1|00|-|00|A|00|3|00|9|00|2|00|-|00|0|00|0|00|E|00|0|00|2|00|9|00|1|00|F|00|3|00|9|00|5|00|9|00|
+/cfdocs/snippets/gettempdirectory.cfm
+jabber|3A|client
+2|00|5|00|B|00|0|00|F|00|9|00|1|00|C|00|-|00|D|00|2|00|3|00|D|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|B|00|8|00|5|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|C|00|2|00|F|00|5|00|1|00|D|00|
+dbms_repcat.begin_flavor_definition
+|08|!|02 80 08|!|02 80 08|!|02 80 08|!|02 80|
+dbms_repcat.rename_shadow_column_group
+/buy.dhtml
+/publisher/search.cgi
+ieframe.dll/navcancl.htm|23|
+/e.aspx
+/ping.asp
+18A295DA-088E-42D1-BE31-5028D7F9B965
+AxKLProd60.KAV60Info
+353359C1-39E1-491b-9951-464FD8AB071C
+C46C1BD0-3C52-11D0-9200-848C1D000000
+connect_data
+/cgi/logurl.cgi
+|90 90 90 E8 C0 FF FF FF|/bin/sh
+sys.dbms_repcat_conf.comment_on_unique_resolution
+/w3-msql/
+alert tcp $EXTERNAL_NET any -> $HOME_NET 162 (msg:
+598EBA02-B49A-11D2-A1C1-00609778EA66
+@|11 00 00 00 00 00 00 1C 00 00 00 10 00 03 00 00 00 01 00 02 00|
+DirectAnimation.DAArray.1
+/en/admin/aggregate.asp
+s|00|p|00|_|00|o|00|a|00|c|00|r|00|e|00|a|00|t|00|e|00|
+|00 00 00 00|8|03|A
+/count.cgi?clickspring
+subscribe
+/copilot/copilotcfg.jsp?
+6CBE0382-A879-4D2A-8EC3-1F2A43611BA8
+/top100
+sys.dbms_repcat_conf.alter_priority_nchar
+|AB 86 01 00 12 00 00 00|
+C|00|4|00|6|00|C|00|1|00|B|00|C|00|A|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+0002E520-0000-0000-C000-000000000046
+u|00|n|00|e|00|s|00|c|00|a|00|p|00|e|00|
+dbms_repcat.comment_on_update_resolution
+ctx_output.start_log
+/dns/?url=
+E|00|1|00|8|00|8|00|F|00|7|00|A|00|3|00|-|00|A|00|0|00|4|00|E|00|-|00|4|00|1|00|3|00|E|00|-|00|9|00|9|00|D|00|1|00|-|00|D|00|7|00|9|00|A|00|4|00|5|00|F|00|7|00|0|00|3|00|0|00|5|00|
+delete|7C|
+alert udp $EXTERNAL_NET any -> $HOME_NET 123 (msg:
+servlet
+Exploiter
+4|00|3|00|8|00|D|00|A|00|5|00|E|00|0|00|-|00|F|00|1|00|7|00|1|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|8|00|4|00|E|00|-|00|0|00|0|00|0|00|0|00|F|00|8|00|0|00|2|00|7|00|0|00|F|00|8|00|
+/tst.bat
+/supp_membre.php
+DCE2F8B1-A520-11D4-8FD0-00D0B7730277
+5|00|4|00|B|00|D|00|E|00|6|00|E|00|C|00|-|00|F|00|4|00|2|00|F|00|-|00|4|00|5|00|0|00|0|00|-|00|A|00|C|00|4|00|6|00|-|00|9|00|0|00|5|00|1|00|7|00|7|00|4|00|4|00|4|00|3|00|0|00|0|00|
+/cfdocs/snippets/viewexample.cfm
+/wwwadmin.pl
+/info2www
+/(0x[0-9a-f]+|0[0-8]+|[1-9]\d*)\s+\S{157}|(0x[0-9a-f]+|0[0-8]+|[1-9]\d*)\s+\S+\s+\S{125}|(0x[0-9a-f]+|0[0-8]+|[1-9]\d*)\s+\S+\s+\S+\s+\S{1025}|(0x[ 0-9a-f]+|0[0-8]+|[1-9]\d*)\s+\S+\s+\S+\s+\S+\s+\S{117}|(0x[0-9a-f]+|0[0-8]+|[1-9]\d*)\s+\S+\s+\S+\s+\S+\s+\S+\s+\S{37}/i
+dbms_repcat_rgt.instantiate_online
+083863F1-70DE-11d0-BD40-00A0C911CE86
+Schwindler
+x|00|p|00|_|00|o|00|a|00|s|00|e|00|t|00|p|00|r|00|o|00|p|00|e|00|r|00|t|00|y|00|
+Expires|3A|
+8422DAE7-9929-11CF-B8D3-004033373DA8
+7|00|9|00|E|00|A|00|C|00|9|00|E|00|5|00|-|00|B|00|A|00|F|00|9|00|-|00|1|00|1|00|C|00|E|00|-|00|8|00|C|00|8|00|2|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|4|00|B|00|A|00|9|00|0|00|B|00|
+Contact|3A|
+BOWebAgent.Webagent.1
+Authorization|3A| Negotiate YIQAAABiBoMAAAYrBgEFBQKgggBTMIFQoA4wDAYKKwYBBAGCNwICCqM
+CURDIR|0D|
+/backoffice.net/stats/Add.aspx
+GNUTELLA
+/search.php?q=
+L'esclave
+/admin_embed.php
+3|00|1|00|0|00|8|00|7|00|2|00|7|00|0|00|-|00|D|00|3|00|4|00|8|00|-|00|4|00|3|00|2|00|C|00|-|00|8|00|9|00|9|00|E|00|-|00|2|00|D|00|2|00|F|00|3|00|8|00|F|00|F|00|2|00|9|00|A|00|0|00|
+/logs7.asp
+4|00|2|00|B|00|0|00|7|00|B|00|2|00|8|00|-|00|2|00|2|00|8|00|0|00|-|00|4|00|9|00|3|00|7|00|-|00|B|00|0|00|3|00|5|00|-|00|0|00|2|00|9|00|3|00|F|00|B|00|8|00|1|00|2|00|7|00|8|00|1|00|
+/ssoft/softadmin.php
+|BC C6 CB E3 BB FA C3 FB A3 BA|
+/register.cgi
+3|00|D|00|D|00|5|00|3|00|D|00|4|00|0|00|-|00|7|00|B|00|8|00|B|00|-|00|1|00|1|00|D|00|0|00|-|00|B|00|0|00|1|00|3|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|5|00|9|00|C|00|E|00|0|00|2|00|
+P|00|B|00|E|00|m|00|a|00|i|00|l|00|7|00|.|00|E|00|m|00|a|00|i|00|l|00|S|00|e|00|n|00|d|00|e|00|r|00|
+sys.dbms_repcat_conf.add_update_resolution
+6|00|2|00|3|00|E|00|2|00|8|00|8|00|2|00|-|00|F|00|C|00|0|00|E|00|-|00|1|00|1|00|D|00|1|00|-|00|9|00|A|00|7|00|7|00|-|00|0|00|0|00|0|00|0|00|F|00|8|00|7|00|5|00|6|00|A|00|1|00|0|00|
+Shell.Users.1
+/samples/isapi/srch.htm
+0UMVleLfQgz|0D 0A|0jPJM/aAPwB0KVNqAVsr34ldCIr3/+3/H4D7LnUMiAwCi1UgyQPX6wWIXAYBQUZHJ/v/bXd1|0D 0A|4VsYgGQPAI1GAV9eXcOLRCQIU0xv/3+7fCQQTYH6AAgAAH06D7YIhc
+i4wMwBVUFghDQkCCEgAH0PRKH5o+uIAAF5sAAAAwgAAJgAAVW0u
+/10023rel/landing.php
+4|00|2|00|1|00|5|00|1|00|6|00|C|00|1|00|-|00|3|00|C|00|F|00|8|00|-|00|1|00|1|00|D|00|2|00|-|00|9|00|5|00|2|00|A|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|A|00|3|00|4|00|F|00|0|00|5|00|
+/store/agora.cgi?cart_id=<SCRIPT>
+dbms_repcat.abort_flavor_definition
+STARTTLS
+9|00|F|00|6|00|2|00|7|00|9|00|7|00|E|00|-|00|1|00|2|00|4|00|9|00|-|00|4|00|5|00|9|00|6|00|-|00|9|00|F|00|F|00|7|00|-|00|A|00|C|00|6|00|D|00|8|00|5|00|1|00|A|00|5|00|4|00|2|00|A|00|
+/cfdocs/snippets/evaluate.cfm
+9|00|C|00|D|00|E|00|7|00|3|00|4|00|1|00|-|00|3|00|C|00|2|00|0|00|-|00|1|00|1|00|D|00|0|00|-|00|A|00|3|00|3|00|0|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|B|00|9|00|2|00|C|00|0|00|3|00|
+sys.dbms_repcat_auth.grant_surrogate_repcat
+A|00|0|00|9|00|A|00|E|00|6|00|8|00|F|00|-|00|B|00|1|00|4|00|D|00|-|00|4|00|3|00|E|00|D|00|-|00|B|00|7|00|1|00|3|00|-|00|B|00|A|00|4|00|1|00|3|00|F|00|0|00|3|00|4|00|9|00|0|00|4|00|
+target=
+sys.dbms_repcat_mas.drop_master_repgroup
+/\x3c[^\x3e]*style=[^\x3e]*csstext\x3a.*\x3e/i
+|1B|[2J|0D 0A|
+O|FF FB 82|O|FF FB 82|O|FF FB 82|O|FF FB 82|
+2|00|F|00|5|00|4|00|2|00|A|00|2|00|E|00|-|00|E|00|D|00|C|00|9|00|-|00|4|00|B|00|F|00|7|00|-|00|8|00|C|00|B|00|1|00|-|00|8|00|7|00|C|00|9|00|9|00|1|00|9|00|F|00|7|00|F|00|9|00|3|00|
+F|15 1D|
+0C3874AA-AB39-4B5E-A768-45F3CE6C6819
+/WEB-INF
+NavComUI.AxSysListView32
+|00 01 86 AB|
+40F8967E-34A6-474a-837A-CEC1E7DAC54C
+|00 02 00|
+/maillist.pl
+Password|3A|
+AExhWABYYUwAWGFMAE5ld19GYW1vdVNfR2lyTHMAQS5TLk4uAFNNVFA6VGhlX0hhbmdlZEBqYXp6|0D 0A|ZnJlZS5jb20AU01UUDpUaGVfSGFuZ2VkQGhvdG1haWwuY29tAFNleF9TcGFtXyxfRXhjdXNFX01l
+9|00|F|00|8|00|E|00|6|00|4|00|2|00|1|00|-|00|3|00|D|00|9|00|B|00|-|00|1|00|1|00|D|00|2|00|-|00|9|00|5|00|2|00|A|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|A|00|3|00|4|00|F|00|0|00|5|00|
+/_vti_bin/_vti_aut/author.exe
+xp_sqlagent_monitor
+L|00|E|00|A|00|D|00|R|00|a|00|s|00|t|00|e|00|r|00|V|00|a|00|r|00|i|00|a|00|n|00|t|00|.|00|L|00|E|00|A|00|D|00|R|00|a|00|s|00|t|00|e|00|r|00|V|00|a|00|r|00|i|00|a|00|n|00|t|00|
+sys.dbms_repcat_sna_utl.alter_snapshot_propagation
+/prod/C2mediapops/pop3.asp?
+all_constraints
+sys.dbms_repcat_sna_utl.create_snapshot_repgroup
+F|00|B|00|E|00|B|00|8|00|A|00|0|00|5|00|-|00|B|00|E|00|E|00|E|00|-|00|4|00|4|00|4|00|2|00|-|00|8|00|0|00|4|00|E|00|-|00|4|00|0|00|9|00|D|00|6|00|C|00|4|00|5|00|1|00|5|00|E|00|9|00|
+6|00|8|00|A|00|C|00|0|00|D|00|5|00|F|00|-|00|0|00|4|00|2|00|4|00|-|00|1|00|1|00|D|00|5|00|-|00|8|00|2|00|2|00|F|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|6|00|B|00|A|00|8|00|D|00|9|00|
+alert tcp $EXTERNAL_NET any -> $HOME_NET 13701 (msg:
+|80 02|
+/aglimpse
+sys.dbms_repcat_conf.add_delete_resolution
+/toolbar/ico/
+/rd/feed/XMLFeed.jsp
+@R|D1 86 1D|1|D0 11 A3 A4 00 A0 C9 03|H|F6|
+friendlink=
+/fstdirectory/searchResults.php?searchTerm=
+sysinfo|0A|
+C|00|4|00|6|00|C|00|1|00|B|00|E|00|0|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+052DF14F-6F28-44A0-9130-294FDA6176EB
+SERVER/NFO
+|7F FF FB|x|7F FF FB|x|7F FF FB|x|7F FF FB|x
+1|00|9|00|B|00|7|00|F|00|2|00|D|00|6|00|-|00|1|00|6|00|1|00|0|00|-|00|1|00|1|00|D|00|3|00|-|00|B|00|F|00|3|00|0|00|-|00|1|00|A|00|F|00|8|00|2|00|0|00|5|00|2|00|4|00|1|00|5|00|3|00|
+/db_mysql.inc
+|FC CF D8 D6 98 84 9B 9A|
+new XMLHttpRequest|28|
+|0D 0A|DATA|0D 0A|
+dbms_repcat.compare_old_values
+2|00|0|00|1|00|E|00|A|00|5|00|6|00|4|00|-|00|A|00|6|00|F|00|6|00|-|00|1|00|1|00|D|00|1|00|-|00|8|00|1|00|1|00|D|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|B|00|6|00|B|00|D|00|3|00|6|00|
+CF_SETDATASOURCEPASSWORD|28 29|
+/csNews.cgi
+/AT-generated.cgi
+3|00|0|00|5|00|0|00|F|00|3|00|9|00|1|00|-|00|9|00|8|00|B|00|5|00|-|00|1|00|1|00|C|00|F|00|-|00|B|00|B|00|8|00|2|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|B|00|D|00|C|00|E|00|0|00|B|00|
+/wwwboard.pl
+0|00|8|00|D|00|7|00|5|00|B|00|B|00|0|00|-|00|D|00|2|00|B|00|5|00|-|00|1|00|1|00|D|00|1|00|-|00|8|00|8|00|F|00|C|00|-|00|0|00|0|00|8|00|0|00|C|00|8|00|5|00|9|00|8|00|3|00|3|00|B|00|
+/ClockDB
+A1A41E11-91DB-4461-95CD-0C02327FD934
+O|00|A|00|.|00|O|00|A|00|C|00|t|00|r|00|l|00|
+/Title.php
+/eshop.pl?seite=|3B|
+/w3who.dll?
+|00 01 86 A5|
+alert udp $EXTERNAL_NET any <> $HOME_NET 0 (msg:
+fp40reg.dll
+FAF02D9B-963D-43D8-91A6-E71383503FDA
+The Phoenix is ready
+/imagemap.exe?
+|82 10| |17 91 D0| |08|
+/newsys/options.xml
+/2gt.php
+/download/CnsMinM.ini
+PDWizard.File
+alert tcp $EXTERNAL_NET any -> $HOME_NET 80 (msg:
+6E22710A-F799-11CF-9227-00AA00A1EB95
+|0B|Bp|D6|p|00 C2 91 C5 83 DE 3B 08 C9| Ll|F8|l|18 F0 80|K!|89|.*|B0 AC 0C C8 08 88 93 E4|d1%7|DF BA 84 3A 3B|,|02 0C E7|,,8|80 D1 24 B1|j|10 D4 E0 E8|>B|C1 29 D3|I|F7 D8 1B C0 05 96 A4 D6 03 01 AE 7C 91 0F 9D A5 BA 95|F|8D 02|'n|99 8F E0 15 98 A0|j|FF FD BE|G|BE B3 EC A3 E1 17 C4|h|DC 3A|f|B8 02 F9 0E 81 CE E2 1B E4 10 13 C8 E7 E3 0C 3B E4 0C C6 01|`6h|D3|h|C0 98 99 87 8C 3B|V|D3|
+00000566-0000-0010-8000-00AA006D2EA4
+i8Zew4tMJAQzwDgBdAdAgDwIAHX5w1WL7ItFDFOLXRRWVzP/M/aJRQyFwIldFHUM/3UI6Mz///9Z|0D 0A|iUUMhdt1DP91EOi8////WYlFFItFFDlFDHdqg30YAHQjhcB2Uzt1DHNTi00Qi1UIigwPOgwWdQNG
+C46C1BCC-3C52-11D0-9200-848C1D000000
+sys.dbms_repcat_utl.drop_an_object
+NavComUI.AxSysListView32OAA
+/htmlscript
+|FF FA|'|01|
+A2EDA89A-0966-4B91-9C18-AB69F098187F
+|00 01 86 A4|
+/snorkerz.cmd
+J|00|a|00|v|00|a|00|W|00|e|00|b|00|S|00|t|00|a|00|r|00|t|00|.|00|i|00|s|00|I|00|n|00|s|00|t|00|a|00|l|00|l|00|e|00|d|00|
+free|28 29 3A| warning|3A| chunk is already free
+261F6572-578B-40A7-B72E-61B7261D9F0C
+HtmlDlgSafeHelper.HtmlDlgSafeHelper
+From|3A|
+|80 01|
+/sidebar.html?
+6|00|D|00|3|00|6|00|C|00|E|00|1|00|0|00|-|00|7|00|F|00|1|00|C|00|-|00|1|00|1|00|C|00|E|00|-|00|B|00|E|00|5|00|7|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|5|00|1|00|F|00|E|00|2|00|0|00|
+6|00|3|00|9|00|F|00|7|00|2|00|5|00|F|00|-|00|1|00|B|00|2|00|D|00|-|00|4|00|8|00|3|00|1|00|-|00|A|00|9|00|F|00|D|00|-|00|8|00|7|00|4|00|8|00|4|00|7|00|6|00|8|00|2|00|0|00|1|00|0|00|
+0|00|2|00|B|00|F|00|2|00|5|00|D|00|5|00|-|00|8|00|C|00|1|00|7|00|-|00|4|00|B|00|2|00|3|00|-|00|B|00|C|00|8|00|0|00|-|00|D|00|3|00|4|00|8|00|8|00|A|00|B|00|D|00|D|00|C|00|6|00|B|00|
+1|00|8|00|A|00|2|00|9|00|5|00|D|00|A|00|-|00|0|00|8|00|8|00|E|00|-|00|4|00|2|00|D|00|1|00|-|00|B|00|E|00|3|00|1|00|-|00|5|00|0|00|2|00|8|00|D|00|7|00|F|00|9|00|B|00|9|00|B|00|5|00|
+DRIVECHANGE +
+/js/jsnew2.php?
+/NR/exeres/
+586FB486-5560-4FF3-96DF-1118C96AF456
+NCTAudioFile2.AudioFile
+0|00|5|00|3|00|A|00|F|00|E|00|B|00|A|00|-|00|D|00|9|00|6|00|8|00|-|00|4|00|3|00|5|00|F|00|-|00|B|00|5|00|5|00|7|00|-|00|1|00|9|00|F|00|F|00|7|00|6|00|3|00|7|00|2|00|B|00|1|00|B|00|
+/whitepages/page_me.php?
+ChatCHA
+/bb-histsvc.sh
++FVQACNg1tXQABQV7hVQed3/9BWV7guaud3/9ALwHQW6IkPAADotxQAAOjqFAAA/7NPVkAAw42DZVVAAFBqAGoAuMTC53f/0I2DWVBAAGoAagBTUGoAagC4N6znd/
+dbms_rectifier_diff.rectify
+/ax-admin.cgi
+A|00|A|00|2|00|1|00|8|00|3|00|2|00|8|00|-|00|0|00|E|00|A|00|8|00|-|00|4|00|D|00|7|00|0|00|-|00|8|00|9|00|7|00|2|00|-|00|E|00|9|00|8|00|7|00|A|00|9|00|1|00|9|00|0|00|F|00|F|00|4|00|
+2|00|6|00|1|00|F|00|6|00|5|00|7|00|2|00|-|00|5|00|7|00|8|00|B|00|-|00|4|00|0|00|A|00|7|00|-|00|B|00|7|00|2|00|E|00|-|00|6|00|1|00|B|00|7|00|2|00|6|00|1|00|D|00|9|00|F|00|0|00|C|00|
+M|00|C|00|I|00|W|00|N|00|D|00|X|00|.|00|M|00|C|00|I|00|W|00|n|00|d|00|X|00|C|00|t|00|r|00|l|00|
+/admin/logger.php
+/ad_string.js?
+NMSA.ASFSourceMediaDescription.1
+=X|A2|/|EF D1 BD C2 EB|0|5C 98|U|1A 08|c|AE|0|F1 06 C4 0B|m|D2 84|W|08|Z/|AD 02 0D|t|12|/|DA D7|>|C6|<|B2 DD 85 18 CF|,1j|8A F0 CF|Z|A4|`|87 D4|NP|89|@|F2 14 23 B8|R9|BF 0C B6 84|f|29 BA 02 0D F0 1D F6 B6|5C|04|n|99 10 BE 1D|j|0A DF 9A|P|BC CE DC C0|R9FlPT|BD CF|f|D4 CF F7|b|99 DD 8A 00 F0 E9 14|~b|9B EF C4 0C 24 96|,|14 89 D7|
+1|00|8|00|A|00|2|00|9|00|5|00|D|00|A|00|-|00|0|00|8|00|8|00|E|00|-|00|4|00|2|00|D|00|1|00|-|00|B|00|E|00|3|00|1|00|-|00|5|00|0|00|2|00|8|00|D|00|7|00|F|00|9|00|B|00|9|00|6|00|5|00|
+/snork.bat
+/_maincfgret.cgi
+dbms_repcat.comment_on_site_priority
+|00 01 86 A8|
+9F62797E-1249-4596-9FF7-AC6D851A542A
+CFFB1FC7-270D-4986-B299-FECF3F0E42DB
+/parse_xml.cgi
+Forms.ListBox.1
+tftp.exe
+chetcpasswd.cgi
+/awstats.pl
+c|00|o|00|m|00|p|00|a|00|r|00|e|00|r|00|a|00|x|00|.|00|I|00|B|00|D|00|B|00|E|00|x|00|t|00|r|00|a|00|c|00|t|00|
+1|00|2|00|7|00|6|00|9|00|8|00|E|00|4|00|-|00|E|00|7|00|3|00|0|00|-|00|4|00|E|00|5|00|C|00|-|00|A|00|2|00|B|00|1|00|-|00|2|00|1|00|4|00|9|00|0|00|A|00|7|00|0|00|C|00|8|00|A|00|1|00|
+D4FE6227-1288-11D0-9097-00AA004254A0
+ECABB0BF-7F19-11D2-978E-0000F8757E2A
+xp_filelist
+C46C1BD8-3C52-11D0-9200-848C1D000000
+/argh/notify.php?emailaddr=
+sys.dbms_repcat_sna_utl.drop_snapshot_repobject
+N|00|C|00|T|00|W|00|a|00|v|00|C|00|h|00|u|00|n|00|k|00|s|00|E|00|d|00|i|00|t|00|o|00|r|00|2|00|.|00|W|00|a|00|v|00|C|00|h|00|u|00|n|00|k|00|s|00|E|00|d|00|i|00|t|00|o|00|r|00|2|00|
+/examples/servlet/TroubleShooter
+/searchb?
+/formmail
+/searchbar/engine.php
+/b/info.php
+location.QueryInterface
+BE604333-B029-44E6-8367-1566B0AD7084
+/directory.php
+ls|01|.|01|..|01|
+A|00|D|00|C|00|6|00|C|00|B|00|8|00|6|00|-|00|4|00|2|00|4|00|C|00|-|00|1|00|1|00|D|00|2|00|-|00|9|00|5|00|2|00|A|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|A|00|3|00|4|00|F|00|0|00|5|00|
+/superbar/movie.php
+sys.dbms_repcat_conf.comment_on_site_priority
+/db4web_c
+netangel
+T|00|L|00|I|00|.|00|S|00|e|00|a|00|r|00|c|00|h|00|H|00|e|00|l|00|p|00|e|00|r|00|
+/index_a.htm
+ECABB0AB-7F19-11D2-978E-0000F8757E2A
+S|3A|Users
+dbms_cdc_ipublish.chgtab_cache
+08|02 01 00 04 06|public|A4|+|06|
+/a/Drk.syn?
+X-FILTERED-BY-GHOST|3A|
+YGVjaG9yIHdwdW4zJXMGZNs+6WEKUxRsRxYMIXDnZ2d04XN1cMku+XjqlhcKcXVpdA9HZoxeLSBzOowm80FoWlbIUi0/SXKAZnZiYTogMQYuMA
+/cgimail
+/roche.asp?
+autoSpY shown
+clInetSuiteX6.clWebDav
+/admin_files
+KeepAlive
+/perl.exe
+/users.pwd
+|00 01 86 A9|
+|EB 19|[|8B|3|8B|{|04 01 FE 8B|K|08 01 F1 83 C3 0C 01|3|83 C3 04 E2 F9 EB|
+E|00|6|00|7|00|3|00|D|00|C|00|F|00|2|00|-|00|C|00|3|00|1|00|6|00|-|00|4|00|C|00|6|00|F|00|-|00|A|00|A|00|9|00|6|00|-|00|4|00|E|00|4|00|D|00|C|00|6|00|D|00|C|00|2|00|9|00|1|00|E|00|
+/FtpSaveCSP.dll
+getscreen|7C|
+/buy_online.php?
+0|00|D|00|4|00|3|00|F|00|E|00|0|00|1|00|-|00|F|00|0|00|9|00|3|00|-|00|1|00|1|00|C|00|F|00|-|00|8|00|9|00|4|00|0|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|0|00|5|00|4|00|2|00|2|00|8|00|
+window.open|28 22|readme.eml|22|
+/test.bat
+/products/stbar/stbarpat.dat
+/gd_ad.html
+TLI.TLIApplication
+*portok*
+/cfdocs/expeval/exprcalc.cfm
+A|00|2|00|D|00|4|00|5|00|2|00|9|00|E|00|-|00|8|00|4|00|E|00|0|00|-|00|4|00|5|00|5|00|0|00|-|00|A|00|2|00|E|00|0|00|-|00|C|00|2|00|5|00|D|00|7|00|C|00|5|00|C|00|C|00|0|00|D|00|0|00|
+79EAC9E6-BAF9-11CE-8C82-00AA004BA90B
+D|00|1|00|7|00|5|00|0|00|6|00|C|00|3|00|-|00|6|00|B|00|2|00|6|00|-|00|1|00|1|00|D|00|0|00|-|00|8|00|9|00|1|00|4|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|C|00|2|00|A|00|0|00|C|00|A|00|
+7|00|9|00|E|00|A|00|C|00|9|00|E|00|2|00|-|00|B|00|A|00|F|00|9|00|-|00|1|00|1|00|C|00|E|00|-|00|8|00|C|00|8|00|2|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|4|00|B|00|A|00|9|00|0|00|B|00|
+executafile|7C|
+C3DFA998-A486-11d4-AA25-00C04F72DAEB
+C6CB1FE3-B05E-4F0E-818F-C83ED5A0332F
+ShadowNet
+4|00|1|00|2|00|4|00|F|00|D|00|F|00|6|00|-|00|B|00|5|00|4|00|0|00|-|00|4|00|4|00|C|00|5|00|-|00|9|00|6|00|B|00|4|00|-|00|A|00|3|00|8|00|0|00|C|00|E|00|E|00|9|00|8|00|2|00|6|00|A|00|
+/MachineInfo
+user_tablespace
+584B432E-E0BD-4A78-BD77-665591DA84BB
+|0B|9|02 80 0B|9|02 80 0B|9|02 80 0B|9|02 80|
+9|00|D|00|3|00|9|00|2|00|2|00|3|00|E|00|-|00|A|00|E|00|8|00|E|00|-|00|1|00|1|00|D|00|4|00|-|00|8|00|F|00|D|00|3|00|-|00|0|00|0|00|D|00|0|00|B|00|7|00|7|00|3|00|0|00|2|00|7|00|7|00|
+/_vti_bin/
+NetTracker
+|FA CB D9 D9 DD C5 D8 CE D6|
+P2P-Agent|3A|
+2225E9BC-AFB3-4ED4-B20E-4F6CF1C39F8B
+DXSurface.LivePicture.FlashPix
+Connected
+283807B8-2C60-11D0-A31D-00AA00B92C03
+/adi/fandango.dart/theaterselectionpage|3B|
+/ntsync4.nsf
+D|00|6|00|7|00|0|00|D|00|0|00|B|00|3|00|-|00|0|00|5|00|A|00|B|00|-|00|4|00|1|00|1|00|5|00|-|00|9|00|F|00|8|00|7|00|-|00|D|00|9|00|8|00|3|00|E|00|F|00|1|00|A|00|C|00|7|00|4|00|7|00|
+U|00|F|00|i|00|l|00|e|00|U|00|p|00|l|00|o|00|a|00|d|00|e|00|r|00|D|00|.|00|F|00|i|00|l|00|e|00|U|00|p|00|l|00|o|00|a|00|d|00|e|00|r|00|D|00|
+|00 C0 05 08 00 C0 05 08 00 C0 05 08 00 C0 05 08|
+diGetting
+OziaMMstyp3ZvEfNLZDdGUotsJcU9AUzGyIbVCkkslc8AX44pHVQ7cFVd7zMsneJSAaBvoS3iUeo|0D 0A|hlEQ24NXuyvw8X2q88Vmjnqxjk0ouK8Fqb71DLdEZ2FbTDGrGuRodeFwiNi+pKq863l
+/add.txt?
+F|00|5|00|B|00|E|00|8|00|B|00|D|00|2|00|-|00|7|00|D|00|E|00|6|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|1|00|F|00|E|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|D|00|7|00|0|00|1|00|A|00|5|00|
+A1B09066-C95C-4EF6-8DFD-3DD0AFE610B6
+EbCrypt.eb_c_IncrementalHash
+0002E533-0000-0000-C000-000000000046
+UFileUploaderD.FileUploaderD
+dbms_repcat.drop_unique_resolution
+/plugins/framework/script/content.hts
+body=FeaR
+FD22F3AE-1450-4BDC-ADBE-6AF210A78C2C
+69AD90EF-1C20-11D1-8801-00C04FC29D46
+RFB 003.003|0A|
+alert icmp any any -> any any (msg:
+0006F03A-0000-0000-C000-000000000046
+8BD21D30-EC42-11CE-9E0D-00AA006002F3
+85A4A99C-8C3D-499E-A386-E0743DFF8FB7
+/index.php
+Agent.Control.1
+GNUTELLA CONNECT
+/dostuff.php
+Agent.Control.2
+wJ0D69ErgiOVIAQiQK4|0D 0A|A8Ejw1NWV78nh1Bq/mgOzkADZP81Yi0OiSUTOjUgMFhgcAyDHv7/dNw7//Hs|0D 0A|GgONNHaLDLNkqzBID3xOBAF11/9U3/Dr0WQojwU2AIPEDF9eW8NVN4nlu2dq
+44990200-3c9d-426d-81df-aab636fa4345
+FileSizeIs|AC|
+|00 00 00 14|
++|06 10|@|14 D1 02 19|
+D|00|2|00|7|00|C|00|D|00|B|00|6|00|E|00|-|00|A|00|E|00|6|00|D|00|-|00|1|00|1|00|C|00|F|00|-|00|9|00|6|00|B|00|8|00|-|00|4|00|4|00|4|00|5|00|5|00|3|00|5|00|4|00|0|00|0|00|0|00|0|00|
+all_tables
+|23| Nova CGI Notification Script
+PRIVMSG
+/phppbc.php
+User-Agent|3A| Java1.2.1|0D 0A|
+C46C1BD2-3C52-11D0-9200-848C1D000000
+|02 01 00 04 82 01 00|
+/cconfig.php
+/hzyt/client/procpost.aspx
+?wp-ver-info
+fuck fuck fuck
+Microsoft Windows
+.wwwacl
+/active.log
+8D1636FD-CA49-4B4E-90E4-0A20E03A15E8
+/alibaba.pl
+|01 02 00 14|
+/admin_license.php
+Send me the logs, please
+adb880a6-d8ff-11cf-9377-00aa003b7a11
+/ISAPISkeleton.dll
+/quick-reply.php
+/^.{8}(\x05\x37(\x1E[\x90-\xFF]|[\x1F-\x2F].|\x30[\x00-\x70])|\x00\x00\x00[\x00-\x65]|\x02\x68\x05\xC0)/s
+L|00 00 00 01 14 02 00 00 00 00 00 C0 00 00 00 00 00 00|F
+DTSTART|3B|
+/eshop.pl
+|00|_|02|
+1B544C24-FD0B-11CE-8C63-00AA0044B520
+Authorization|3A| Basic
+00140BB5-B1BA-11CE-ABC6-F5B2E79D9E3F
+/updates/checkversion.php
+from=HL-Jacker
+sys.dbms_repcat_rq.add_column
+/officescan/cgi/jdkRqNotify.exe?
+SAML FROM|3A|
+2|00|2|00|2|00|5|00|E|00|9|00|B|00|C|00|-|00|A|00|F|00|B|00|3|00|-|00|4|00|E|00|D|00|4|00|-|00|B|00|2|00|0|00|E|00|-|00|4|00|F|00|6|00|C|00|F|00|1|00|C|00|3|00|9|00|F|00|8|00|B|00|
+/Response2.aspx
+0002E551-0000-0000-C000-000000000046
+N|00|C|00|S|00|V|00|i|00|e|00|w|00|M|00|a|00|n|00|a|00|g|00|e|00|r|00|.|00|N|00|C|00|S|00|V|00|i|00|e|00|w|00|
+|00 01 86 A0|
+xp_SetSQLSecurity
+|FA CB D9 D9 EB DE DE D6|
+/search
+NetSphere
+sys.dbms_repcat_untrusted.register_snapshot_repgroup
+User-Agent|3A|ICQ
+badratpass
+Cinco Network, Inc.
+BADA82CB-BF48-4D76-9611-78E2C6F49F03
+auth=12345678&login=+++Login+++
+|FE FE FE FE|90|00 00|
+/toolbar/sbartb0300.cfg
+SzXgMkNWL9sVG+tK+PAvoGAHIBs6uGCk+LimunCOdVZetTLfshMihnVwSZSOMgbeJ1nQ2VuH|0D 0A|OE0A6SCpjgS431+O+Uwr0hbFwC0Tt9gjk5n006G2DLQ93fwnPbO2fmzcaPYFYNhTijcHgc6u
+xp_displayparamstmt
+FC'S TROJAN
+thisissometempspaceforthesockinaddrinyeahyeahiknowthisislamebutanywaywhocareshorizongotitworkingsoalliscool
+/lm/rtl3i.asp
+/Sites/Knowledge/Membership/Inspiredtutorial/ViewCode.asp
+/book.cgi
+sys.dbms_repcat_conf.add_site_priority_site
+.asp|3A 3A 24|DATA
+TBarCode7.TBarCode7
+/environ.cgi
+dbms_repcat.drop_priority
+00000535-0000-0010-8000-00AA006D2EA4
+0|00|0|00|1|00|4|00|0|00|B|00|B|00|5|00|-|00|B|00|1|00|B|00|A|00|-|00|1|00|1|00|C|00|E|00|-|00|A|00|B|00|C|00|6|00|-|00|F|00|5|00|B|00|2|00|E|00|7|00|9|00|D|00|9|00|E|00|3|00|F|00|
+login_ok
+sys.dbms_repcat_mas.purge_master_log
+68A499C7-F9B0-11D2-93D4-00A0C981B035
+|FC 02|
+SWCtl.SWCtl
+sys.dbms_repcat_fla_mas.purge_flavor_definition
+|00 01 86 A2|
+C46C1BC4-3C52-11D0-9200-848C1D000000
+C|00|a|00|l|00|l|00|e|00|r|00|.|00|C|00|a|00|l|00|l|00|C|00|o|00|d|00|e|00|
+?PageServices
+h]^|FF D5 FF D4 FF F5 8B F5 90|f1
+/upload.pl
+|0D 0A 0D 0A|
+DTS-300|0D 0A|
+Login failed for user 'sa'
+rxrLogin~~
+sys.dbms_repcat_conf.purge_statistics
+/SpamExcp.dll
+sys.dbms_repcat_conf.drop_site_priority_site
+C|00|1|00|1|00|4|00|5|00|5|00|5|00|0|00|-|00|A|00|4|00|5|00|4|00|-|00|1|00|1|00|D|00|4|00|-|00|9|00|0|00|2|00|0|00|-|00|0|00|0|00|D|00|0|00|B|00|7|00|2|00|3|00|9|00|0|00|8|00|1|00|
+5|00|9|00|D|00|B|00|D|00|D|00|A|00|6|00|-|00|9|00|A|00|8|00|0|00|-|00|4|00|2|00|A|00|4|00|-|00|B|00|8|00|2|00|4|00|-|00|9|00|B|00|C|00|5|00|0|00|C|00|C|00|1|00|7|00|2|00|F|00|5|00|
+serverinformation|7C|
+Execute -~-
+/v2.asmx
+/TopText/pop-popup.html
+disconnect
+/tr.js?
+/FtpSaveCVP.dll
+=======>> AMBUSH v
+/spin_client.cgi
+/script/update.asp
+C|00|4|00|6|00|C|00|1|00|B|00|C|00|4|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+/_other/dll/blank8.pac
+CF9DEB90-8DE3-11D5-BAE4-00105AAAFF94
+8B217752-717D-11CE-AB5B-D41203C10000
+/__utm.gif?
+/CVS/Entries
+dbms_repcat.comment_on_repgroup
+98C53984-8BF8-4D11-9B1C-C324FCA9CADE
+/client/
+|0A 02 08 FE 00|
+GET x HTTP/1.0
+/xml/toolbar/
+bin|00|bin|00|
+DirectAnimation.DAPoint3.1
+|22|.bat
+LEADRasterDocument.LEADRasterDocument
+i45MQBVUFghDQkCCOqHqPmgGbzTU9IAAA1jAAAArAAAJgAACeJY
+/cache/ip.php
+E|00|0|00|C|00|B|00|0|00|8|00|C|00|E|00|-|00|A|00|B|00|3|00|D|00|-|00|4|00|7|00|7|00|9|00|-|00|9|00|C|00|7|00|7|00|-|00|6|00|2|00|A|00|4|00|3|00|9|00|B|00|F|00|E|00|6|00|C|00|3|00|
+xp_enumresultset
+|10 11 12 13 14 15 16 17 18 19 1A 1B 1C 1D 1E 1F|
+ISSPNGRQ
+08D75BB0-D2B5-11D1-88FC-0080C859833B
+R|00|o|00|o|00|t|00| |00|E|00|n|00|t|00|r|00|y|00|
+/search.cgi
+YVerInfo.GetInfo
+2D20D4BB-B47E-4FB7-83BD-E3C2EE250D26
+NSServer-sPISPJ99
+PASS ddd@|0A|
+8|00|2|00|4|00|1|00|F|00|0|00|1|00|5|00|-|00|8|00|4|00|D|00|3|00|-|00|1|00|1|00|d|00|2|00|-|00|9|00|7|00|E|00|6|00|-|00|0|00|0|00|0|00|0|00|F|00|8|00|0|00|3|00|F|00|F|00|7|00|A|00|
+|00|2|00 00|x|9C ED|
+dbms_repcat.drop_priority_nchar
+3|00|9|00|A|00|2|00|C|00|2|00|A|00|6|00|-|00|4|00|7|00|7|00|8|00|-|00|1|00|1|00|D|00|2|00|-|00|9|00|B|00|D|00|B|00|-|00|2|00|0|00|4|00|C|00|4|00|F|00|4|00|F|00|5|00|0|00|2|00|0|00|
+/dbman/db.cgi
+/whereami.cgi
+|0D 0A|Vous etes connecte a|3A 0D 0A 0D 0A 00|
+8F0F5093-0A70-11D0-BCA9-00C04FD85AA6
+/img.pl
+4BAC124B-78C8-11D1-B9A8-00C04FD97575
+/orders/checks.txt
+dbms_repcat.set_columns
+/content/logUserAction.do
+1D95A7C7-3282-4DB7-9A48-7C39CE152A19
+/toolbar/ezg_serverside.xml
+/ad/zadframe.esyn
+|BD F8 B3 CC|ID|BA C5 A3 BA|
+propfind xmlns|3A|
+/nph-publish.cgi
+|EB|V^VVV1|D2 88|V|0B 88|V|1E|
+|00 01 00 02 00 01 00|
+/scripts/iisadmin/default.htm
+3050F667-98B5-11CF-BB82-00AA00BDCE0B
+|3B|SystemInfo
+/bnbform.cgi
+i4wMwBVUFghDQkCCHAOKRNyQeuyBeMAAHBsAAAAwgAAJgAA71DL
+/downloads/rs.asp?
+/technote/print.cgi
+5|00|1|00|0|00|A|00|4|00|9|00|1|00|0|00|-|00|7|00|F|00|1|00|C|00|-|00|1|00|1|00|C|00|E|00|-|00|B|00|E|00|5|00|7|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|5|00|1|00|F|00|E|00|2|00|0|00|
+Crazzynet
+/login.htm
+/gm-2-b2.php
+/cd/../config/html/cnf_gi.htm
+0|11 00 00 00 00 00 00|333333|13|@|00 00 00 00 00 00 00 00 00 00 00 00 00 00|
+This is made by yyt_hac!
+/bb-hist.sh?HISTFILE=../..
+x|00|p|00|_|00|s|00|q|00|l|00|i|00|n|00|v|00|e|00|n|00|t|00|o|00|r|00|y|00|
+0FDF6D6B-D672-463B-846E-C6FF49109662
+/searchapp/barad.asp?
+6E227109-F799-11CF-9227-00AA00A1EB95
+Internet.PopupMenu.1
+/ebrss.aspx?
+D675E22B-CAE9-11D2-AF7B-00C04F99179F
+ABBA001B-3075-11D6-88A4-00B0D0200F88
+openbrowser
+/Sites/Knowledge/Membership/Inspired/ViewCode.asp
+/cgi-bin/tz.cgi
+|93 02|
+AAAAAAAAAAAAAAAAAAAAAAAAA
+/mySpeedbarCfg2.jsp?
+dbms_repcat.remove_master_databases
+6|00|1|00|C|00|6|00|6|00|9|00|C|00|7|00|-|00|E|00|D|00|D|00|D|00|-|00|4|00|2|00|7|00|7|00|-|00|B|00|F|00|5|00|E|00|-|00|6|00|4|00|8|00|0|00|7|00|C|00|B|00|8|00|D|00|C|00|E|00|F|00|
+alert udp $EXTERNAL_NET any -> $HOME_NET 53 (msg:
+gesundheit!
+|FF F6 FF F6 FF FB 08 FF F6|
+/bb-hist.sh
+C1145550-A454-11D4-9020-00D0B7239081
+1|00|0|00|0|00|2|00|0|00|2|00|0|00|0|00|-|00|E|00|2|00|6|00|0|00|-|00|1|00|1|00|C|00|F|00|-|00|A|00|E|00|6|00|8|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|4|00|A|00|3|00|4|00|D|00|5|00|
+A|00|g|00|e|00|n|00|t|00|.|00|C|00|o|00|n|00|t|00|r|00|o|00|l|00|.|00|1|00|
+CD3B09F1-26FB-41CD-B3F2-E178DFD3BCC6
+|00 00 00 13|
+-chrome
+007Server
+sys.dbms_repcat_sna.create_snapshot_repschema
+x-unix-mode
+hardcore rape
+DA2BD42B-07E8-413A-9FEA-BB3B2E825340
+E|00|4|00|7|00|6|00|C|00|B|00|F|00|F|00|-|00|E|00|2|00|2|00|9|00|-|00|4|00|5|00|2|00|4|00|-|00|B|00|6|00|B|00|7|00|-|00|2|00|2|00|8|00|A|00|3|00|1|00|2|00|9|00|D|00|1|00|C|00|7|00|
+Argument
+/dp/weather?x=
+/fs-bin/click?
+|C0|PR|89 E1|PQRP|B8 3B 00 00 00 CD 80|
+.pdf|23|
+/related_bottom_v2.php
+Index of /cgi-bin/
+C|00|4|00|6|00|C|00|1|00|B|00|E|00|2|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+create table
+GET /tor/server
+/thumbnail.cgi?
+|7C|GETFILE|7C|
+dbms_mview.register_mview
+sys.dbms_repcat_fla.set_local_flavor
+|00|%|00 22|
+/javascripts/common.js
+/sresult.exe
+D|00|2|00|9|00|2|00|3|00|B|00|8|00|6|00|-|00|1|00|5|00|F|00|1|00|-|00|4|00|6|00|F|00|F|00|-|00|A|00|1|00|9|00|A|00|-|00|D|00|E|00|8|00|2|00|5|00|F|00|9|00|1|00|9|00|5|00|7|00|6|00|
+Snid X2 Server
+/exe/dns.html
+/upload.cgi
+4124FDF6-B540-44C5-96B4-A380CEE9826A
+D5184A39-CBDF-4A4F-AC1A-7A45A852C883
+/administrators.pwd
+?STRENGUR
+6D940280-9F11-11CE-83FD-02608C3EC08A
+3|00|3|00|D|00|9|00|A|00|7|00|6|00|0|00|-|00|9|00|0|00|C|00|8|00|-|00|1|00|1|00|D|00|0|00|-|00|B|00|D|00|4|00|3|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|1|00|1|00|C|00|E|00|8|00|6|00|
+Mode=debug
+|FA CB D9 D9|
+/login.htm?password=
+1|00|8|00|A|00|B|00|4|00|3|00|9|00|E|00|-|00|F|00|C|00|F|00|4|00|-|00|4|00|0|00|D|00|4|00|-|00|9|00|0|00|D|00|A|00|-|00|F|00|7|00|9|00|B|00|A|00|A|00|3|00|B|00|0|00|6|00|5|00|5|00|
+access ok
+sys.dbms_repcat_conf.alter_priority
+xp_sqlinventory
+6|00|3|00|5|00|0|00|0|00|A|00|E|00|2|00|-|00|0|00|8|00|5|00|8|00|-|00|1|00|1|00|D|00|2|00|-|00|8|00|C|00|E|00|4|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|8|00|E|00|C|00|B|00|1|00|0|00|
+/showcode
+/home/lordofsearch
+hot young sex
+C8F209F8-480E-454C-94A4-5392D88EBA0F
+/domlog.nsf
+AFM8bJHtPFvDEkEXcUExflY49kR1cEEIUkM9CVRyaW0/TddNAkkvfRRVUkxRaCWgRLFeZa2d|0D 0A|ppsmHIgcP6Qp8ve2TB1lRQtVcHAiPE23aXCUdGYrkyxJZUtwfXxuCusU7RVxrDNuboGBhT0s
+6E227101-F799-11CF-9227-00AA00A1EB95
+/whois_raw.cgi
+/server-status
+cG51RlelhMtbU7QpjWKxOTvQLS+4wB20IzjrIlOWMc5XP3AcIgGMOETE8DI5fRIUfhDaJzhT|0D 0A|RPRpWWAQFKHEl02LHRYUHOqsbkd8SKZGHURgndMOfSCyIMVz/7cu1hIk3EZ8IEmLghDkO9/D
+/objects.inc.php4
+sys.dbms_repcat_fla_mas.publish_flavor_definition
+sys.dbms_repcat_conf.alter_priority_nvarchar2
+HostCheck.aspx
+login|3A| root
+4Dgifts
+Oracle Applications One-Hour Install
+730F6CDC-2C86-11D2-8773-92E220524153
+/scripts/samples/
+alert icmp 3.3.3.3/32 any -> $EXTERNAL_NET any (msg:
+authorized_keys
+4F241DB1-EE9F-11D0-9824-006097C99E51
+/sw/toolbar/4/2/rd601.html?
+version
+dbms_snap_internal.generate_refresh_operations
+<window
+dbms_repcat_rgt.instantiate_offline
+/mrtg.cgi
+[playlist]
+sys.dbms_repcat_fla.validate_for_local_flavor
+User-Agent|3A| Ruckus/
+text|3A|
+|01 CD 87 F4|Q|A9 CF 11 8E E6 00 C0 0C| Se
+?DeleteDocument
+/webspirs.cgi
+/chat/chat.php
+|00 00 00|h|FF|SMB%|00 00 00|
+3BC4F3A7-652A-11D1-B4D4-00C04FC2DB8D
+/names.nsf
+xp_regread
+X-OEM|3A|
+xp_oasetproperty
+6|00|2|00|F|00|A|00|8|00|3|00|F|00|7|00|-|00|2|00|0|00|E|00|C|00|-|00|4|00|D|00|6|00|2|00|-|00|A|00|C|00|8|00|6|00|-|00|B|00|A|00|B|00|7|00|0|00|5|00|E|00|E|00|1|00|C|00|C|00|D|00|
+RemoteNC Control Password|3A|
+0ZpkFIcReXCdLfAeEs4k5jglICV+BEij4zH+Xi5QwyfgLb+rO0XnE1xMuyBdVbgW95IPgAVLAnSC|0D 0A|g/5gJes8k0qLVgSAmSvKuNMATWIQ9+HB6gYajUIFsMBdgfogIBxSfyxQ0g6YSxpQiQ8WSQnT55rV
+/requestimpression.aspx?
+1F7DD4F3-CAC3-11D0-A35B-00AA00BDCDFD
+|B8 9B 93 9D 9A A2 91 86 9D 92 8D 88|
+/RF|16|
+3E1DD897-F300-486C-BEAF-711183773554
+/P2P/gnutella/cache/gerry.asp
+D24D4450-1F01-11D1-8E63-006097D2DF48
+HTTP/1.1 403
+/nph-test-cgi
+ARKADMIN_GET_
+description=|28|
+DXImageTransform.Microsoft.Chroma
+default.idq
+|FF FF|KADM0.0A|00 00 FB 03|
+C46C1BDC-3C52-11D0-9200-848C1D000000
+create database
+i4wMwBVUFghDQkCCCaI2wFrGFEtU9IAAA5jAAAArAAAJgAALNfY
+ADMINISTRATOR
+B|00|0|00|A|00|6|00|B|00|A|00|E|00|2|00|-|00|A|00|A|00|F|00|0|00|-|00|1|00|1|00|D|00|0|00|-|00|A|00|1|00|5|00|2|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|0|00|8|00|D|00|B|00|9|00|6|00|
+??????????
+/cfappman/index.cfm
+/websendmail
+/.cobalt/siteUserMod/siteUserMod.cgi
+/webalizer/
+C63344D8-70D3-4032-9B32-7A3CAD5091A5
+E188F7A3-A04E-413E-99D1-D79A45F70305
+C|00|6|00|C|00|B|00|1|00|F|00|E|00|3|00|-|00|B|00|0|00|5|00|E|00|-|00|4|00|F|00|0|00|E|00|-|00|8|00|1|00|8|00|F|00|-|00|C|00|8|00|3|00|E|00|D|00|5|00|A|00|0|00|3|00|3|00|2|00|F|00|
+/servlet/sunexamples.BBoardServlet
+/bb-rep.sh
+DirectAnimation.DATransform3.1
+?wp-uncheckout
+FolderMonitor|3B|
+/cgiproc?Nocfile=
+dbms_repcat.generate_replication_trigger
+250770F3-6AF2-11CF-A915-008029E31FCD
+90403303-EF21-4771-A41A-651089892EDD
+/dcforum.cgi
+alert udp any any -> 255.255.255.255 162 (msg:
+dbms_repcat.create_snapshot_repgroup
+/pals-cgi
+283807B5-2C60-11D0-A31D-00AA00B92C03
+/_vti_pvt/access.cnf
+B|00|D|00|8|00|0|00|D|00|3|00|7|00|5|00|-|00|5|00|4|00|3|00|9|00|-|00|4|00|D|00|8|00|0|00|-|00|B|00|1|00|2|00|8|00|-|00|D|00|D|00|A|00|5|00|F|00|D|00|C|00|3|00|A|00|E|00|6|00|C|00|
+0002E500-0000-0000-C000-000000000046
+dbms_repcat.obsolete_flavor_definition
+[Static
+/faqmanager.cgi?toc=
+R|00|SoftWAR Server
+/inc/sendmail.inc
+>>Send Capture
+comparerax.IBDBExtract
+/ServerVariables_Jscript.asp
+DXImageTransform.Microsoft.RevealTrans.1
+F9EFBEC2-4302-11D2-952A-00C04FA34F05
+8FE7E181-BB96-11D2-A1CB-00609778EA66
+private
+8BD21D20-EC42-11CE-9E0D-00AA006002F3
+AB9BCEDD-EC7E-47E1-9322-D4A210617116
+i4wMwBVUFghDQkCCOoZ0r3G4BoF+sIAADJgAAAArAAAJgAAuru3
+/msadcs.dll
+/search.asp?
+5|00|4|00|0|00|7|00|1|00|5|00|3|00|D|00|-|00|0|00|2|00|2|00|F|00|-|00|4|00|C|00|D|00|2|00|-|00|8|00|B|00|F|00|F|00|-|00|4|00|6|00|5|00|5|00|6|00|9|00|B|00|C|00|5|00|D|00|B|00|8|00|
+|22|.cmd
+B|00|A|00|6|00|1|00|6|00|0|00|6|00|B|00|-|00|2|00|5|00|8|00|C|00|-|00|4|00|0|00|2|00|1|00|-|00|A|00|D|00|2|00|7|00|-|00|E|00|0|00|7|00|A|00|3|00|F|00|3|00|B|00|9|00|1|00|D|00|B|00|
+/DataChunksGZ
+/namazu.cgi?query=
+/r/banner_iw_codigo_gtc.php
+|10 00 00 00|
+<SYSTMTIME>
+NMSA.MediaDescription
+F935DC22-1CF0-11D0-ADB9-00C04FD58A0B
+|00|.jsp
+|0A 00 00 01 85 04 00 00 80|root|00|
+/scripts/security/timer.asp?
+TJPingPro by Jim
+Y|00|W|00|c|00|U|00|p|00|l|00|.|00|W|00|c|00|U|00|p|00|l|00|o|00|a|00|d|00|
+sys.dbms_repcat_conf.drop_delete_resolution
+/survey.cgi
+550 5.7.1
+listdrives
+/app.txt
+Taskbar hidden
+|EB 02 EB 02 EB 02|
+/lander.jsp
+D|00|S|00|K|00|e|00|r|00|n|00|e|00|l|00|.|00|L|00|M|00|D|00|S|00|K|00|e|00|r|00|n|00|e|00|l|00|
+sys.dbms_repcat_conf.comment_on_delete_resolution
+|FF 01 01 01 80 00 00 00|
+0|00|0|00|0|00|6|00|F|00|0|00|6|00|3|00|-|00|0|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|-|00|C|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|4|00|6|00|
+/viewsource/template.html?
+/director/ack.php
+C|00|4|00|6|00|C|00|1|00|B|00|C|00|C|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+DLHelper.WebHandler
+browseropened|0A|
+|00 01|W|00 00 00 18|
+alert tcp $EXTERNAL_NET any -> $HOME_NET 2513 (msg:
+/w/pop.cgi?
+/heartbeat?
+DXImageTransform.Microsoft.Redirect
+/smartsearch.cgi
+dbms_repcat.validate_for_local_flavor
+6B7F1602-D44C-11D0-A7D9-AE3D17000000
+B|00|6|00|F|00|F|00|C|00|2|00|4|00|C|00|-|00|7|00|E|00|1|00|3|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|B|00|4|00|7|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|C|00|2|00|F|00|5|00|1|00|D|00|
+/desksearch.cgi
+/webplus?script
+/hello.bat
+H|00|p|00|q|00|U|00|t|00|i|00|l|00|.|00|S|00|y|00|s|00|t|00|e|00|m|00|
+sys.dbms_repcat_sna.alter_snapshot_propagation
+/wsisa.dll/WService=
+SafeAndSoundATL.NixonMyPrograms
+/twain/servlet/Twain
+sys.dbms_apply_user_agent.set_registration_handler
+/ctx/imptrack.php?
+/iisprotect/admin/
+BD96C556-65A3-11D0-983A-00C04FC29E36
+B3E0E785-BD78-4366-9560-B7DABE2723BE
+C|00|C|00|7|00|B|00|F|00|B|00|4|00|3|00|-|00|F|00|1|00|7|00|5|00|-|00|1|00|1|00|D|00|1|00|-|00|A|00|3|00|9|00|2|00|-|00|0|00|0|00|E|00|0|00|2|00|9|00|1|00|F|00|3|00|9|00|5|00|9|00|
+-soa %p
+TO_CHAR
+dbms_repcat.switch_snapshot_master
+/dss/cc.2_0_0.
+6ISS ECNRA Built-In Provider, Strong Encryption
+x|00|p|00|_|00|p|00|e|00|e|00|k|00|q|00|u|00|e|00|u|00|e|00|
+Info|3B|
+CpDwPVgF2ygS8h34dA18deYVsUYkiCjCrsbvJAcQwjPoYwKqVdMfCFQH/RrpYmxALn3s4A8S|0D 0A|hAMBMRpXBAZoVgfiM0gukIQZD8YQg+h6M3huCoaqDMuXcF0x
+F2175210-368C-11D0-AD81-00A0C90DC8D9
+3050F4F5-98B5-11CF-BB82-00AA00BDCE0B
+A|00|F|00|8|00|6|00|8|00|3|00|0|00|4|00|-|00|A|00|B|00|0|00|B|00|-|00|1|00|1|00|D|00|0|00|-|00|8|00|7|00|6|00|A|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|C|00|2|00|9|00|D|00|4|00|6|00|
+/files.inc.php
+97AF4A45-49BE-4485-9F55-91AB40F22B92
+0|00|0|00|1|00|4|00|0|00|0|00|5|00|0|00|-|00|B|00|1|00|B|00|A|00|-|00|1|00|1|00|C|00|E|00|-|00|A|00|B|00|C|00|6|00|-|00|F|00|5|00|B|00|2|00|E|00|7|00|9|00|D|00|9|00|E|00|3|00|F|00|
+/search.php?keywords=
+Volume Serial Number
+utl_file.fopen_nchar
+5|00|0|00|B|00|4|00|7|00|9|00|1|00|F|00|-|00|4|00|7|00|3|00|1|00|-|00|1|00|1|00|D|00|0|00|-|00|8|00|9|00|1|00|2|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|C|00|2|00|A|00|0|00|C|00|A|00|
+/users.xml
+/bbs_forum.cgi
+betaalmostdone
+/exit/exit.html?act=
+/gc/xsearch.php?
+/htsearch?-c
+/searchresult/
+png []..Ks l44
+1|00|8|00|C|00|6|00|2|00|8|00|E|00|E|00|-|00|9|00|6|00|2|00|A|00|-|00|1|00|1|00|D|00|2|00|-|00|8|00|D|00|0|00|8|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|4|00|4|00|1|00|E|00|2|00|0|00|
+/adminlogin
+host|3A|
+/apexec.pl
+/Delfin/schedule.html
+3|00|3|00|D|00|9|00|A|00|7|00|6|00|1|00|-|00|9|00|0|00|C|00|8|00|-|00|1|00|1|00|D|00|0|00|-|00|B|00|D|00|4|00|3|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|1|00|1|00|C|00|E|00|8|00|6|00|
+MAIL FROM|3A|
+dbms_repcat.drop_priority_number
+8|00|B|00|2|00|1|00|7|00|7|00|5|00|E|00|-|00|7|00|1|00|7|00|D|00|-|00|1|00|1|00|C|00|E|00|-|00|A|00|B|00|5|00|B|00|-|00|D|00|4|00|1|00|2|00|0|00|3|00|C|00|1|00|0|00|0|00|0|00|0|00|
+/carbo.dll
+/whois.xml
+AAAAAAAAAAx|0A|AMBAi0wkBPdB5gbhjwJ0D69ErgiOVIAQiQK4A8Ejw1NWV78nh1Bq/mgOzkADZP81Yi0OiSUTOj Ug|0A|MFhgcAyDHv7/dNw7//HsGgONNHaLDLNkqzBID3x
+907CA0E5-CE84-11D6-9508-02608CDD2846
+sys.dbms_repcat_conf.alter_site_priority_site
+sp_oacreate
+C46C1BCA-3C52-11D0-9200-848C1D000000
+/r/keys/keys
+LEADIsis.LEADIsis
+D|00|4|00|5|00|F|00|D|00|3|00|0|00|0|00|-|00|5|00|C|00|6|00|E|00|-|00|1|00|1|00|D|00|1|00|-|00|9|00|E|00|C|00|1|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|D|00|7|00|0|00|8|00|1|00|F|00|
+sys.dbms_repcat_sna.validate_for_local_flavor
+|7C|ENUMDRVS|7C|
+|04 00|
+B4DC8DD9-2CC1-4081-9B2B-20D7030234EF
+/updn.php?ver=
+/cvslog.cgi
+PHP_AUTH_USER=boogieman
+|01 00 00 00 05 00 00 02|''|02 00 00 00|
++3UubBZU6QPutdRcZrPEvAZmzZcNakN47VPYbNzc7Nrua2tqc5hULfvf2fjX3Ec6W|0D 0A|bgNaUl7vgcZCDx77BhbeP1Jav5WWRj/8Tjd7mGGE798zp8rczW6tVaQvEyw5Ww3WpU0MwG5nq6G5
+alert udp any 19 <> any 7 (msg:
+E|00|E|00|E|00|D|00|4|00|C|00|2|00|0|00|-|00|7|00|F|00|1|00|B|00|-|00|1|00|1|00|C|00|E|00|-|00|B|00|E|00|5|00|7|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|5|00|1|00|F|00|E|00|2|00|0|00|
+*PORT3*
+/admin_logout.php
+/bb-hostsvc.sh?HOSTSVC
+|E0 C9 EA|y|F9 BA CE 11 8C 82 00 AA 00|K|A9 0B|
+Message/Partial
+/input.bat|7C|
+/update/update.xml
+dbms_repcat.create_snapshot_repobject
+DXImageTransform.Microsoft.Light
+798B9483-B7A6-46C1-9F17-C9B9F02EA811
+/site_drivecleaner/ad_keyin/link_keyin/aff_keyin
+/ads.cgi
+|3A 3A 3A 3A 3A 3A 3A 3A 00 3A 3A 3A 3A 3A 3A 3A 3A|
+/cn.dll?
+/searchv2tb0200.php
+/db/db.php
+alert tcp $EXTERNAL_NET any -> $HOME_NET 20031 (msg:
+B|00|a|00|r|00|c|00|o|00|d|00|e|00|W|00|i|00|z|00|.|00|B|00|a|00|r|00|c|00|o|00|d|00|e|00|W|00|i|00|z|00|
+/[^\x0d\x00\x0a]{509}/
+0|00|0|00|0|00|2|00|E|00|5|00|5|00|1|00|-|00|0|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|-|00|C|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|4|00|6|00|
+B4B3AECB-DFD6-11D1-9DAA-00805F85CFE3
+/bb-histlog.sh
+|EB 23|^3|C0 88|F|FA 89|F|F5 89|6
+/iframe.html
+activate
+/emumail.cgi
+2CC3D8DE-18BF-43ff-8CB8-21B442300FD5
+8|00|4|00|2|00|2|00|D|00|A|00|E|00|7|00|-|00|9|00|9|00|2|00|9|00|-|00|1|00|1|00|C|00|F|00|-|00|B|00|8|00|D|00|3|00|-|00|0|00|0|00|4|00|0|00|3|00|3|00|3|00|7|00|3|00|D|00|A|00|8|00|
+Windows
+*PORT1*
+/vpasswd.cgi
+chat|7C|
+/ikonboard.cgi
+AF604EFE-8897-11D1-B944-00A0C90312E1
+YWcVwr.WcViewer
+ACTIVEGS.ActiveGSCtrl
+/smartoffers/so.aspx
+7|00|D|00|1|00|4|00|2|00|5|00|D|00|4|00|-|00|E|00|2|00|F|00|C|00|-|00|4|00|A|00|5|00|2|00|-|00|B|00|D|00|A|00|9|00|-|00|B|00|9|00|D|00|C|00|A|00|C|00|5|00|E|00|F|00|5|00|7|00|4|00|
+/flexform
+D|00|C|00|E|00|2|00|F|00|8|00|B|00|1|00|-|00|A|00|5|00|2|00|0|00|-|00|1|00|1|00|D|00|4|00|-|00|8|00|F|00|D|00|0|00|-|00|0|00|0|00|D|00|0|00|B|00|7|00|7|00|3|00|0|00|2|00|7|00|7|00|
+*PORT2*
+/conf/xml/
+SUBSCRIBE
+QTAze1l9
+01002B17-5D93-4551-81E4-831FEF780A53
+F2C3FAAE-C8AC-11D0-BCDB-00C04FD8D5B6
+A|00|F|00|6|00|0|00|4|00|E|00|F|00|E|00|-|00|8|00|8|00|9|00|7|00|-|00|1|00|1|00|D|00|1|00|-|00|B|00|9|00|4|00|4|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|0|00|3|00|1|00|2|00|E|00|1|00|
+A|00|F|00|1|00|3|00|B|00|0|00|7|00|E|00|-|00|2|00|8|00|A|00|1|00|-|00|4|00|C|00|A|00|C|00|-|00|9|00|C|00|9|00|A|00|-|00|E|00|C|00|5|00|8|00|2|00|E|00|3|00|5|00|4|00|A|00|2|00|4|00|
+aim|3A|AddGame?
+file|3A|//
+@|00|@|3B C7|v|F5|AA|80|9|00|u|D4 FF|E|FC 83 C3 08 83|}|FC 04|r|C1 8B|E|08 C7 05 5C|}@|00 01 00 00 00|P|A3|L}@|00 E8 C6 00 00 00 8D B6 EC|x@|00 BF|P}@|00 A5 A5|Y|A3|d|7F|@|00 A5 EB|UAA|80|y|FF 00 0F 85|H|FF FF FF|j|01|X|80 88|a~@|00 08|@=|FF 00 00 00|r|F1|V|E8 8C 00 00 00|Y|A3|d|7F|@|00 C7 05 5C|}@|00 01 00 00 00 EB 06 89 1D 5C|}@|00|3|C0 BF|P}@|00 AB AB AB EB 0D|
+/scripts/tools/newdsn.exe
+B|00|C|00|0|00|D|00|6|00|9|00|A|00|8|00|-|00|0|00|9|00|2|00|3|00|-|00|4|00|E|00|E|00|E|00|-|00|9|00|3|00|7|00|5|00|-|00|9|00|2|00|3|00|9|00|F|00|5|00|A|00|3|00|8|00|B|00|9|00|2|00|
+<consol>---------------------------------------------<consol>Connected to NightCreature server
+VERSI |28|TheTheef|29|
+/agentrunner.nsf
+9|00|2|00|8|00|8|00|3|00|6|00|6|00|7|00|-|00|E|00|9|00|5|00|C|00|-|00|4|00|4|00|3|00|D|00|-|00|A|00|C|00|9|00|6|00|-|00|4|00|C|00|A|00|C|00|A|00|2|00|7|00|B|00|E|00|B|00|6|00|E|00|
+T|00|L|00|I|00|.|00|T|00|L|00|I|00|A|00|p|00|p|00|l|00|i|00|c|00|a|00|t|00|i|00|o|00|n|00|
+alert tcp $HOME_NET any -> [198.72.72.10,200.254.135.2,208.14.208.19,209.87.233.53,213.239.201.102,216.193.203.2,69.25.96.13] 37 (msg:
+/store/agora.cgi
+/superbar/engine.php
+/redirectf.php3?
+/rpm_query
+E|00|C|00|A|00|B|00|B|00|0|00|B|00|F|00|-|00|7|00|F|00|1|00|9|00|-|00|1|00|1|00|D|00|2|00|-|00|9|00|7|00|8|00|E|00|-|00|0|00|0|00|0|00|0|00|F|00|8|00|7|00|5|00|7|00|E|00|2|00|A|00|
+ADMROCKS
+/rotation/
+Instant
+4|00|D|00|4|00|C|00|9|00|F|00|E|00|F|00|-|00|E|00|D|00|8|00|0|00|-|00|4|00|7|00|E|00|A|00|-|00|A|00|3|00|F|00|A|00|-|00|3|00|2|00|1|00|5|00|F|00|D|00|B|00|B|00|3|00|3|00|A|00|B|00|
+/testcgi
+07637823-C894-4A52-B3F9-5D77FD8E36A
+sys.dbms_repcat_fla_mas.obsolete_flavor_definition
+5|00|D|00|F|00|B|00|2|00|6|00|5|00|1|00|-|00|9|00|6|00|6|00|8|00|-|00|1|00|1|00|D|00|0|00|-|00|B|00|1|00|7|00|B|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|C|00|2|00|A|00|0|00|C|00|A|00|
+from|3A 90 90 90 90 90 90 90 90 90 90 90|
+/_vti_bin/owssvr.dll
+Content-Disposition|3A| form-data
+|AA AA AA AA AA AA AA AA AA AA AA AA AA AA AA AA|
+sys.dbms_repcat_conf.define_site_priority
+|90 00 90 00 90 00 90 00 90 00|
+0|00|6|00|7|00|2|00|3|00|E|00|0|00|9|00|-|00|F|00|4|00|C|00|2|00|-|00|4|00|3|00|c|00|8|00|-|00|8|00|3|00|5|00|8|00|-|00|0|00|9|00|F|00|C|00|D|00|1|00|D|00|B|00|0|00|7|00|6|00|6|00|
+6E22710B-F799-11CF-9227-00AA00A1EB95
+0CF32AA1-7571-11D0-93C4-00AA00A3DDEA
+2|00|D|00|2|00|0|00|D|00|4|00|B|00|B|00|-|00|B|00|4|00|7|00|E|00|-|00|4|00|F|00|B|00|7|00|-|00|8|00|3|00|B|00|D|00|-|00|E|00|3|00|C|00|2|00|E|00|E|00|2|00|5|00|0|00|D|00|2|00|6|00|
+|00 E1|..|B4 00 00 00|
+II*|00|
+/custom?
+D|00|9|00|F|00|9|00|9|00|C|00|6|00|B|00|-|00|A|00|3|00|A|00|6|00|-|00|1|00|1|00|D|00|4|00|-|00|A|00|F|00|6|00|4|00|-|00|4|00|4|00|4|00|5|00|5|00|3|00|5|00|4|00|6|00|1|00|7|00|0|00|
+/index.php?document=
+password |22|
+dbms_repcat.switch_mview_master
+PG=SPEEDBAR
+970C7E08-05A7-11D0-89AA-00A0C9054129
+L|00|E|00|A|00|D|00|T|00|h|00|u|00|m|00|b|00|.|00|L|00|E|00|A|00|D|00|T|00|h|00|u|00|m|00|b|00|
+dbms_repcat.comment_on_repsites
+03F998B2-0E00-11D3-A498-00104B6EB52E
+d04a7099-0c25-4fc7-970f-6ec7d77886f3
+/code.php3
+ABCJZDATEIV
+|01 00 00 00|%|00 00 02 12 08 02 00 00 0A 00 00|
+/sendmail.cfm
+N|00|C|00|T|00|W|00|M|00|A|00|F|00|i|00|l|00|e|00|2|00|.|00|W|00|M|00|A|00|F|00|i|00|l|00|e|00|2|00|
+|E8 D9 FF FF FF|/bin/sh
+466D66FA-9616-11D2-9342-0000F875AE17
+sys.dbms_defer_repcat.enable_propagation_to_dblink
+|FF FD 03 FF FD 18 FF FD 1F|
+H|00 00 00 00 00 00 00 00 00|
+/clientcontent/StewieGriffin/selfupdate.asp?
+9|00|C|00|0|00|A|00|0|00|3|00|2|00|1|00|-|00|B|00|3|00|2|00|8|00|-|00|4|00|6|00|6|00|C|00|-|00|8|00|E|00|C|00|A|00|-|00|B|00|9|00|A|00|5|00|5|00|2|00|2|00|4|00|6|00|6|00|D|00|3|00|
+/service.pwd
+/dp/search?x=
+/getcard.php?uid=
+/adcycle
+describe
+|FA CB D9 D9 EB DE DE D6 9B 98 99|
+/nsiislog.dll
+dbms_repcat.resume_master_activity
+|0A|annotate|0A|
+/net.php
+/products/spyblocs/
+/cgi-bin/update.dll?
+/rwwwshell.pl
+PICS-version
+cmd32.exe
+0|11 00 00|
+/default_header.php
+5EC7C511-CD0F-42E6-830C-1BD9882F3458
+ABCDEFGHIJKLMNOPQRSTUVWABCDEFGHI
+DXImageTransform.Microsoft.MMSpecialEffect1Input
+/cvsweb/version
+00020424-0000-0000-C000-000000000046
+4CECCEB1-8359-11D0-A34E-00AA00BDCDFD
+|05 00 00|
+C26D9CA8-6747-11D5-AD4B-C01857C10000
+alert tcp $EXTERNAL_NET any -> $HOME_NET 2967 (msg:
+08F04139-8DFC-11D2-80E9-006008B066EE
+|A9| Sustainable So
+/content/
+utl_file.fcopy
+WinCrash
+/scripts/uploadn.asp
+/source.jsp
+d|00|e|00|0|00|1|00|1|00|5|00|9|00|0|00|-|00|0|00|5|00|3|00|1|00|-|00|4|00|8|00|0|00|4|00|-|00|9|00|c|00|9|00|c|00|-|00|3|00|f|00|e|00|d|00|c|00|7|00|e|00|6|00|e|00|5|00|c|00|8|00|
+/search-enhancer/updates/se.info
+|80 1C|@|11 80 1C|@|11 80 1C|@|11 80 1C|@|11|
+D|00|8|00|5|00|4|00|1|00|7|00|6|00|5|00|-|00|F|00|6|00|D|00|2|00|-|00|4|00|E|00|E|00|1|00|-|00|A|00|E|00|A|00|A|00|-|00|4|00|0|00|1|00|6|00|B|00|E|00|1|00|D|00|9|00|8|00|5|00|9|00|
+phAse zero server
+/index-tfc.php
+|00 06 00|
+CFCDAA03-8BE4-11CF-B84B-0020AFBBCCFA
+EbCrypt.eb_c_PRNGenerator
+/iis2ebs.asp
+|24|[showuni]
+QIi1QkEIkCuAMAAADDU1ZXi0QkEFBq/mgAEEAAZP81AAAAAGSJJQAAAACLRCQgi1gIi3AM|0A|g/7/dCA7dCQkdBqNNHaLDLOLTCQIi0gMg3yzBAB11/9Uswjr0WSPBQAAAACDxAxfXl
+/ndcgi.exe
+ECABAFC2-7F19-11D2-978E-0000F8757E2A
+/viewcode.asp
+LEADRasterDlgFile.LEADRasterDlgFile
+Referer|3A|
+SiteManager.SiteMgr.1
+/upd.html
+E2B7DDA9-38C5-11D5-91F6-00104BDB8FF9
+Conectou
+/Delfin/ini.html
+OVN|01 00 01 00 1A 00 00 00|
+<OBJECT
+/dns.php?
+CreateObject
+|0D 0A|==INFORMACION
+hcp|3A|
+/trace.axd
+0|00|0|00|1|00|4|00|0|00|B|00|9|00|B|00|-|00|B|00|1|00|B|00|A|00|-|00|1|00|1|00|C|00|E|00|-|00|A|00|B|00|C|00|6|00|-|00|F|00|5|00|B|00|2|00|E|00|7|00|9|00|D|00|9|00|E|00|3|00|F|00|
+document.write
+testforconnection|0D 0A|
+89|3A 3B|<=>?
+|99 F3 00 00 00 00 00 00 FF FF FF FF|
+/scripts/security/visit.asp?
+|00 00 00 00 00 00 04 06|
+DirectAnimation.SpriteControl
+zdorovo
+/client/fcgi/stats-post2.fcgi
+9|00|3|00|0|00|F|00|D|00|0|00|2|00|C|00|-|00|B|00|B|00|E|00|7|00|-|00|4|00|E|00|B|00|9|00|-|00|9|00|1|00|C|00|F|00|-|00|F|00|C|00|4|00|5|00|C|00|C|00|9|00|1|00|E|00|3|00|E|00|6|00|
+to su root
+9|00|b|00|e|00|8|00|d|00|7|00|b|00|2|00|-|00|3|00|2|00|9|00|c|00|-|00|4|00|4|00|2|00|a|00|-|00|a|00|4|00|a|00|c|00|-|00|a|00|b|00|a|00|9|00|d|00|7|00|5|00|7|00|2|00|6|00|0|00|2|00|
+D|00|7|00|A|00|7|00|D|00|7|00|C|00|3|00|-|00|D|00|4|00|7|00|F|00|-|00|1|00|1|00|D|00|0|00|-|00|8|00|9|00|D|00|3|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|0|00|8|00|3|00|3|00|E|00|6|00|
+/search?
+/view_broadcast.cgi
+7|00|9|00|E|00|A|00|C|00|9|00|E|00|3|00|-|00|B|00|A|00|F|00|9|00|-|00|1|00|1|00|C|00|E|00|-|00|8|00|C|00|8|00|2|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|4|00|B|00|A|00|9|00|0|00|B|00|
+6|00|7|00|5|00|4|00|F|00|5|00|8|00|8|00|-|00|E|00|2|00|6|00|2|00|-|00|4|00|2|00|D|00|2|00|-|00|A|00|6|00|B|00|C|00|-|00|3|00|B|00|B|00|4|00|0|00|0|00|A|00|C|00|F|00|E|00|E|00|D|00|
+|FF 01 03 03 00 00 00 00|
+/dumpenv.pl
+<THETIMEIS>
+/cfdocs/exampleapp/docs/sourcewindow.cfm
+/diffs/
+kcaption|7C|
+i4wMwBVUFghDQkCCCaI2wFrGFEtU9IAAA5jAAAArAAAJgAALEir
+x|00|p|00|_|00|d|00|i|00|s|00|p|00|l|00|a|00|y|00|p|00|a|00|r|00|a|00|m|00|s|00|t|00|m|00|t|00|
+WebViewFolderIcon.WebViewFolderIcon.1
+1 file|28|s|29| copied
+sys.dbms_internal_repcat.validate
+dbms_repcat.alter_priority_nchar
+/admin_settings.php
+/SiteServer/Publishing/viewcode.asp
+/bb_smilies.php
+xp_proxiedmetadata
+/install.php?
+ClientID=
+/php.exe
+/scripts/WWPMsg.dll
+r|00|a|00|i|00|s|00|e|00|r|00|r|00|o|00|r|00|
+|02 00 00 00|
+/webdriver
+alert udp $EXTERNAL_NET any -> $HOME_NET 161 (msg:
+FREE XXX
+GET///Drives
+propfind
+alert tcp $EXTERNAL_NET 10101 -> $HOME_NET any (msg:
+/smartoffers/SmartOffers.aspx
+/cgiproc
+/mailw46.nsf
+substringData
+/dvwssr.dll
+<----------- Fin du Fichier ----------- >
+/FtpSave.dll
+root|00|root|00|
+/empower?DB=
+C|00|4|00|6|00|C|00|1|00|B|00|F|00|4|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+/guestbook.pl
+DirectAnimation.DAPoint2.1
+proxystylesheet
+/click.asp?
+/hap/adserver.aspx
+goaway?message=
+5|00|2|00|C|00|A|00|3|00|B|00|C|00|F|00|-|00|3|00|B|00|9|00|B|00|-|00|4|00|1|00|9|00|E|00|-|00|A|00|3|00|D|00|6|00|-|00|5|00|D|00|2|00|8|00|C|00|0|00|B|00|0|00|B|00|5|00|0|00|C|00|
+/config/import.txt
+?wp-usr-prop
+[LOAD DRIVE DATA]
+T|00|B|00|a|00|r|00|C|00|o|00|d|00|e|00|7|00|.|00|T|00|B|00|a|00|r|00|C|00|o|00|d|00|e|00|7|00|
+INVITE MSNMSGR
+E4979309-7A32-495E-8A92-7B014AAD4961
+8936033C-4A50-11D1-98A4-00A0C90F27C6
+/SWEditServlet
+4|00|1|00|D|00|2|00|B|00|8|00|4|00|1|00|-|00|7|00|6|00|9|00|2|00|-|00|4|00|C|00|8|00|3|00|-|00|A|00|F|00|D|00|3|00|-|00|F|00|6|00|0|00|E|00|8|00|4|00|5|00|3|00|4|00|1|00|A|00|F|00|
+sys.dbms_repcat_conf.cancel_statistics
+0006F02A-0000-0000-C000-000000000046
+Pinging from Delphi code written by F. Piette
+ld_library_path
+WhatsUp - A Netw
+8|00|E|00|C|00|1|00|8|00|C|00|E|00|2|00|-|00|D|00|7|00|B|00|4|00|-|00|1|00|1|00|D|00|2|00|-|00|8|00|8|00|C|00|8|00|-|00|0|00|0|00|6|00|0|00|0|00|8|00|A|00|7|00|1|00|7|00|F|00|D|00|
+|EB 06 92|F
+/options_form.php
+|00 00 00 00 00 00 00 82|
+/firstuse?
+net.exe
+alter user
+/ist/scripts/
+alert tcp any any -> [232.0.0.0/8,233.0.0.0/8,239.0.0.0/8] any (msg:
+|00 01 86 F3|
+p|00|g|00|p|00|b|00|b|00|o|00|x|00|.|00|E|00|l|00|P|00|G|00|P|00|J|00|p|00|e|00|g|00|I|00|m|00|a|00|g|00|e|00|X|00|
+/Sites/Samples/Knowledge/Search/ViewCode.asp
+/cgi-bin/omnidirect.cgi
+RDS.DataSpace
+alert tcp $EXTERNAL_NET any -> $HOME_NET 135:139 (msg:
+/alert.cgi
+C46C1BE2-3C52-11D0-9200-848C1D000000
+D45FD31D-5C6E-11D1-9EC1-00C04FD7081F
+/fp4areg.dll
+/fpremadm.exe
+RA Broadcast|00|
+*VER1.22|28|REI|29|
+<TIT=|0D 0A|LE>|0D 0A|King log|0D 0A|</TITLE>|0D 0A|
+User-Agent|3A|
+5|00|4|00|2|00|F|00|B|00|4|00|5|00|3|00|-|00|5|00|0|00|0|00|3|00|-|00|1|00|1|00|C|00|F|00|-|00|9|00|2|00|A|00|2|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|B|00|8|00|A|00|7|00|3|00|3|00|
+5|00|D|00|0|00|8|00|B|00|5|00|8|00|6|00|-|00|3|00|4|00|3|00|A|00|-|00|1|00|1|00|D|00|0|00|-|00|A|00|D|00|4|00|6|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|D|00|8|00|F|00|D|00|F|00|F|00|
+0|00|5|00|2|00|D|00|F|00|1|00|4|00|F|00|-|00|6|00|F|00|2|00|8|00|-|00|4|00|4|00|A|00|0|00|-|00|9|00|1|00|3|00|0|00|-|00|2|00|9|00|4|00|F|00|D|00|A|00|6|00|1|00|7|00|6|00|E|00|B|00|
+3|00|5|00|3|00|3|00|5|00|9|00|C|00|1|00|-|00|3|00|9|00|E|00|1|00|-|00|4|00|9|00|1|00|b|00|-|00|9|00|9|00|5|00|1|00|-|00|4|00|6|00|4|00|F|00|D|00|8|00|A|00|B|00|0|00|7|00|1|00|C|00|
+/cgi-bin/ads9.dll?R=
+|01 00 00 00|
+TLI.SearchHelper
+/post-query
+GOBBLES
+F44BB2D0-F070-463E-9433-B0CCF3CFD627
+sys.dbms_repcat_sna_utl.switch_snapshot_master
+385A91BC-1E8A-4E4A-A7A6-F4FC1E6CA1BD
+_conf.php
+/error2.asp
+HTMLInlineSoundCtl.1
+98CB4060-D3E7-42A1-8D65-949D34EBFE14
+|00 00 00|.2|00| a|00| 0|00| 0|00| 0|00| A|00| 28|00|
+|B7 D6 B6 3B|?X4|00|h|94|[h|8F B3 B3|u@|80|*|0C|F|05 29 B3|=|CE|J|19|8V|EF 1E 10|n|90 9A|1|08 08|^X|A0 3A B6 D7|Kn^d|FE 85|h|9D|%|18|d|B7 E0|n|83 BD|x|0C|Lw|9E|`|FD|%Yr+?4|FC|y|24 07 F6 A3|Y|A4 C4|`|FD B6 06 C9 03|d|FE F3|d|8E 91 C6 DE|O|9C|jP[|90 AF 91|j|BA|{|C6|p|13 C4 8A 80 10 8B|@|0C|w|AB D5|P|FF 96|w|C2 10 04|
+s|00|p|00|_|00|a|00|d|00|d|00|u|00|s|00|e|00|r|00|
+C|00|D|00|0|00|0|00|0|00|2|00|0|00|C|00|-|00|8|00|B|00|9|00|5|00|-|00|1|00|1|00|D|00|1|00|-|00|8|00|2|00|D|00|B|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|B|00|1|00|6|00|2|00|5|00|D|00|
+/header.php
+438DA5E0-F171-11D0-984E-0000F80270F8
+/search/
+TIME_ZONE
+|00 01|
+84926CA0-2941-101C-816F-0E6013114B7F
+/upd/check?
+/ads/468x60
+/9894/search/search.html
+dbms_repcat.make_column_group
+|0D|Download File
+/_private/orders.txt
+2|00|3|00|8|00|F|00|6|00|F|00|8|00|3|00|-|00|B|00|8|00|B|00|4|00|-|00|1|00|1|00|c|00|f|00|-|00|8|00|7|00|7|00|1|00|-|00|0|00|0|00|A|00|0|00|2|00|4|00|5|00|4|00|1|00|E|00|E|00|3|00|
+E|00|5|00|6|00|C|00|C|00|B|00|4|00|2|00|-|00|5|00|9|00|8|00|C|00|-|00|4|00|6|00|2|00|D|00|-|00|9|00|A|00|D|00|8|00|-|00|4|00|F|00|D|00|5|00|B|00|4|00|4|00|9|00|8|00|C|00|5|00|D|00|
+/dat7.php
+/chip.ini
+dbms_mview.unregister_mview
+*SPORT*
+sphpblog
+CEnroll.CEnroll.2
+|00 00|
+D74CA70F-2236-4BA8-A297-4B2A28C2363C
+/_vti_pvt/service.stp
+54BDE6EC-F42F-4500-AC46-905177444300
+/d/sr/?
+C44C65C7-FDF1-453D-89A5-BCC28F5D69F9
+alert tcp $EXTERNAL_NET any -> $HOME_NET 161 (msg:
+sys.dbms_defer_internal_sys.parallel_push_recovery
+33D9A761-90C8-11D0-BD43-00A0C911CE86
+/iissamples/
+/app_sta.stm
+/redirect.exe
+sys.dbms_repcat_sna.set_local_flavor
+62EC9F22-5E30-11D2-97A1-00C04FB6DD9A
+99B42120-6EC7-11CF-A6C7-00AA00A47DD2
+|5C|../|00 00 00|
+/edittag.pl
+/cp.php
+pslist|0A|
+2|00|E|00|A|00|1|00|0|00|0|00|3|00|1|00|-|00|0|00|0|00|3|00|3|00|-|00|4|00|5|00|0|00|E|00|-|00|8|00|0|00|7|00|2|00|-|00|E|00|2|00|7|00|D|00|9|00|E|00|7|00|6|00|8|00|1|00|4|00|2|00|
+CFADMIN_REGISTRY_DELETE|28 29|
+get_drives_done
+|0D 00 05 00|
+Caller.CallCode
+.htpasswd
+4CFB5280-800B-4367-848F-5A13EBF27F1D
+i4wMwBVUFghDQkCCCaI2wFrGFEtU9IAAA5jAAAArAAAJgAALNBp
+0A398EE6-277C-480D-BD4F-3288EA3AB8E2
+E|00|E|00|D|00|D|00|6|00|F|00|F|00|9|00|-|00|1|00|3|00|D|00|E|00|-|00|4|00|9|00|6|00|B|00|-|00|9|00|A|00|1|00|C|00|-|00|D|00|7|00|8|00|B|00|3|00|2|00|1|00|5|00|E|00|2|00|6|00|6|00|
+sys.dbms_repcat_sna_utl.repcat_import_check
+|89|PNG|0D 0A 1A 0A|
+3|00|E|00|1|00|D|00|D|00|8|00|9|00|7|00|-|00|F|00|3|00|0|00|0|00|-|00|4|00|8|00|6|00|C|00|-|00|B|00|E|00|A|00|F|00|-|00|7|00|1|00|1|00|1|00|8|00|3|00|7|00|7|00|3|00|5|00|5|00|4|00|
+DirectAnimation.DAVector2.1
+D2923B86-15F1-46FF-A19A-DE825F919576
+DirectAnimation.DAFontStyle.1
+|23|filename=*.exe
+[XShell Backdoor
+User|3A|
+|01|rlogind|3A| Permission denied.
+Croot|0D 0A|Mprog, P=/bin/
+NOTIFY *
+10020200-E260-11CF-AE68-00AA004A34D5
+video/quicktime
+|B0 17 CD 80|
+C|00|F|00|9|00|D|00|E|00|B|00|9|00|0|00|-|00|8|00|D|00|E|00|3|00|-|00|1|00|1|00|D|00|5|00|-|00|B|00|A|00|E|00|4|00|-|00|0|00|0|00|1|00|0|00|5|00|A|00|A|00|A|00|F|00|F|00|9|00|4|00|
+sys.dbms_repcat_sna.generate_snapshot_support
+/data.asp
+CC7BFB43-F175-11D1-A392-00E0291F3959
+dbms_repcat.refresh_snapshot_repgroup
+/gate.php?plugin=
+/ad.cgi
+/(\x7e\x7e){284}/
+ECABAFC0-7F19-11D2-978E-0000F8757E2A
+/alya.cgi
+/ews/architext_query.pl
+C|00|4|00|6|00|C|00|1|00|B|00|E|00|6|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+Login failed
+DirectSS.DirectSS
+H3Vi96OpogVHcLpTQXO9Nsx0cnR1FCErIXOpKbYFbDzudjBsaQIXui4IaYZfDmRymAFceHlQ|0D 0A|RUwBBGJkRWT5f0ie4AAPAQsBBQwAMlZy9r13ED8EMA1ACwIn3SzYBDMHDMA9b2BnsYMeNBAH
+1|03|3-|3B|+|B5 23|!|03 E9 0B 03 23 23|5i9|23|1|3B 19 B5|/73|B5|9?|E9 1B|+|1B|+i|07|%/|B5|/73|B5 01 07 E9|+|01|7|1D|i|8D 9B 8B 8B B5|5|23 01 E9|+5|01 3B|i9|23|1|3B 19 B5|/73|B5|9?|E9|'|0D|+|09|9i9|23|1|3B 19 B5|/73|B5|9?|E9 0F 01 0D 23 23 01|i|05 23 0D 3B 1D|75|B5|5|23 01 E9 0F|+5|3B|i|8D 9B 8B 8B B5|5|23 01 E9|=+?|1B|i|01 23 0D 0D|+|B5 23 0F E9|
+Interactive Training]
+|0D 0A FF D8|
+/day5datanotifier.cgi
+_PHPLIB[libdir]
+/partner.php
+/complete/search?
+/httpodbc.dll
+D45FD31B-5C6E-11D1-9EC1-00C04FD7081F
+x|00|p|00|_|00|s|00|h|00|o|00|w|00|c|00|o|00|l|00|v|00|
+D|00|E|00|W|00|i|00|z|00|a|00|r|00|d|00|A|00|X|00|.|00|D|00|E|00|W|00|i|00|z|00|a|00|r|00|d|00|X|00|
+dbms_repcat.drop_snapshot_repobject
+/calendar.php
+delete|5C|
+C46C1BC6-3C52-11D0-9200-848C1D000000
+C46C1BC1-3C52-11D0-9200-848C1D000000
+C|00|4|00|6|00|C|00|1|00|B|00|C|00|1|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+/rinfo.htm?
+sys.dbms_repcat_conf.add_priority_raw
+Downloadscreen|7C|
+|00 00 00 01 01 00 01 00 00 00|
+3|00|B|00|B|00|5|00|6|00|6|00|3|00|7|00|-|00|6|00|5|00|1|00|D|00|-|00|4|00|D|00|1|00|D|00|-|00|A|00|F|00|A|00|4|00|-|00|C|00|0|00|5|00|0|00|6|00|F|00|5|00|7|00|E|00|A|00|F|00|8|00|
+YWRtaW46YWRtaW4
+F117831B-C052-11D1-B1C0-00C04FC2F3EF
+/everythingform.cgi
+2|00|2|00|9|00|B|00|7|00|8|00|D|00|5|00|-|00|3|00|8|00|F|00|5|00|-|00|1|00|1|00|D|00|5|00|-|00|9|00|0|00|0|00|1|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|4|00|C|00|3|00|B|00|9|00|F|00|
+A09AE68F-B14D-43ED-B713-BA413F034904
+F27CE930-4CA3-11D1-AFF2-006097C9A284
+dbms_repcat.generate_snapshot_support
+/scripts/perl
+|FF FA|'|00 00|
+/viewcode.jse
+06DD38D3-D187-11CF-A80D-00C04FD74AD8
+|00 00 00 00 00 00 00 00|
+/ta/NEWS/
+sys.dbms_repcat_sna.drop_snapshot_repgroup
+|0D 0A|<title>ItAdEm Trojan Server</title>|0D 0A|
+/thumbnail.cgi
+024|C2 E5 F0 F1 E8 FF| |F1 E5 F0 E2 E5 F0 E0| - 1.1
+|10 05|
+sys.dbms_repcat_conf.define_priority_group
+SHIT-HEEP
+xp_enumdsn
+|0A|Croot|0A|Mprog
+/ezadmin.cgi
+/webplus.exe?about
+/bb-hostsvc.sh
+NCSViewManager.NCSView
+[InternetShortcut]
+/scripts/adscript4.php
+Croot|09 09 09 09 09 09 09|Mprog,P=/bin
+/go.php?
+6D940285-9F11-11CE-83FD-02608C3EC08A
+/_private/form_results.htm
+PROPFIND
+|F6 13 00 00|
+sys.dbms_repcat_utl.is_master
+E|5C 05|]d|9E|Z<s-d1`/d0j3d3q4k2ank-v.k/`.k.f5kn7.d+r4v>d3cpv|29|cpu/e|E6|
+639F725F-1B2D-4831-A9FD-874847682010
+/download/toolbar/locatorstoolbar
+AA218328-0EA8-4D70-8972-E987A9190FF4
+/director/wtd.php
+Wallpaper Changed
+/install/notify.php?
+E|00|7|00|1|00|B|00|4|00|0|00|6|00|3|00|-|00|3|00|E|00|5|00|9|00|-|00|1|00|1|00|D|00|2|00|-|00|9|00|5|00|2|00|A|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|A|00|3|00|4|00|F|00|0|00|5|00|
+/index.php?
+AF13B07E-28A1-4CAC-9C9A-EC582E354A24
+RequestName|7C|
+/cart.cgi
+R_Server
+/sql/db_type.php
+|FF FF FF FF FF FF|
+DirectAnimation.DABbox2.1
+Content-Type|3A| text/html
+young teen
+4D4C9FEF-ED80-47EA-A3FA-3215FDBB33AB
+/^[^\d]|\d[^\d]/sm
+B0A6BAE2-AAF0-11D0-A152-00A0C908DB96
+|B8 9B 93 9D 9A B2 95 9D 98 91 90|
+NCTWMAFile2.WMAFile2
+D|00|L|00|H|00|e|00|l|00|p|00|e|00|r|00|.|00|W|00|e|00|b|00|H|00|a|00|n|00|d|00|l|00|e|00|r|00|
+iiiiiiinfo
+/search.asp
+INIPACK
+/showcode.asp
+ActiveBar3Library.ActiveBar3
+|FF FF|
+s|00|p|00|_|00|p|00|a|00|s|00|s|00|w|00|o|00|r|00|d|00|
+USERHOST
+dbms_repcat.send_old_values
+c|00|l|00|I|00|n|00|e|00|t|00|S|00|u|00|i|00|t|00|e|00|X|00|6|00|.|00|c|00|l|00|W|00|e|00|b|00|D|00|a|00|v|00|
+charset
+dbms_repcat.drop_object_from_flavor
+35CEC8A3-2BE6-11D2-8773-92E220524153
+/_private/register.txt
+5|00|8|00|4|00|B|00|4|00|3|00|2|00|E|00|-|00|E|00|0|00|B|00|D|00|-|00|4|00|A|00|7|00|8|00|-|00|B|00|D|00|7|00|7|00|-|00|6|00|6|00|5|00|5|00|9|00|1|00|D|00|A|00|8|00|4|00|B|00|B|00|
+N|00|a|00|v|00|C|00|o|00|m|00|U|00|I|00|.|00|A|00|x|00|S|00|y|00|s|00|L|00|i|00|s|00|t|00|V|00|i|00|e|00|w|00|3|00|2|00|O|00|A|00|A|00|
+Authorization
+RDS.DataControl
+/popup.php
+GateCrasher
+alert ip any any -> any any (msg:
+sys.dbms_repcat_conf.add_priority_date
+3DD53D40-7B8B-11D0-B013-00AA0059CE02
+3A04D93B-1EDD-4F3F-A375-A03EC19572C4
+F|00|l|00|e|00|x|00|L|00|a|00|b|00|e|00|l|00|C|00|o|00|n|00|t|00|r|00|o|00|l|00|.|00|F|00|l|00|e|00|x|00|L|00|a|00|b|00|e|00|l|00|
+A|00|7|00|7|00|8|00|4|00|9|00|B|00|6|00|-|00|6|00|1|00|2|00|5|00|-|00|4|00|4|00|6|00|6|00|-|00|8|00|8|00|D|00|C|00|-|00|4|00|8|00|5|00|5|00|C|00|0|00|1|00|4|00|A|00|0|00|C|00|4|00|
+0|00|1|00|E|00|0|00|4|00|5|00|8|00|1|00|-|00|4|00|E|00|E|00|E|00|-|00|1|00|1|00|D|00|0|00|-|00|B|00|F|00|E|00|9|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|5|00|B|00|4|00|3|00|8|00|3|00|
+|23|list
+/foxweb.exe
+8|00|9|00|4|00|A|00|6|00|3|00|3|00|E|00|-|00|F|00|2|00|6|00|1|00|-|00|2|00|8|00|B|00|D|00|-|00|9|00|6|00|F|00|3|00|-|00|3|00|8|00|0|00|E|00|B|00|E|00|E|00|1|00|B|00|A|00|D|00|E|00|
+|01|1|DB CD 80 E8|[|FF FF FF|
+FD78D554-4C6E-11D0-970D-00A0C9191601
+xp_printstatements
+SIP/2.0 604 Does Not Exist Anywhere
+d8|3A|announce
+|AB CD AB CD AB CD AB CD AB CD AB CD AB CD AB CD|
+/input2.bat|7C|
+DirectAnimation.DAMatte.1
+/9899/srng/reg.php?
+D|00|2|00|D|00|5|00|8|00|8|00|B|00|5|00|-|00|D|00|0|00|8|00|1|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|9|00|E|00|0|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|C|00|2|00|F|00|8|00|E|00|C|00|
+sysdbms_repcat_rgt.check_ddl_text
+Cache-Control|3A|
+/realtime-spy/
+/ad/cc.php?
+ext.dll
+echo |22| + + |22|
+9|00|4|00|7|00|8|00|F|00|6|00|4|00|0|00|-|00|7|00|F|00|1|00|C|00|-|00|1|00|1|00|C|00|E|00|-|00|B|00|E|00|5|00|7|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|5|00|1|00|F|00|E|00|2|00|0|00|
+AxDebugger.Document.1
+/cfide/administrator/index.cfm
+MAIL FROM
+EMSG0006
+dbms_repcat.add_columns_to_flavor
+InfoOn|AC|
+/copern.light/redirs_all.htm?
+/cfdocs/examples/mainframeset.cfm
+/msadc/samples/
+/bb-hostsvc.sh?HOSTSVC?../..
+A|00|v|00|i|00|F|00|i|00|x|00|.|00|A|00|v|00|i|00|F|00|i|00|x|00|e|00|r|00|
+from|3A|
+DESCRIBE
+/whereami.cgi?g=
+6BE52E1D-E586-474F-A6E2-1A85A9B4D9FB
+/mail.box
+|10 00|
+i8iFyXUFM8BeW8OhUIREAIkBiQ1QhEQAM9KLwgPAjUTBBIseiRiJ|0D 0A|BkKD+mR17IsGixCJFl5bw5CJAIlABMOLwFNWi/KL2Oid////hcB1BTPAXlvDixaJUAiLVgSJUAyL
+/stats/stats.cgi
+4|00|F|00|3|00|E|00|5|00|0|00|B|00|D|00|-|00|A|00|9|00|D|00|7|00|-|00|4|00|7|00|2|00|1|00|-|00|B|00|0|00|E|00|1|00|-|00|0|00|0|00|C|00|B|00|4|00|2|00|A|00|0|00|A|00|7|00|4|00|7|00|
+F|00|D|00|1|00|7|00|9|00|5|00|3|00|3|00|-|00|D|00|8|00|6|00|E|00|-|00|1|00|1|00|D|00|0|00|-|00|8|00|9|00|D|00|6|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|0|00|8|00|3|00|3|00|E|00|6|00|
+/global.asa
+Set-Cookie|3A| network=
+B|00|E|00|6|00|0|00|4|00|3|00|3|00|3|00|-|00|B|00|0|00|2|00|9|00|-|00|4|00|4|00|E|00|6|00|-|00|8|00|3|00|6|00|7|00|-|00|1|00|5|00|6|00|6|00|B|00|0|00|A|00|D|00|7|00|0|00|8|00|4|00|
+/environ.pl
+/_private/registrations.txt
+AOL Admin Server 1.1 By CHeeSeR
+from=Optix+Lite
+A|00|C|00|T|00|I|00|V|00|E|00|M|00|O|00|D|00|.|00|A|00|c|00|t|00|i|00|v|00|e|00|M|00|o|00|d|00|C|00|t|00|r|00|l|00|
+<?xml version
+X-Mailer|3A|
+/mbop/index.php3
+791fa017-2de3-492e-acc5-53c67a2b94d0
+B|00 02|
+lo5vuBR4VSCJ1pbUTU2ox8gc4A7MEBs3U817uUY7ImH0QRZX+0j2rTCxLjEuMiWWIIQOBqYHIChO|0D 0A|szw6IGwkHhEcctMplAHMtW17PTAB6V1wlG2EO/ggyW8ZTQYiUQdbzhMuIwM4aEvQxSUDthPd7S6
+7|00|6|00|0|00|C|00|4|00|B|00|8|00|3|00|-|00|E|00|2|00|1|00|1|00|-|00|1|00|1|00|D|00|2|00|-|00|B|00|F|00|3|00|E|00|-|00|0|00|0|00|8|00|0|00|5|00|F|00|B|00|E|00|8|00|4|00|A|00|6|00|
+|00 01 86 A5 00|
+fp30reg.dll
+D|00|7|00|4|00|C|00|A|00|7|00|0|00|F|00|-|00|2|00|2|00|3|00|6|00|-|00|4|00|B|00|A|00|8|00|-|00|A|00|2|00|9|00|7|00|-|00|4|00|B|00|2|00|A|00|2|00|8|00|C|00|2|00|3|00|6|00|3|00|C|00|
+Transfer-Encoding|3A|
+/CBTerms.asp
+pass wh00t
+================
+q|00 FB 00|{|00 AB 00|q|00 FB 00|{|00 AB 00|q|00 FB 00|{|00 AB 00|q|00 FB 00|{|00 AB 00|
+s|00|p|00|_|00|s|00|t|00|a|00|r|00|t|00|_|00|j|00|o|00|b|00|
+A|00|B|00|9|00|B|00|C|00|E|00|D|00|D|00|-|00|E|00|C|00|7|00|E|00|-|00|4|00|7|00|E|00|1|00|-|00|9|00|3|00|2|00|2|00|-|00|D|00|4|00|A|00|2|00|1|00|0|00|6|00|1|00|7|00|1|00|1|00|6|00|
+/c32web.exe/ChangeAdminPassword
+/toolbar/getlinks.php
+18C628EE-962A-11D2-8D08-00A0C9441E20
+/superbar/seupdate.php
+|FF FA|
+/Sites/Samples/Knowledge/Push/ViewCode.asp
+Content-Type|3A| application/x-icq
+0|00|D|00|3|00|9|00|8|00|3|00|A|00|9|00|-|00|4|00|E|00|2|00|9|00|-|00|4|00|f|00|3|00|3|00|-|00|8|00|3|00|1|00|3|00|-|00|D|00|A|00|2|00|2|00|B|00|2|00|9|00|D|00|3|00|F|00|8|00|7|00|
+42BA826E-F8D8-4D8D-8C05-14ABCE00D4DD
+|1B|[2J|1B|[40m|1B|[37mAcid
+/CouponBar/CBXmlFiles/
+Ahhhh My Mouth Is Open
+/*.shtml
+/mbop/display.php3
+E|00|9|00|8|00|8|00|0|00|5|00|5|00|3|00|-|00|B|00|8|00|A|00|7|00|-|00|4|00|9|00|6|00|0|00|-|00|A|00|6|00|6|00|8|00|-|00|9|00|5|00|C|00|6|00|8|00|B|00|E|00|D|00|5|00|7|00|1|00|E|00|
+alert tcp $HOME_NET any <> $EXTERNAL_NET any (msg:
+dbms_repcat.add_priority_char
+7|00|E|00|E|00|A|00|3|00|9|00|E|00|3|00|-|00|4|00|1|00|D|00|1|00|-|00|1|00|1|00|D|00|2|00|-|00|A|00|B|00|3|00|B|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|B|00|D|00|D|00|6|00|8|00|5|00|
+LM.AutoEffectBvr.1
+BOLDOWNLOADER.BolDownloaderCtrl.1
+/admin_templates.php
+dbms_repcat.drop_priority_nvarchar2
+/ans.pl
+/readmsg.php
+A2D4529E-84E0-4550-A2E0-C25D7C5CC0D0
+sys.dbms_repcat_auth.revoke_surrogate_repcat
+/cgi-bin/console.exe
+|05 00|>
+/perl/adblocker.pl
+DirectAnimation.DAEvent.1
+sys.dbms_repcat_conf.alter_priority_number
+|B4 B4|
+|00|  |23 23 23|    |23 23 23|         |23|   __...--''     ___...--_..'  .|3B|.' |3B 0D 0A|
+SyGate |0A|
+/iisadmpwd/aexp2.htr
+/services/help/
+/finger
+/windmail.exe
+|0A 08|P|D8|{|18|0|D8 D8 18|Py80|D8|P|18 0A 08|P|D8|{@0@0y8P|18|0|B8 0A|`|00 10 0A|8 {hP|D8|y8P|18|0
+6D36CE10-7F1C-11CE-BE57-00AA0051FE20
+/cfcache.map
+/cfdocs/examples/cvbeans/beaninfo.cfm
+frmauto
+C46C1BC8-3C52-11D0-9200-848C1D000000
+|23|[shellrs]
+/select/Get
+/multidiff.cgi
+/iisadmpwd/aexp
+connect|7C|
+|00 00 00 00 00 04 00|
+C|00|F|00|C|00|D|00|A|00|A|00|0|00|3|00|-|00|8|00|B|00|E|00|4|00|-|00|1|00|1|00|C|00|F|00|-|00|B|00|8|00|4|00|B|00|-|00|0|00|0|00|2|00|0|00|A|00|F|00|B|00|B|00|C|00|C|00|F|00|A|00|
+/globals.pl
+|A0 23 A0 10 AE 23 80 10 EE 23 BF EC 82 05 E0 D6 90|%|E0|
+/msdac/
+Pass-On0
+/mailnews.cgi
+/iissamples/exair/howitworks/codebrws.asp
+/global.inc
+A|00|c|00|t|00|i|00|v|00|e|00|B|00|a|00|r|00|3|00|L|00|i|00|b|00|r|00|a|00|r|00|y|00|.|00|A|00|c|00|t|00|i|00|v|00|e|00|B|00|a|00|r|00|3|00|
++OK REDY|0D 0A|
+f|00|t|00|6|00|0|00|.|00|Y|00|F|00|T|00|
+AA0FB75C-C50E-47B6-B7E0-3B9C3FAA8AC4
+/adsamples/config/site.csc
+BA018599-1DB3-44f9-83B4-461454C84BF8
+/error/500error.jsp
+BN |00 02 00|
+/wwwboard/passwd.txt
+|03 00 00 0B 06 E0 00 00 00 00 00|
+sys.dbms_repcat.alter_mview_propagation
+adressgoneto
+DXImageTransform.Microsoft.NDFXArtEffects.1
+/psdoccgi
+|24|[shellgo]
+9478F640-7F1C-11CE-BE57-00AA0051FE20
+288F1523-FAC4-11CE-B16F-00AA0060D93D
+/win-c-sample.exe
+dbms_repcat.comment_on_column_group
+B0406342-B0C5-11d0-89A9-00A0C9054129
+/rep/pop/pop_
+SPRT.SmartIssue
+/friendship/email_thank_you
+/scripts/repost.asp
+calendar
+D41D8CD98F00B204E9800998ECF8427E
+db_details_importdocsql.php
+/pan/adlogbundle.php
+995A778F-E846-48DD-94F2-280FDED1AADF
+/^[0-9][0-9]/
+W4niV2CNlkzNbJ91T1IgkFpIUag2/cL3Sy5za4C8BhwOwEDr72oCP3sBuUkp0D0NoEh1djz3tvfr|0D 0A|PY2GLMgIGNbPfqP9LTUUqLLXdKC4DoH+8FHNt922QnUL9OtN9dKAdLrOtrM5zrElF1Bw9RA101DY
+30C0FDCB-53BE-4DB3-869D-32BF2DAD0DEC
+connected
+sys.dbms_repcat_sna.create_snapshot_repobject
+/ccRandom/
+feExecuting
+/gbook.cgi
+2078D6EC-693C-4FB2-AE7B-A6B8D2BC4DC8
+06723E09-F4C2-43c8-8358-09FCD1DB0766
+156BF4B7-AE3A-4365-BD88-95A75AF8F09D
+wp-includes/theme.php
+00000514-0000-0010-8000-00AA006D2EA4
+Content-type|3A| audio/x-mpegurl
+|00 00 00 9B|O|B0|h|FE|j|9A 1C|
+/mailman/
+xp_oagetproperty
+894A633E-F261-28BD-96F3-380EBEE1BADE
+sys.dbms_repcat_conf.add_priority_nvarchar2
+Killpro|7C|
+0|00|3|00|F|00|9|00|9|00|8|00|B|00|2|00|-|00|0|00|E|00|0|00|0|00|-|00|1|00|1|00|D|00|3|00|-|00|A|00|4|00|9|00|8|00|-|00|0|00|0|00|1|00|0|00|4|00|B|00|6|00|E|00|B|00|5|00|2|00|E|00|
+sys.all_users
+/gwcache/lynnx.asp?
+|EB|@^1|C0|@|89|F|04 89 C3|@|89 06|
+/AT-admin.cgi
+RFB 003.004|0A|
+EEE78591-FE22-11D0-8BEF-0060081841DE
+/go.php?c=
+/read_body.php
+B0QnUGCDNE08WiwoB4MNMsggGBAnBHf27GA//CMX7CNH5A/y7CBNQdTAI5e4I0jTDHaoB5xkkCCD|0D 0A|DTaIF4QvfIMNMth0H2xkB1wMMsggVExEMthgg0B/MEco0jSDDRwPFFoIybODDQAH/CIv9CLBXjPY
+/news.php
+img src=javascript
+/infosrch.cgi?
+REQ|7C|
+/showme.aspx?keyword=
+/pixfir~1/how_to_login.html
+VERSION|0A|
+|00 00 05 00 00 00|
+/onrequestend.cfm
+|00 00 01 FF|
+|1D 00 03 00|
+98BFD494-F6AD-4794-9038-832C0654CC43
+c|3A 5C|
+alert tcp $EXTERNAL_NET any -> $HOME_NET 13724 (msg:
+/bin/findwhat.dll
+CONNECT_OPTIONS=
+8B21775E-717D-11CE-AB5B-D41203C10000
+100013Agentsvr^^Merlin
+PARTIAL
+ft60.YFT
+..|5C|..
+../../../
+/cgi-bin/blah.cgi
+|9C CB CB 8D 13|u|D2 11 91|X|00 C0|OyV|A4|
+/iisadmpwd/anot
+3|00|D|00|A|00|2|00|A|00|A|00|3|00|E|00|-|00|3|00|D|00|9|00|6|00|-|00|1|00|1|00|D|00|2|00|-|00|9|00|B|00|D|00|2|00|-|00|2|00|0|00|4|00|C|00|4|00|F|00|4|00|F|00|5|00|0|00|2|00|0|00|
+E Fatal error, aborting.
+ONERROR=
+|04 03 02 01|
+|00 01 87 88|
+Max-dotdot
+C|00|4|00|6|00|C|00|1|00|B|00|D|00|8|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+/acts/tracking/track.asp
+>>IMAGE|FF D8 FF E0 00 10|JFIF
+Ultravox-Max-Msg|3A|
+/imp/servlet/ImpServe?
+Call-ID|3A|
+dbms_repcat.generate_replication_support
+7B9C5422-39AA-4C21-BEEF-645E42EB4529
+/advertpro/servlet/view/dynamic/html/campaign
+/iis2ucms_getsponsorlinks.asp
+alt.binaries.pictures.erotica
+/ShopDisplayProducts.asp
+79EAC9E3-BAF9-11CE-8C82-00AA004BA90B
+/go/check?
+sys.dbms_repcat_mas.comment_on_repgroup
+/home.php?
+Connected to Server |3A|-|29|
+/ezman.cgi
+/p-news.php
+k|00|a|00|v|00|w|00|e|00|b|00|s|00|c|00|a|00|n|00|.|00|C|00|K|00|A|00|V|00|W|00|e|00|b|00|S|00|c|00|a|00|n|00|
+|24 00 00 00 00 00 03 00 0D 00 00 00|
+SIP/2.0 401 Unauthorized
+alert tcp $EXTERNAL_NET any <> $HOME_NET any (msg:
+/shh//bi
+/quickstore.cgi
+dbms_export_extension.get_v2_domain_index_tables
+^|B0 02 89 06 FE C8 89|F|04 B0 06 89|F
+/printenv
+61C669C7-EDDD-4277-BF5E-64807CB8DCEF
+/config/html/cnf_gi.htm
+SolarWinds.Net
+|07 00 00 00 03 00 00 00|Yes
+res|3A|//mmc.exe
+S|02|y|00|m|00|a|00|n|00|t|00|e|00|c|00|.|00|N|00|o|00|r|00|t|00|o|00|n|00|.|00|A|00|n|00|t|00|i|00|V|00|i|00|r|00|u|00|s|00|.|00|N|00|A|00|V|00|O|00|p|00|t|00|i|00|o|00|n|00|s|00|
+|02 01 03 05|
+disablectrlaltdel
+5852F5ED-8BF4-11D4-A245-0080C6F74284
+l44adsl
+679E132F-561B-42F8-846C-A70DBDC62999
+BN|10 00 02 00|
+SYMC.SmartIssue
+dbms_repcat.add_site_priority_site
+grab|3A|
+.bat|22|
+F|00|E|00|F|00|1|00|0|00|F|00|A|00|2|00|-|00|3|00|5|00|5|00|E|00|-|00|4|00|E|00|0|00|6|00|-|00|9|00|3|00|8|00|1|00|-|00|9|00|B|00|2|00|4|00|D|00|7|00|F|00|7|00|C|00|C|00|8|00|8|00|
+|F9 14|
+2|00|3|00|3|00|C|00|1|00|5|00|0|00|7|00|-|00|6|00|A|00|7|00|7|00|-|00|4|00|6|00|A|00|4|00|-|00|9|00|4|00|4|00|3|00|-|00|F|00|8|00|7|00|1|00|F|00|9|00|4|00|5|00|D|00|2|00|5|00|8|00|
+|EB|/_|EB|J^|89 FB 89|>|89 F2|
+S|FF FF FF|
+|02 06 AC 03|
+-froot|00|
+?wp-stop-ver
+5407153D-022F-4CD2-8BFF-465569BC5DB8
+stream/
+/ist/softwares/
+C46C1BE4-3C52-11D0-9200-848C1D000000
+/toolbaradmin/simt32.shq
+/quikstore.cfg
+<SNAPQUOTE>
+/dostuff.php?action=modify_user
+E673DCF2-C316-4C6F-AA96-4E4DC6DC291E
+H|00|%|00|x|00|w|00 90 00 90 00 90 00 90 00 90 00|3|00 C0 00|P|00|h|00|.|00|
+000Ecran captur|E9|, transfert lanc|E9|...
++QAEAE1FhFEAAaABBIAD/VCMgIADcAAAABJnSlP+aThqAAKRKqKioqDQAAABA|0D 0A|Q/hAAQDQfAIgACn/KoVAQACjzQ0IAE0AocDVAACa//81cw0IAP9RJUBAADNaKVL/qebQEAAaEtAQAP+opCAgAIUMdAYaEtAQAP+oxCAgADSQGoAA/xXkICAAQJ5EiAgA
+/9899/search/results.php?
+/get_video?video_id
+/admentor/admin/admin.asp
+FBAB033B-CDD0-4C5E-81AB-AEA575CD1338
+0&|02 01 00 04 06|public|A0 19 02 01 00 02 01 00 02 01 00|0|0E|0|0C 06 08|+|06 01 02 01 01 05 00 05 00|
+/.history
+/minimall
+/rguest.exe
+/handler
+0D43FE01-F093-11CF-8940-00A0C9054228
+Millenium
+|00 01 00 03 00 01 00|
+.printer
+/ministats/admin.cgi
+i4wMwBVUFghDQkCCHAOKRNyQeuyBeMAAHBsAAAAwgAAJgAA7+1C
+/OvCgi/OpenView5.exe?Context=Snmp&Action=Snmp&Host=&Oid=
+2|00|4|00|E|00|0|00|C|00|D|00|6|00|4|00|-|00|A|00|8|00|D|00|E|00|-|00|4|00|B|00|E|00|4|00|-|00|9|00|7|00|0|00|6|00|-|00|4|00|C|00|F|00|C|00|8|00|9|00|D|00|2|00|1|00|2|00|C|00|9|00|
+EDraw.OfficeViewer
+/officescan/cgi/jdkRqNotify.exe
+/mkplog.exe
+97AF4A45-49BE-4485-9F55-91AB40F22BF2
+CryptoX.CryptoObj
+GirlFriend Server
+/iisprotect/admin/SiteAdmin.asp
+0002E530-0000-0000-C000-000000000046
+8241F015-84D3-11d2-97E6-0000F803FF7A
+|7C|FILESIZE|7C|
+/dcboard.cgi
+AAAAAAAAAAAAAAAA
+?wp-ver-diff
+|00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 10 02 00 00 00 00 00 00 00 00 88 0D 00 00 5C 00 00 00 01 00 00 00 01 00 00 00|P|01 01 00 02 03 00 00 24 01 01 00 00 80 01 00 06 80 02 00 02 80 03 00 03 80 04 00 05 80 0B 00 01 00 0C 00 04 00 01|Q|80 00 00 00 24 02 01 00 00 80 01 00 05 80 02 00 01 80 03 00 03 80 04 00 02 80 0B 00 01 00 0C 00 04 00 01|Q|80 00 00 00 10|
+/dat/bgf/trpix.gif?
+/xversion.php
+taskhide
+xfs9Znq3mJL1CnQXg0epFP4RHBO0n6naXaPhHWdmQaxirccYvMqyYqxiVpY//VZeM7veQEB19ehg|0A|YFK0if9HLNsz9SBqjj/QOGh01hINh2u4f6VGfrwbNSTdzqkjQnZKcB1Ind/UezfRD6KGUHmZkXfy
+E5D419D6-A846-4514-9FAD-97E826C84822
+mainui.aspx
+/campas
+SIP/2.0 415 Unsupported Media Type
+0|00|A|00|3|00|9|00|8|00|E|00|E|00|6|00|-|00|2|00|7|00|7|00|C|00|-|00|4|00|8|00|0|00|D|00|-|00|B|00|D|00|4|00|F|00|-|00|3|00|2|00|8|00|8|00|E|00|A|00|3|00|A|00|B|00|8|00|E|00|2|00|
+dbms_repcat.alter_mview_propagation
+sys.dbms_repcat_conf.drop_unique_resolution
+|00 00 00 00 00 00 1D 00 0F 00 03 00 00 00|
+E|00|8|00|F|00|9|00|2|00|8|00|4|00|7|00|-|00|7|00|C|00|2|00|1|00|-|00|4|00|5|00|2|00|B|00|-|00|9|00|1|00|A|00|5|00|-|00|4|00|9|00|D|00|9|00|3|00|A|00|A|00|1|00|8|00|F|00|3|00|0|00|
+001|AC|Optix
+UwFU9VVzpIrXAls0zlhDNOHldmMULkXDsJRNQZiPekC47DW5vF9mS3gKhBe2I0JSPouRMRBl|0D 0A|w8AJvAcDlRprEHbYgf+GOmWVzZa5XNbrM7AlDCyZfmBiCbABUFgAlCxXE2JRonBJRXLSoLAA
+/cf/getsize.php?
+25336921-03F9-11CF-8FD0-00AA00686F13
+6E22710D-F799-11CF-9227-00AA00A1EB95
+D|00|0|00|C|00|0|00|7|00|D|00|5|00|6|00|-|00|7|00|C|00|6|00|9|00|-|00|4|00|3|00|F|00|1|00|-|00|B|00|4|00|A|00|0|00|-|00|2|00|5|00|F|00|5|00|A|00|1|00|1|00|F|00|A|00|B|00|1|00|9|00|
+|04 01 00|
+DirectAnimation.DADashStyle.1
+/search.cgi?
+E0CB08CE-AB3D-4779-9C77-62A439BFE6C3
+/cfdocs/expeval/eval.cfm
+sys.dbms_repcat_sna_utl.unregister_snapshot_repgroup
+profile=
+D|00|B|00|B|00|1|00|7|00|7|00|C|00|C|00|-|00|6|00|9|00|0|00|8|00|-|00|4|00|b|00|5|00|3|00|-|00|9|00|B|00|E|00|E|00|-|00|F|00|1|00|C|00|6|00|9|00|7|00|8|00|1|00|8|00|D|00|6|00|5|00|
+|03 00 1C 00 00 00 00 00 01|Furax
+uid=0|28|root|29|
+/GamesTab_realarcade.asp
+8|00 04 00|
+application/x-msnmsgrp2p
+/cgi-bin/jj
+Content-Transfer-Encoding
+C46C1BD4-3C52-11D0-9200-848C1D000000
+/updates/update.php
+CFUSION_GETODBCDSN|28 29|
+6|00|B|00|A|00|2|00|1|00|C|00|2|00|2|00|-|00|5|00|3|00|A|00|5|00|-|00|4|00|6|00|3|00|F|00|-|00|B|00|B|00|E|00|8|00|-|00|5|00|C|00|F|00|7|00|F|00|F|00|A|00|0|00|1|00|3|00|2|00|B|00|
+/authors.pwd
+sys.dbms_repcat_conf.alter_priority_char
+19E6E148-BAEC-11D2-B03A-EAFC20524153
+79EAC9E2-BAF9-11CE-8C82-00AA004BA90B
+6|00|5|00|B|00|C|00|B|00|E|00|E|00|4|00|-|00|7|00|7|00|2|00|8|00|-|00|4|00|1|00|A|00|0|00|-|00|9|00|7|00|B|00|E|00|-|00|1|00|4|00|E|00|1|00|C|00|A|00|E|00|3|00|6|00|A|00|A|00|E|00|
+0|00|0|00|1|00|4|00|0|00|7|00|8|00|0|00|-|00|B|00|1|00|B|00|A|00|-|00|1|00|1|00|C|00|E|00|-|00|A|00|B|00|C|00|6|00|-|00|F|00|5|00|B|00|2|00|E|00|7|00|9|00|D|00|9|00|E|00|3|00|F|00|
+vmlframe
+|07|version
+/ftp.pl
+C|00|4|00|6|00|C|00|1|00|B|00|C|00|6|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+sys.dbms_repcat_mas.rename_shadow_column_group
+dbms_repcat.unregister_mview_repgroup
+C|00|F|00|F|00|B|00|1|00|F|00|C|00|7|00|-|00|2|00|7|00|0|00|D|00|-|00|4|00|9|00|8|00|6|00|-|00|B|00|2|00|9|00|9|00|-|00|F|00|E|00|C|00|F|00|3|00|F|00|0|00|E|00|4|00|2|00|D|00|B|00|
+77829F14-D911-40FF-A2F0-D11DB8D6D0BC
+/admin_templates_misc.php
+/BootStrapper.swf
+DirectAnimation.DAGeometry.1
+|01|elfRAT|04|
+/speedbar/speedbarcfg.jsp
+1|00|8|00|5|00|3|00|E|00|1|00|9|00|A|00|-|00|4|00|E|00|5|00|4|00|-|00|4|00|1|00|9|00|0|00|-|00|8|00|D|00|E|00|B|00|-|00|2|00|E|00|1|00|C|00|C|00|9|00|4|00|7|00|C|00|D|00|6|00|0|00|
+4|00|F|00|2|00|4|00|1|00|D|00|B|00|1|00|-|00|E|00|E|00|9|00|F|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|8|00|2|00|4|00|-|00|0|00|0|00|6|00|0|00|9|00|7|00|C|00|9|00|9|00|E|00|5|00|1|00|
+0002E553-0000-0000-C000-000000000046
+|01 01 1A|
+sys.dbms_repcat_mas.generate_replication_package
+/library/lib.php
+/plugins/hpjwja/script/devices_update_printer_fw_upload.hts
+/Site Server/Admin/knowledge/persmbr/
+/doeditvotes.cgi
+/ustorekeeper.pl
+/lastlines.cgi
+utl_file.frename
+alert udp $EXTERNAL_NET any -> $HOME_NET any (msg:
+wp_filter
+/toolbar.exe
+DirectAnimation.DAPair.1
+/sresult.aspx
+/_private/registrations.htm
+|B0 B5 CD 80|
++---|7C|
+sys.dbms_repcat_conf.add_priority_nchar
+B|00|0|00|5|00|1|00|6|00|F|00|F|00|0|00|-|00|7|00|F|00|1|00|C|00|-|00|1|00|1|00|C|00|E|00|-|00|B|00|E|00|5|00|7|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|5|00|1|00|F|00|E|00|2|00|0|00|
+0DDF3B5C-E692-11D1-AB06-00AA00BDD685
+/site/iisamples
+alert udp $EXTERNAL_NET any -> $HOME_NET 2048 (msg:
+8|00|B|00|D|00|2|00|1|00|D|00|2|00|0|00|-|00|E|00|C|00|4|00|2|00|-|00|1|00|1|00|C|00|E|00|-|00|9|00|E|00|0|00|D|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|6|00|0|00|0|00|2|00|F|00|3|00|
+|C4 AB CD AB|
+websql?logon
+4|00|F|00|7|00|2|00|0|00|B|00|9|00|C|00|-|00|2|00|4|00|B|00|1|00|-|00|4|00|9|00|4|00|8|00|-|00|A|00|0|00|3|00|5|00|-|00|8|00|8|00|5|00|3|00|D|00|C|00|0|00|1|00|F|00|1|00|9|00|E|00|
+DirectAnimation.DAVector3.1
+DirectAnimation.DAString.1
+pccsmysqladm/incs/dbconnect.inc
+/progs_exe/
+Connection closed by foreign host
+adv_id=
+/search.php?
+OVCtl.OVCtl.1
+dbms_repcat_sna_utl.register_flavor_change
+D45FD300-5C6E-11D1-9EC1-00C04FD7081F
+/htimage.exe
+B1549E58-3894-11D2-BB7F-00A0C999C4C1
+1|00|9|00|E|00|6|00|E|00|1|00|4|00|8|00|-|00|B|00|A|00|E|00|C|00|-|00|1|00|1|00|D|00|2|00|-|00|B|00|0|00|3|00|A|00|-|00|E|00|A|00|F|00|C|00|2|00|0|00|5|00|2|00|4|00|1|00|5|00|3|00|
+|23|filename=*.idc
+/searchfast/ticker.xml
+/cfdocs/examples/parks/detail.cfm
+T|00|L|00|I|00|.|00|T|00|y|00|p|00|e|00|L|00|i|00|b|00|I|00|n|00|f|00|o|00|
+dbms_repcat.add_priority_raw
+sys.dbms_repcat_mas.alter_master_repobject
+9|00|8|00|B|00|F|00|D|00|4|00|9|00|4|00|-|00|F|00|6|00|A|00|D|00|-|00|4|00|7|00|9|00|4|00|-|00|9|00|0|00|3|00|8|00|-|00|8|00|3|00|2|00|C|00|0|00|6|00|5|00|4|00|C|00|C|00|4|00|3|00|
+/scripts/iisadmin/bdir.htr
+/viewcode
+G|FF 04 1F|G|FF 04 1F|G|FF 04 1F|G|FF 04 1F|
+/shoutbox.php
+DirectAnimation.StructuredGraphicsControl
+dbms_repcat.drop_update_resolution
+/cgi-bin/afstrack.cgi?
+x|00|p|00|_|00|r|00|e|00|g|00|
+0@|00 0A 00 00 00|SV|8B|5|A8| @|00|W|8D|E|F0|j|0A|P|FF|5|28|0@|00 FF D6 8B|]|08 8D|E|F0|PS|E8 9D 08 00 00 BF|L0@|00|WS|E8 8B 08 00 00 8D|E|F0|j|0A|P|FF|5|D0|2@|00 FF D6 8D|E|F0|PS|E8|s|08 00 00|WS|E8|l|08 00 00 8D|E|F0|j|0A|P|FF|5|D4|2@|00 FF D6 83 C4|D|8D|E|F0|PS|E8|Q|08 00 00|WS|E8|J|08 00 00 8D|E|F0|j|0A|P|FF|5
+/a/Drk.syn
+A|00|D|00|V|00|D|00|A|00|U|00|D|00|I|00|O|00|.|00|A|00|D|00|V|00|D|00|A|00|U|00|D|00|I|00|O|00|C|00|t|00|r|00|l|00|
+/downloads/toolbar/related.asp
+2|00|B|00|3|00|2|00|3|00|C|00|D|00|9|00|-|00|5|00|0|00|E|00|3|00|-|00|1|00|1|00|D|00|3|00|-|00|9|00|4|00|6|00|6|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|7|00|0|00|0|00|4|00|9|00|8|00|
+/_private/register.htm
+/domcfg.nsf
+x|00|p|00|_|00|p|00|r|00|o|00|x|00|i|00|e|00|d|00|m|00|e|00|t|00|a|00|d|00|a|00|t|00|a|00|
+1|C0 B0 02 CD 80 85 C0|uL|EB|L^|B0|
+dbms_repcat.create_mview_repobject
+/testgeonew.php
+mdsys.md2.validate_geom
+telnet.exe
+|01|SoftWAR Client|00|
+|1B 00 00 00|
+/note_overview.php
+/superbar/event.php
+E protocol error|3A| Root request missing
+|00 01|C
+REVLOG /
+Via|3A|
+/gettotal.m?
+FILESIZE>
+N|00|e|00|o|00|T|00|r|00|a|00|c|00|e|00|E|00|x|00|p|00|l|00|o|00|r|00|e|00|r|00|.|00|N|00|e|00|o|00|T|00|r|00|a|00|c|00|e|00|L|00|o|00|a|00|d|00|e|00|r|00|
+|16 03 01 00|
+-99 Cannot+find+
+/commerce.cgi
+dbms_repcat.alter_site_priority_site
+|00 01|/
+logged,true
+/store.cgi
+drop table
+J|00|e|00|t|00|A|00|u|00|d|00|i|00|o|00|.|00|I|00|n|00|t|00|e|00|r|00|f|00|a|00|c|00|e|00|
+3B5E0503-DE28-4BE8-919C-76E0E894A3C2
+|AE 86 01 00|
+dbms_repcat.unregister_snapshot_repgroup
+/chatbox.php
+/sidesearch.htm
+7|00|6|00|0|00|0|00|7|00|0|00|7|00|B|00|-|00|9|00|F|00|4|00|7|00|-|00|4|00|1|00|6|00|D|00|-|00|8|00|A|00|B|00|5|00|-|00|6|00|F|00|D|00|9|00|6|00|E|00|A|00|3|00|7|00|9|00|6|00|8|00|
+|23 23 23 23|
+3B46067C-FD87-49B6-8DDD-12F0D687035F
+dbms_repcat.set_local_flavor
+0|00|0|00|0|00|6|00|F|00|0|00|2|00|3|00|-|00|0|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|-|00|C|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|4|00|6|00|
+|04 00 00 00|
+/LWGate
+Invalid URL
+00020422-0000-0000-C000-000000000046
+D2D588B5-D081-11D0-99E0-00C04FC2F8EC
+/go3.php
+7|00|9|00|E|00|A|00|C|00|9|00|E|00|7|00|-|00|B|00|A|00|F|00|9|00|-|00|1|00|1|00|C|00|E|00|-|00|8|00|C|00|8|00|2|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|4|00|B|00|A|00|9|00|0|00|B|00|
+F|00|D|00|8|00|5|00|3|00|C|00|D|00|9|00|-|00|7|00|F|00|8|00|6|00|-|00|1|00|1|00|D|00|0|00|-|00|8|00|2|00|5|00|2|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|D|00|8|00|5|00|A|00|B|00|4|00|
+/ps/ps_uninstaller.exe
+50B4791F-4731-11D0-8912-00C04FC2A0CA
+utl_file.fremove
+/changepw.exe
+/oprocmgr-status
+B1D4ED44-EE64-11D0-97E6-00C04FC30B4A
+/asp/offers.asp?
+Insane Network vs 4.0 by Suid Flow|0A 0D|www.blackcode.com|0A 0D|[r00t]|23|
+%252ejsp
+/config_gedcom.php
+8|00|B|00|2|00|1|00|7|00|7|00|4|00|6|00|-|00|7|00|1|00|7|00|D|00|-|00|1|00|1|00|C|00|E|00|-|00|A|00|B|00|5|00|B|00|-|00|D|00|4|00|1|00|2|00|0|00|3|00|C|00|1|00|0|00|0|00|0|00|0|00|
+!!!Optix
+4622AD11-FF23-11D0-8D34-00A0C90F2719
+8CE3BAE6-AB66-40b6-9019-41E5282FF1E2
+|95 00|
+/pra.php?
+00140780-B1BA-11CE-ABC6-F5B2E79D9E3F
+C|00|4|00|6|00|C|00|1|00|B|00|E|00|4|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+238F6F83-B8B4-11cf-8771-00A024541EE3
+2|00|8|00|3|00|8|00|0|00|7|00|B|00|5|00|-|00|2|00|C|00|6|00|0|00|-|00|1|00|1|00|D|00|0|00|-|00|A|00|3|00|1|00|D|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|B|00|9|00|2|00|C|00|0|00|3|00|
+/csPassword.cgi
+Location|3A|
++OK RCVD|0D 0A|
+|00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00|
+027FrEaK_ViCTiM
+9|00|7|00|A|00|F|00|4|00|A|00|4|00|5|00|-|00|4|00|9|00|B|00|E|00|-|00|4|00|4|00|8|00|5|00|-|00|9|00|F|00|5|00|5|00|-|00|9|00|1|00|A|00|B|00|4|00|0|00|F|00|2|00|2|00|B|00|F|00|2|00|
+EEDD6FF9-13DE-496B-9A1C-D78B3215E266
+|00 00 00 00|EEEEEEEEEEEE
+4B106874-DD36-11D0-8B44-00A024DD9EFF
+/express/sq.jsp
+n|DB 7C D2|m|AE CF 11 96 B8|DEST|00 00|
+/samples/search/queryhit.htm
+nraider
+860D28D0-8BF4-11CE-BE59-00AA0051FE20
+bszmmP1TlDRGFDA1uDG1GyF3fw7zQae3hTJk7dtK0xmjv339SvtDPLhswsFAGUQX34naqqcKxEjp|0A|yns2FwCn9oiRtoiyYFfwAsT6v/2SvioeIkj2WAb6lQoNyzLUhbQtpekiV9ZUpOW2u4Lv73FPrkud
+/_vti_pvt/svcacl.cnf
+alert tcp $EXTERNAL_NET any <> $HOME_NET 0 (msg:
+2B323CD9-50E3-11D3-9466-00A0C9700498
+4|00|4|00|C|00|C|00|B|00|C|00|E|00|B|00|-|00|B|00|A|00|7|00|E|00|-|00|4|00|C|00|9|00|9|00|-|00|A|00|0|00|7|00|8|00|-|00|9|00|F|00|6|00|8|00|3|00|8|00|3|00|2|00|D|00|4|00|9|00|3|00|
+88D96A0A-F192-11D4-A65F-0040963251E5
+sys.dbms_repcat_conf.comment_on_update_resolution
+/q.cgi?
+F|00|D|00|C|00|7|00|A|00|5|00|3|00|5|00|-|00|4|00|0|00|7|00|0|00|-|00|4|00|B|00|9|00|2|00|-|00|A|00|0|00|E|00|A|00|-|00|D|00|9|00|9|00|9|00|4|00|B|00|C|00|C|00|0|00|D|00|C|00|5|00|
+WHATISIT
+1j|D0 D9|
+C|00|0|00|D|00|0|00|7|00|6|00|C|00|5|00|-|00|E|00|4|00|C|00|6|00|-|00|4|00|5|00|6|00|1|00|-|00|8|00|B|00|F|00|4|00|-|00|8|00|0|00|D|00|A|00|8|00|D|00|B|00|8|00|1|00|9|00|D|00|7|00|
+|00 05 F7|h
+E|00|D|00|r|00|a|00|w|00|.|00|O|00|f|00|f|00|i|00|c|00|e|00|V|00|i|00|e|00|w|00|e|00|r|00|
+/ppdscgi.exe
+/a/Aid.sen?StubName=farmmext
+/rpc-nlog.pl
+sys.dbms_aqadm_sys
+S|23|L1GP]U%A!BA-RBY5.|0A|ME>|24|20PNL^|3A|79|24|U|3A|1'G`.+BZ6VD,4|5C|Q,T?!TID7%|3A|+T-SH5|23|K.7|24|^|22|G|5C|]NQ|22|=|0A|M'BUUUU@|5C|MBZ_D[^]<&L6R0/2B|3A|@8|23|!T`
+R|00|23
+/calendar
+7|00|5|00|C|00|1|00|1|00|6|00|0|00|4|00|-|00|5|00|C|00|5|00|1|00|-|00|4|00|8|00|B|00|2|00|-|00|B|00|7|00|8|00|6|00|-|00|D|00|F|00|5|00|E|00|5|00|1|00|D|00|1|00|0|00|E|00|C|00|9|00|
+DirectAnimation.DALineStyle.1
+|00 00 00 FF 00 01 00 01 FD 12 00|
+LogStarted
+/sw/NetConfig24.dat
+LEADRasterISIS.LeadRasterISIS
+|01 03 00 00 00 00 00 01 00 02 02 E8|
+SetupINICtrl
+DirectAnimation.DACamera.1
+|00 00 03 E7 00 00 00 00 00 00 00|e|00 00 00 00 00 00 00 00 0D 05 00 00 00 00 00 00 00|
+/campas?|0A|
+4|00|0|00|5|00|D|00|E|00|7|00|C|00|0|00|-|00|E|00|7|00|D|00|D|00|-|00|1|00|1|00|D|00|2|00|-|00|9|00|2|00|C|00|5|00|-|00|0|00|0|00|C|00|0|00|F|00|0|00|1|00|F|00|7|00|7|00|C|00|1|00|
+/ms162cfg.jsp?
+OKPWD|0A|
+/cgi-bin/connect.cgi?
+/NUL/../../
+/buscar.php?cadena=
+dbms_repcat.drop_priority_varchar2
+COMMENFile
+dbms_repcat.alter_priority_date
+7007ACCF-3202-11D1-AAD2-00805FC1270E
+pass -satan
+/fcgi-bin/echo.exe
+/plugins/framework/script/tree.xms
+/newsdesk.cgi
+/cgi-bin/ls
+/setup.asp?src=exact&query=
+/web_store.cgi
+DWUSWebAgent.WebAgent.1
+WinEggDropShell
+/cache/data/cache.dat
+6E22710C-F799-11CF-9227-00AA00A1EB95
+|00 00 00 00|W|00|i|00|n|00|d|00|o|00|w|00|s|00| |00|N|00|T|00| |00|1|00|3|00|8|00|1
+4FAAB301-CEF6-477C-9F58-F601039E9B78
+0DDF3C0B-E692-11D1-AB06-00AA00BDD685
+/crakzpackz/sys/add.php?
+Connected To Amanda 2.0
+cn.dll?pid=
+TLI.TypeLibInfo
+Content-Encoding|3A|
+/cybercop
+/cns.dll
+BB339A46-7C49-11d2-9BF3-00C04FA34789
+Server|3A| eMule
+|00 00 00 91|I|16 1B|e|1C|
+/?proto
+/catalog.nsf
+Translate|3A| F
+CD00020C-8B95-11D1-82DB-00C04FB1625D
+/Carello/add.exe
+3F8A6C33-E0FD-11D0-8A8C-00A0C90C2BC5
+E|00|E|00|E|00|7|00|8|00|5|00|9|00|1|00|-|00|F|00|E|00|2|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|8|00|B|00|E|00|F|00|-|00|0|00|0|00|6|00|0|00|0|00|8|00|1|00|8|00|4|00|1|00|D|00|E|00|
+AgentGuid=
+/../../
+sys.dbms_repcat_mas.relocate_masterdef
+P|00|D|00|W|00|i|00|z|00|a|00|r|00|d|00|.|00|P|00|u|00|b|00|l|00|i|00|c|00|T|00|o|00|o|00|l|00|s|00|
+DCIClient12|0A|
+con1.08
+Vampire v1.2 Server On-Line.....
+/googleplayer.swf
+/contextAdmin/contextAdmin.html
+/doc/admin
+|5C|...|00 00 00|
+CE292861-FC88-11D0-9E69-00C04FD7C15B
+action=
+ASControls.InstallEngineCtl
+2|00|C|00|C|00|3|00|D|00|8|00|D|00|E|00|-|00|1|00|8|00|B|00|F|00|-|00|4|00|3|00|f|00|f|00|-|00|8|00|C|00|B|00|8|00|-|00|2|00|1|00|B|00|4|00|4|00|2|00|3|00|0|00|0|00|F|00|D|00|5|00|
+lib.inc.php
+|03 00|
+password
+/SoftCart.exe
+|07|LAN|07|Win
+ftp|3A|
+alert udp any any -> 255.255.255.255 161 (msg:
+lasd|0A|
+/sojourn.cgi
+0|00|0|00|0|00|0|00|0|00|5|00|6|00|6|00|-|00|0|00|0|00|0|00|0|00|-|00|0|00|0|00|1|00|0|00|-|00|8|00|0|00|0|00|0|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|6|00|D|00|2|00|E|00|A|00|4|00|
+|00 06 09|~
+/scripts/samples/ctguestb.idc
+/bin/sh
+abcdefghijklmnop
+|00 00 00 00 0A 02 08 A6|
+|90 1A C0 0F 90 02| |08 92 02| |0F D0 23 BF F8|
+D|00|9|00|E|00|C|00|2|00|2|00|E|00|7|00|-|00|1|00|A|00|8|00|6|00|-|00|4|00|F|00|7|00|C|00|-|00|8|00|9|00|4|00|0|00|-|00|0|00|3|00|0|00|3|00|A|00|E|00|5|00|D|00|6|00|7|00|5|00|6|00|
+2|00|E|00|F|00|F|00|8|00|C|00|9|00|7|00|-|00|F|00|2|00|A|00|8|00|-|00|4|00|3|00|9|00|5|00|-|00|9|00|F|00|4|00|7|00|-|00|9|00|A|00|0|00|6|00|F|00|9|00|9|00|8|00|B|00|F|00|8|00|8|00|
+/examples/servlet/SnoopServlet
+Content-type|3A| image/gif
+/cgi-dos/
+dbms_repcat.alter_priority_char
+/iesearch.php
+I|3A|NAME|3A|
+/requestimpression.aspx
+sys.dbms_internal_repcat.enable_receiver_trace
+C|80 EA 01 A1 EC|GB|00 8B|H|10 88|QC|8B 15 EC|GB|00 8B|B|10 0F BE|HC|85 C9|u|14 8B 15 EC|GB|00 8B|B|04 24 FE 8B 0D EC|GB|00 89|A|04 8B 15 EC|GB|00 83|z|08 FF 0F 85 92 00 00 00|h|00 80 00 00|j|00 A1 EC|GB|00 8B|H|0C|Q|FF 15 1C|cB|00 8B 15 EC|GB|00 8B|B|10|Pj|00 8B 0D E4|]B|00|Q|FF 15|4cB|00 8B 15 F0|GB|00|k|D2 14 A1 F4|GB|00 03 C2 8B 0D EC|GB|00 83 C1 14|+|C1|P|8B 15 EC|GB|00 83 C2 14|R|A1 EC|GB|00|P|E8|Z%|00 00 83 C4 0C 8B 0D F0|GB|00 83 E9 01 89 0D F0|GB|00 8B|U|08 3B 15 EC|GB|00|v
+Redirection
+/bb-replog.sh
+/foxweb.dll
+F3F381A3-4795-41FF-8190-7AA2A8102F85
+alert udp $EXTERNAL_NET any -> $HOME_NET 162 (msg:
+8|00|9|00|3|00|6|00|0|00|3|00|3|00|C|00|-|00|4|00|A|00|5|00|0|00|-|00|1|00|1|00|D|00|1|00|-|00|9|00|8|00|A|00|4|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|0|00|F|00|2|00|7|00|C|00|6|00|
+access flatboost6302
+/StreamingStatistics
+psfile=|22|`
+/cgi-bin/
+sdo_cs.transform_layer
+|7C|PUTFILE|7C|
+|12 01|
+229B78D5-38F5-11D5-9001-00C04F4C3B9F
+8|00|8|00|D|00|9|00|6|00|A|00|0|00|7|00|-|00|F|00|1|00|9|00|2|00|-|00|1|00|1|00|D|00|4|00|-|00|A|00|6|00|5|00|F|00|-|00|0|00|0|00|4|00|0|00|9|00|6|00|3|00|2|00|5|00|1|00|E|00|5|00|
+|00 03 0D|p
+/1.php?p=
+g8QMX15bw1WJ5VNWV1VqAGoAaJIQQAD/dQjoVkYAAF1fXluJ7F3D/FWJ5YPs|0A|CFNWV1WLXQyLRQijMEBHAIkdNEBHAPdABAYAAAB1colF+ItFEIlF/KM0QEcAjUX4iUP8
+SIP/2.0 100 Trying
+/webgais
+9F8E6421-3D9B-11D2-952A-00C04FA34F05
+/mbop/index.php3?
+/scripts/samples/search/webhits.exe
+|3A|fill
+/faxsurvey
+KL.SysInfo
+/NewVerInfo.txt
+/PSUser/PSCOErrPage.htm
+3DA2AA3E-3D96-11D2-9BD2-204C4F4F5020
+/scripts/postinfo.asp
+cmd_rootsh
+LM.LMBehaviorFactory.1
+/InteractiveQuery.jsp
+/^[\x00-\x03][^\x01]{1,3}/
+2F542A2E-EDC9-4BF7-8CB1-87C9919F7F93
+newsletter.php
+dba_tables
+/search97.vts
+7600707B-9F47-416D-8AB5-6FD96EA37968
+4F720B9C-24B1-4948-A035-8853DC01F19E
+C46C1BE6-3C52-11D0-9200-848C1D000000
+C|00|2|00|2|00|B|00|B|00|4|00|3|00|5|00|-|00|9|00|B|00|7|00|F|00|-|00|4|00|B|00|1|00|F|00|-|00|A|00|C|00|B|00|D|00|-|00|C|00|D|00|3|00|6|00|D|00|3|00|4|00|D|00|6|00|D|00|F|00|F|00|
+ver|0D 0A|
+newserver
+/filemail
+7|00|9|00|E|00|A|00|C|00|9|00|E|00|4|00|-|00|B|00|A|00|F|00|9|00|-|00|1|00|1|00|C|00|E|00|-|00|8|00|C|00|8|00|2|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|4|00|B|00|A|00|9|00|0|00|B|00|
+.www_acl
+4|00|E|00|F|00|E|00|2|00|4|00|5|00|2|00|-|00|1|00|6|00|8|00|A|00|-|00|1|00|1|00|D|00|1|00|-|00|B|00|C|00|7|00|6|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|B|00|9|00|4|00|5|00|3|00|B|00|
+0|00|0|00|0|00|2|00|E|00|5|00|5|00|3|00|-|00|0|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|-|00|C|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|4|00|6|00|
+Set-Cookie|3A|
+|02 05 00 00|
+|D8|@|CD 80 E8 D9 FF FF FF|/bin/sh
+/php.cgi
+dbms_repcat_rgt.check_ddl_text
+/ddd2/report_userinfo.asp
+/ipchat.php
+B0516FF0-7F1C-11CE-BE57-00AA0051FE20
+DESCRIPTION|3A|
+.htgroup
+/fileseek.cgi
+dbms_repcat.define_site_priority
+E846F0A0-D367-11D1-8286-00A0C9231C29
+D|00|A|00|2|00|B|00|D|00|4|00|2|00|B|00|-|00|0|00|7|00|E|00|8|00|-|00|4|00|1|00|3|00|A|00|-|00|9|00|F|00|E|00|A|00|-|00|B|00|B|00|3|00|B|00|2|00|E|00|8|00|2|00|5|00|3|00|4|00|0|00|
+/downloads/ff/
+623E2882-FC0E-11D1-9A77-0000F8756A10
+E|00|8|00|4|00|6|00|F|00|0|00|A|00|0|00|-|00|D|00|3|00|6|00|7|00|-|00|1|00|1|00|D|00|1|00|-|00|8|00|2|00|8|00|6|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|2|00|3|00|1|00|C|00|2|00|9|00|
+/air/notify/mail.php?
+DA56F851-D3C5-11D3-844C-00C04F7A06E5
+0|00|1|00|0|00|1|00|0|00|e|00|0|00|0|00|-|00|5|00|e|00|8|00|0|00|-|00|1|00|1|00|d|00|8|00|-|00|9|00|e|00|8|00|6|00|-|00|0|00|0|00|0|00|7|00|e|00|9|00|6|00|c|00|6|00|5|00|a|00|e|00|
+E|00|D|00|r|00|a|00|w|00|O|00|f|00|f|00|i|00|c|00|e|00|V|00|i|00|e|00|w|00|e|00|r|00|.|00|E|00|D|00|r|00|a|00|w|00|O|00|f|00|f|00|i|00|c|00|e|00|V|00|i|00|e|00|w|00|e|00|r|00|C|00|t|00|r|00|l|00|
+sys.dbms_repcat_mas.create_master_repgroup
+/show.pl
+dbms_repcat.alter_site_priority
+/WxDataISAPI/WxDataISAPI.cgi
+alert tcp $EXTERNAL_NET 20 -> $HOME_NET :1023 (msg:
+Command completed
+/dp/simpleupdate?x=
+/rdiff/
+i4wMwBVUFghDQkCCHAOKRNyQeuyBeMAAHBsAAAAwgAAJgAA7xSw
+i4wMwBVUFghDQkCCHAOKRNyQeuyBeMAAHBsAAAAwgAAJgAA73lo
+DirectAnimation.DAEndStyle.1
+Y|00|D|00|P|00|C|00|T|00|L|00|.|00|Y|00|D|00|P|00|C|00|o|00|n|00|t|00|r|00|o|00|l|00|
+/bsml.pl
+/a1disp3.cgi?/../../
+|FF C0|
+4|00|4|00|9|00|9|00|0|00|2|00|0|00|0|00|-|00|3|00|c|00|9|00|d|00|-|00|4|00|2|00|6|00|d|00|-|00|8|00|1|00|d|00|f|00|-|00|a|00|a|00|b|00|6|00|3|00|6|00|f|00|a|00|4|00|3|00|4|00|5|00|
+/bslist.cgi
+EFEE43D6-BFE5-44B0-8063-AC3B2966AB2C
+9|00|0|00|4|00|0|00|3|00|3|00|0|00|3|00|-|00|E|00|F|00|2|00|1|00|-|00|4|00|7|00|7|00|1|00|-|00|A|00|4|00|1|00|A|00|-|00|6|00|5|00|1|00|0|00|8|00|9|00|8|00|9|00|2|00|E|00|D|00|D|00|
+/.nsconfig
+69DEAF94-AF66-11D3-BEC0-00105AA9B6AE
+/mall_log_files/order.log
+|FE FE FE FE 00 00 00 00|
+/user_update_admin.pl
+NMSA.SessionDescription
+C|00|r|00|y|00|p|00|t|00|o|00|X|00|.|00|C|00|r|00|y|00|p|00|t|00|o|00|O|00|b|00|j|00|
+/as_web.exe
+/click.php?
+<colgroup
+/servlet/admin
+V|00|I|00|m|00|p|00|X|00|.|00|V|00|I|00|m|00|p|00|A|00|X|00|
+/scripts/convert.bas
+/process_bug.cgi
+/ws_ftp.ini
+Current
+{D082139B-D5E4-4e63-B866-9BFC97880A48}
+/form2raw.cgi
+7|00|8|00|4|00|9|00|5|00|9|00|6|00|A|00|-|00|4|00|8|00|E|00|A|00|-|00|4|00|8|00|6|00|E|00|-|00|8|00|9|00|3|00|7|00|-|00|A|00|2|00|A|00|3|00|0|00|0|00|9|00|F|00|3|00|1|00|A|00|9|00|
+F|00|A|00|F|00|0|00|2|00|D|00|9|00|B|00|-|00|9|00|6|00|3|00|D|00|-|00|4|00|3|00|D|00|8|00|-|00|9|00|1|00|A|00|6|00|-|00|E|00|7|00|1|00|3|00|8|00|3|00|5|00|0|00|3|00|F|00|D|00|A|00|
+/scripts/cpshost.dll
+7EC7B6C5-25BD-4586-A641-D2ACBB6629DD
+sys.dbms_repcat_sna.refresh_snapshot_repschema
+/redirect
+/friends.php
+/bonzibuddy/
+6|00|7|00|D|00|A|00|B|00|F|00|B|00|F|00|-|00|D|00|0|00|A|00|B|00|-|00|4|00|1|00|f|00|a|00|-|00|9|00|C|00|4|00|6|00|-|00|C|00|C|00|0|00|F|00|2|00|1|00|7|00|2|00|1|00|6|00|1|00|6|00|
+dbms_repcat.alter_priority_nvarchar2
+Subject|3A|
+/math_sum.mscgi
+ADODB.Stream
+dbms_repcat_instantiate.instantiate_online
+1|00|B|00|5|00|4|00|4|00|C|00|2|00|4|00|-|00|F|00|D|00|0|00|B|00|-|00|1|00|1|00|C|00|E|00|-|00|8|00|C|00|6|00|3|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|4|00|4|00|B|00|5|00|2|00|0|00|
+LkRMTAAAAEdldFByb2NBZGRyZXNzAAAATG9hZExpYnJhcnlBAAAARXhpdFByb2Nlc3MAAABW|0D 0A|aXJ0dWFsQWxsb2MAAABWaXJ0dWFsRnJlZQAAAE1lc3NhZ2VCb3hBAAAAAABqe5M2t6ajjak1
+/test.php
+kavwebscan.CKAVWebScan
+/iissamples/sdk/asp/docs/codebrws.asp
+|17 03 01 00|
+/class/mysql.class
+dbms_repcat.cancel_statistics
+ADODB.Recordset
+/pagead/ads?
+Deleting
+|03 00 00 00 01 00 02 00 00 00 00 00|
+PAVPZ.SOS.1
+|16 03 00|
+F|00|4|00|4|00|B|00|B|00|2|00|D|00|0|00|-|00|F|00|0|00|7|00|0|00|-|00|4|00|6|00|3|00|E|00|-|00|9|00|4|00|3|00|3|00|-|00|B|00|0|00|C|00|C|00|F|00|3|00|C|00|F|00|D|00|6|00|2|00|7|00|
+/input.bat
+|EB|AX|8B D8 8B|3|8B|{|04 03 F7 8B|K|08 03 CE|3|C0 B0 08|@@@@|03|
+S|00|a|00|f|00|e|00|A|00|n|00|d|00|S|00|o|00|u|00|n|00|d|00|A|00|T|00|L|00|.|00|N|00|i|00|x|00|o|00|n|00|C|00|o|00|n|00|f|00|i|00|g|00|M|00|g|00|r|00|E|00|x|00|
+IERPCtl.IERPCtl
+7EEA39E3-41D1-11D2-AB3B-00AA00BDD685
+|0B 00 00 00 07 00 00 00|Connect
+RECIP.RecipCtl.1
+8|00|4|00|2|00|2|00|D|00|A|00|E|00|3|00|-|00|9|00|9|00|2|00|9|00|-|00|1|00|1|00|C|00|F|00|-|00|B|00|8|00|D|00|3|00|-|00|0|00|0|00|4|00|0|00|3|00|3|00|3|00|7|00|3|00|D|00|A|00|8|00|
+utl_file.fopen
+a b c d e f
+QTAxe1h9e1l9
+9088E688-063A-4806-A3DB-6522712FC061
+x|00|p|00|_|00|o|00|a|00|d|00|e|00|s|00|t|00|r|00|o|00|y|00|
+/files/adframe.aspx?
+A|00|A|00|0|00|F|00|B|00|7|00|5|00|C|00|-|00|C|00|5|00|0|00|E|00|-|00|4|00|7|00|B|00|6|00|-|00|B|00|7|00|E|00|0|00|-|00|3|00|B|00|9|00|C|00|3|00|F|00|A|00|A|00|8|00|A|00|C|00|4|00|
+/.FBCIndex
+67DABFBF-D0AB-41fa-9C46-CC0F21721616
+/cgi-bin5/repeaterm2.fcgi
+idaiehlp.IDAIEHelper
+0519F3C1-0ED3-4EF1-98F5-CC3FB10218C7
+connected. time/date|3A|
+|24|[proclst]
+/search_assistant/accoona_search_assistant.jsp
+0D3983A9-4E29-4f33-8313-DA22B29D3F87
+/admin_tpl_new.php
+/empower
+/Sample_showcode.html
+Remote|3A|
+/functions.php
+sys.dbms_aqadm_sys.verify_queue_types
+X-Mailer|3A| CSMTPConnection
+|3B|ServicesStatus
+/ezboard.cgi
+/NetTracker/
+/download.cgi
+/ws_mail.cgi
+OA.OActrl
+|16 03 01|
+NCTWavChunksEditor2.WavChunksEditor2
+/password.cgi.tmp
+enablekey|7C|
+/site/eg/source.asp
+/engine
+sys.dbms_repcat_conf.alter_site_priority
+|16 03|
+|00 01 86 A0 00|
+E|00|5|00|D|00|F|00|9|00|D|00|1|00|0|00|-|00|3|00|B|00|5|00|2|00|-|00|1|00|1|00|D|00|1|00|-|00|8|00|3|00|E|00|8|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|0|00|D|00|C|00|8|00|4|00|9|00|
+0|00|B|00|9|00|C|00|9|00|C|00|7|00|D|00|-|00|E|00|D|00|8|00|1|00|-|00|4|00|5|00|9|00|4|00|-|00|A|00|F|00|C|00|B|00|-|00|F|00|C|00|5|00|5|00|8|00|8|00|1|00|2|00|5|00|3|00|8|00|2|00|
+naked lesbians
+/pl/shared/smileys/
+cmd.exe
+GetInfo|0D|
+SIP/2.0 404 Not Found
+/redirector.html
+Product
+4|00|6|00|6|00|D|00|6|00|6|00|F|00|A|00|-|00|9|00|6|00|1|00|6|00|-|00|1|00|1|00|D|00|2|00|-|00|9|00|3|00|4|00|2|00|-|00|0|00|0|00|0|00|0|00|F|00|8|00|7|00|5|00|A|00|E|00|1|00|7|00|
+get_drives
+|00 03|
+000File
+|0E|Get Resolution
+E cvs server|3A| warning|3A| cannot make directory CVS in /
+from=Y3K
+s|00|p|00|_|00|d|00|e|00|l|00|e|00|t|00|e|00|_|00|a|00|l|00|e|00|
+|E0 85 9F F2 F9|Oh|10 AB 91 08 00|+'|B3 D9|
+0|00|3|00|D|00|9|00|F|00|3|00|F|00|2|00|-|00|B|00|0|00|E|00|3|00|-|00|1|00|1|00|D|00|2|00|-|00|B|00|0|00|8|00|1|00|-|00|0|00|0|00|6|00|0|00|0|00|8|00|0|00|3|00|9|00|B|00|F|00|0|00|
+|C2 AB CD AB|
+IDA|00 01 00 00 00|
+/log.nsf
+/counter.php?
+ctxsys.driddlr.subindexpopulate
+FREQ|7C|
+FTP Port open
+/iisprotect/admin/GlobalAdmin.asp
+dbms_offline_og.begin_instantiation
+|00 02|
+EDrawOfficeViewer.EDrawOfficeViewerCtrl
+2|00|4|00|F|00|3|00|E|00|A|00|D|00|6|00|-|00|8|00|B|00|8|00|7|00|-|00|4|00|C|00|1|00|A|00|-|00|9|00|7|00|D|00|A|00|-|00|7|00|1|00|C|00|1|00|2|00|6|00|B|00|D|00|A|00|0|00|8|00|F|00|
+/cliententry/
+/searchtb.php?q=
+/autoupdate/version.txt
+6E2270FB-F799-11CF-9227-00AA00A1EB95
+1|00|B|00|0|00|0|00|7|00|2|00|5|00|B|00|-|00|C|00|4|00|5|00|5|00|-|00|4|00|D|00|E|00|6|00|-|00|B|00|F|00|B|00|6|00|-|00|A|00|D|00|5|00|4|00|0|00|A|00|D|00|4|00|2|00|7|00|C|00|D|00|
+wp-includes/feed.php
+/sojourn.cgi?cat=
+23L'esclave|09|49152|09|65535
+Welcome!psyBNC@lam3rz.de
+405DE7C0-E7DD-11D2-92C5-00C0F01F77C1
+sendsys
+25B0F91C-D23D-11D0-9B85-00C04FC2F51D
+senduuname
+/check.asp?
+CC45B0B0-72D8-4652-AE5F-5E3E266BE7ED
+rcmd.exe
+iPIX.ImageWell
+?wp-start-ver
+/pbserver/pbserver.dll
+Raport|3A| serwer aktywny
+/url.cgi
+aComprobar
+/mmstdod.cgi
+00020421-0000-0000-C000-000000000046
+/translations.php
+Content-Type|3A| multipart/form-data
+2|00|3|00|3|00|A|00|9|00|6|00|9|00|4|00|-|00|6|00|6|00|7|00|E|00|-|00|1|00|1|00|d|00|1|00|-|00|9|00|D|00|F|00|B|00|-|00|0|00|0|00|6|00|0|00|9|00|7|00|D|00|5|00|0|00|4|00|0|00|8|00|
+Details|7C|
+/GWWEB.EXE?HELP=
+iPIX.Rimfire4.1
+O|00|u|00|t|00|l|00|o|00|o|00|k|00|E|00|x|00|p|00|r|00|e|00|s|00|s|00|.|00|A|00|d|00|d|00|r|00|e|00|s|00|s|00|B|00|o|00|o|00|k|00|
+/listrec.pl
+.idc|3A 3A 24|data
+F107317A-A488-11d4-AA25-00C04F72DAEB
+cname|3A|
+0|00|8|00|F|00|0|00|4|00|1|00|3|00|9|00|-|00|8|00|D|00|F|00|C|00|-|00|1|00|1|00|D|00|2|00|-|00|8|00|0|00|E|00|9|00|-|00|0|00|0|00|6|00|0|00|0|00|8|00|B|00|0|00|6|00|6|00|E|00|E|00|
+/search.cgi?keys
+|0A|.pl
+Visio |28|TM|29| Drawing|0D 0A|
+/update.php?
+/servlet/com.unify.servletexec.UploadServlet
+D|00|i|00|r|00|e|00|c|00|t|00|S|00|S|00|.|00|D|00|i|00|r|00|e|00|c|00|t|00|S|00|S|00|
+S|00|a|00|f|00|e|00|A|00|n|00|d|00|S|00|o|00|u|00|n|00|d|00|A|00|T|00|L|00|.|00|N|00|i|00|x|00|o|00|n|00|M|00|y|00|P|00|r|00|o|00|g|00|r|00|a|00|m|00|s|00|
+31087270-D348-432C-899E-2D2F38FF29A0
+O|00|A|00|.|00|O|00|A|00|c|00|t|00|r|00|l|00|
+getserverinfo|7C|
+i45MQBVUFghDQkICKDx6PZ9cWtlZzUVAMY0AAAAZAAAJgAAqwTm
+IMESingleKanjiDict.8.1
+dbms_repcat.drop_site_priority
+F|00|2|00|1|00|7|00|5|00|2|00|1|00|0|00|-|00|3|00|6|00|8|00|C|00|-|00|1|00|1|00|D|00|0|00|-|00|A|00|D|00|8|00|1|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|0|00|D|00|C|00|8|00|D|00|9|00|
+npdivx.DivXBrowserPlugin
+7849596A-48EA-486E-8937-A2A3009F31A9
+6754F588-E262-42D2-A6BC-3BB400ACFEED
+0123456789abcdefghijklmnop
+/setinfo.hts
+|00 00 00 05 00 00 00 01|
+/PortInformation
+/pm/start.asp
+C|00|4|00|6|00|C|00|1|00|B|00|F|00|2|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+LR.LexRefBilingualTextContext.1.0.1
+dbms_repcat.drop_columns_from_flavor
+USER inc
+LEADThumb.LEADThumb
+dbms_repcat.drop_column_group
+OsJMFEHYgBh19HlTYBliOtoPlfhIFVsjwTiRgBgMU+ZVSARWhclXidGWdED5LdJLArJcQ1DSfENl|0D 0A|cmgc0ooDhxdHUODyQ//V6tBJVtc2IBPS7SAmCAw7wXUWiRzJMEgI5UA/pM45Gl1qDJkPuJI/4V6j
+/nieuws.dtd
+/htsearch
+/index.cfm
+sys.dbms_repcat_conf.alter_priority_date
+sys.dbms_repcat_conf.drop_priority_char
+/resetpass
+/wsliveup/advisor/wsliveup.dat
+D8541765-F6D2-4EE1-AEAA-4016BE1D9859
+OutlookExpress.AddressBook
+sys.dbms_repcat_sna.refresh_snapshot_repgroup
+xp_oamethod
+DirectAnimation.DATransform2.1
+|0F 00 00 00 03|show databases
+xp_updatecolvbm
+/wguest.exe
+about|3A|cancel|23|
+06A7EC63-4E21-11D0-A112-00A0C90543AA
+xp_availablemedia
+ICQPhone.SipxPhoneManager
+FBEB8A05-BEEE-4442-804E-409D6C4515E9
+Message shown.|00|finish line|00|
+/viewforum.php
+0|00|0|00|0|00|2|00|E|00|5|00|5|00|B|00|-|00|0|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|-|00|C|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|4|00|6|00|
+75C11604-5C51-48B2-B786-DF5E51D10EC9
+3|00|A|00|0|00|4|00|D|00|9|00|3|00|B|00|-|00|1|00|E|00|D|00|D|00|-|00|4|00|F|00|3|00|F|00|-|00|A|00|3|00|7|00|5|00|-|00|A|00|0|00|3|00|E|00|C|00|1|00|9|00|5|00|7|00|2|00|C|00|4|00|
+9C0A0321-B328-466C-8ECA-B9A5522466D3
+/slxweb.dll
+login=0
+Authentication unsuccessful
+expn cybercop
+x|00|p|00|_|00|p|00|r|00|i|00|n|00|t|00|s|00|t|00|a|00|t|00|e|00|m|00|e|00|n|00|t|00|s|00|
+|FF FA|'|00 00|TTYPROMPT|01|
+/script/judge/judge.html
+/echo.bat
+/ShellExample.cgi
+dbms_repcat.comment_on_repobject
+/servlet/ServletExec
+sys.dbms_repcat_conf.drop_site_priority
+SystemInfo|3B|
+2|00|2|00|4|00|E|00|8|00|3|00|3|00|B|00|-|00|2|00|C|00|C|00|6|00|-|00|4|00|2|00|D|00|9|00|-|00|A|00|E|00|3|00|9|00|-|00|9|00|0|00|B|00|6|00|A|00|3|00|8|00|A|00|4|00|F|00|A|00|2|00|
+SrvInfo
+/NFO,Registered
+YDPCTL.YDPControl
+/404/update/instafinktb0302.cfg
+OK|00|1|00|AF&AY|00|pINg_|00|!|28|c|29 23|
+3|00|3|00|D|00|9|00|A|00|7|00|6|00|2|00|-|00|9|00|0|00|C|00|8|00|-|00|1|00|1|00|D|00|0|00|-|00|B|00|D|00|4|00|3|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|1|00|1|00|C|00|E|00|8|00|6|00|
+&del+/s+c|3A 5C|*.*
+MIT-MAGIC-COOKIE-1
+grabv2.php
+sys.dbms_aqadm.verify_queue_types_no_queue
+/cachemgr.cgi
+sys.dbms_repcat_fla_mas.drop_columns_from_flavor
+/cgi-bin/v30/pop.fcgi
+/cvsweb.cgi
+--backup-dir
+/catinfo
+/calendar_admin.pl?config=|7C|
+C|00|4|00|6|00|C|00|1|00|B|00|D|00|4|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+Pass-On
+dbms_repcat.alter_priority_varchar2
+/^\d+\x01/smi
+RequestConnect
+/imageFolio.cgi
+_vti_bin/_vti_adm/fpadmdll.dll
+000, Checking...
+EF28418F-FFB2-11D0-861A-00A0C903A97F
+|ED ED|
+RCPT TO|3A|
+pass -iss@iss
+SIP/2.0
+2|00 00 00 06 00 00 00|Drives|24 00|
+/notifier/
+/gs_trickler
+/software/meta/Update/VersionCheckInfo.ini?c=
+/as_web4.exe
+/r.php?
+/vncviewer.jar
+StartPage|3A|
+sqlexec
+52A2AAAE-085D-4187-97EA-8C30DB990436
+/iis2ucms.asp
+sys.dbms_repcat_fla.abort_flavor_definition
+/Form_JScript.asp
+image/bmp
+/getpin.php?
+LEADRasterThumbnail.LEADRasterThumbnail
+dbms_repcat.add_priority_number
+<html><head><title>HTTP_RAT</title>
+filename=|22|keystrokes.html|22|
+/classifieds.cgi
+/authentication_index.php
+|82 18|@|01 80 A0|@|01|&|BF FF FF|&|BF FF FF 7F FF FF FF 8A 18|@|01 BE 23|
+x|00|p|00|_|00|o|00|a|00|g|00|e|00|t|00|p|00|r|00|o|00|p|00|e|00|r|00|t|00|y|00|
+ndAzKAZ0SFmzPdMu6kksSBpMnHn8vHAZLueGBstFWTfqLp3bQgJcaVOxM0W4oc81kinf/QiC|0D 0A|+bYxBaedDbd49u4ktkyUTrFK2ic8FKQI9pXU8vrTcz6RnwRxwAqTRZrKIhN6nL2ivbJIRTmf
+|CE DE B7 A8 B4 F2 BF AA B5 BD D6 F7 BB FA B5 C4 C1 AC BD D3| |D4 DA B6 CB BF DA| 1327 |3A| |C1 AC BD D3 CA A7 B0 DC|
+/cache/cache.php?
+0|00|0|00|0|00|6|00|F|00|0|00|3|00|3|00|-|00|0|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|-|00|C|00|0|00|0|00|0|00|-|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|0|00|4|00|6|00|
+Wtzup Use
+/getdoc.cgi
+8|00|E|00|E|00|4|00|2|00|2|00|9|00|3|00|-|00|C|00|3|00|1|00|5|00|-|00|1|00|1|00|D|00|0|00|-|00|8|00|D|00|6|00|F|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|A|00|0|00|6|00|E|00|1|00|F|00|
+?wp-cs-dump
+cmp=dun_tek
+x|00|p|00|_|00|s|00|q|00|l|00|a|00|g|00|e|00|n|00|t|00|_|00|m|00|o|00|n|00|i|00|t|00|o|00|r|00|
+/mailit.pl
+/ctss.idc
+SYS.KUPW|24|WORKER.MAIN
+/cgi-bin/cgsearch/cgsearch.cgi?
+MAIL FROM|3A| |7C|/usr/ucb/tail
+/synctl/ping.pl
+alert icmp $HOME_NET any -> $EXTERNAL_NET any (msg:
+/ads.aspx?
+getname
+/newdesk
+/nsManager.cgi
+/page.php
+/cacti/graph_image.php
+===========>
+FDC7A535-4070-4B92-A0EA-D9994BCC0DC5
+/turba/status.php
+dbms_repcat.comment_on_unique_resolution
+/wais.pl
+|01 00 02|
+/test.bat|7C|
+i45MQBVUFghDQkICEywTzzbc2+gVYUVAIGpAAAA2AAAJgAARIj9
+/toolbar/googlerank/get_googlerank.php
+x|00|p|00|_|00|e|00|n|00|u|00|m|00|r|00|e|00|s|00|u|00|l|00|t|00|s|00|e|00|t|00|
+|00 00 00|
+dbms_repcat.define_priority_group
+DirectAnimation.DAPath2.1
+/url_sp2.asp
+dbms_repcat.register_snapshot_repgroup
+|E3 0C|
+.rhosts
+/man.sh
+folder_id=
+D|00|9|00|9|00|F|00|7|00|6|00|7|00|0|00|-|00|7|00|F|00|1|00|A|00|-|00|1|00|1|00|C|00|E|00|-|00|B|00|E|00|5|00|7|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|5|00|1|00|F|00|E|00|2|00|0|00|
+|01 00 01|
+|00 00 01|
+/cart11.html?affl=
+spass|3A|
+|EB 0C| / HTTP/1.1
+<password>
+F|00|4|00|B|00|A|00|F|00|F|00|0|00|2|00|-|00|F|00|9|00|0|00|7|00|-|00|1|00|1|00|D|00|2|00|-|00|8|00|F|00|8|00|F|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|4|00|C|00|3|00|B|00|9|00|F|00|
+/admin_preview.php
+/admcgi/contents.htm
+NSClient-sPISPJ99
+/mysaconfg.jsp?
+FlexLabelControl.FlexLabel
+res|3A|//createcab.cmd
+E8C31D11-6FD2-4659-AD75-155FA143F42B
+/scripts/proxy/w3proxy.dll
+/setcookie.asp?
+/backup
+/passwd.php3
+AECF5D2E-7A18-4DD2-BDCD-29B6F615B448
+/exclurls.php
+x|00|p|00|_|00|c|00|m|00|d|00|s|00|h|00|e|00|l|00|l|00|
+18477169-4752-41DC-AB0F-C50EBA75641D
+6ED74AE3-8066-4385-AABA-243E033F75A3
+/stream/?
+|85 13|<|9E A2|
+|13 C0 1C A6 13 C0 1C A6 13 C0 1C A6 13 C0 1C A6|
+085ABFE2-D753-445C-8A2A-D4BD46CE0811
+CF_ISCOLDFUSIONDATASOURCE|28 29|
+A77849B6-6125-4466-88DC-4855C014A0C4
+B|00|E|00|4|00|1|00|9|00|1|00|F|00|B|00|-|00|5|00|9|00|E|00|F|00|-|00|4|00|8|00|2|00|5|00|-|00|A|00|E|00|F|00|C|00|-|00|1|00|0|00|9|00|7|00|2|00|7|00|9|00|5|00|1|00|E|00|4|00|2|00|
+|7C|48|7C|0|7C|0|7C|
+/test-cgi
+/modules.php?
+sys.dbms_aqadm.verify_queue_types_get_nrp
+/jsp/AJmain.jsp?
+csGuestbook.cgi
+1|00|D|00|9|00|5|00|A|00|7|00|C|00|7|00|-|00|3|00|2|00|8|00|2|00|-|00|4|00|D|00|B|00|7|00|-|00|9|00|A|00|4|00|8|00|-|00|7|00|C|00|3|00|9|00|C|00|E|00|1|00|5|00|2|00|A|00|1|00|9|00|
+/starts.asp
+AAAAAAAAAA
+dbms_repcat.drop_master_repgroup
+AF868304-AB0B-11D0-876A-00C04FC29D46
+/srchadm
+/UpdateClasses.php
+/redirect-settings.php
+/cgitest.exe
+D45FD31E-5C6E-11D1-9EC1-00C04FD7081F
+0|00|0|00|1|00|4|00|0|00|2|00|0|00|0|00|-|00|B|00|1|00|B|00|A|00|-|00|1|00|1|00|C|00|E|00|-|00|A|00|B|00|C|00|6|00|-|00|F|00|5|00|B|00|2|00|E|00|7|00|9|00|D|00|9|00|E|00|3|00|F|00|
+/chipcfg.cgi
+xAJ2g9vb5s6MgEwifAAA99d2k9vrFPl057JOQIiRxvTw54r4l64U/qrFiXxGSJOoS9u77/mo|0D 0A|T/01iESEpu/wemHvlfNyYs+hogBpkojHr6r1w6r5OLdqdovbvwQmcoqsu7aPznGT+6qsCYET
+/toolbarinfo.php?
+189504B8-50D1-4AA8-B4D6-95C8F58A6414
+dbms_repcat.add_priority_varchar2
+EC4CF635-D196-11CE-9027-02608C4BF3B5
+|0C 00 18 00 01 02 03 04 05 06 07 08 01 02 03 04 05 06 07 08 01 02 03 04 05 06 07 08|
+/Sites/Samples/Knowledge/Membership/Inspiredtutorial/ViewCode.asp
+/SetIE/SetIE.txt
+|00|g|00 01 00 03|
+/technote/main.cgi
+/setup/
+dbms_repcat.add_priority_nvarchar2
+/TOP10.dll
+130D7743-5F5A-11D1-B676-00A0C9697233
+0|00|0|00|0|00|0|00|0|00|5|00|3|00|5|00|-|00|0|00|0|00|0|00|0|00|-|00|0|00|0|00|1|00|0|00|-|00|8|00|0|00|0|00|0|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|6|00|D|00|2|00|E|00|A|00|4|00|
+50E5E3D1-C07E-11D0-B9FD-00A0249F6B00
+/popup/popup.php?
+/upload.php
+/booth.php
+/sendform.cgi
+7|00|9|00|8|00|B|00|9|00|4|00|8|00|3|00|-|00|B|00|7|00|A|00|6|00|-|00|4|00|6|00|C|00|1|00|-|00|9|00|F|00|1|00|7|00|-|00|C|00|9|00|B|00|9|00|F|00|0|00|2|00|E|00|A|00|8|00|1|00|1|00|
+Visio |28|TM|29| Drawing|0D 0A 00 00 00 00|
+/hsx.cgi
+167701E3-FDCF-11D0-A48E-006097C549FF
+F|00|D|00|7|00|8|00|D|00|5|00|5|00|4|00|-|00|4|00|C|00|6|00|E|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|7|00|0|00|D|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|1|00|9|00|1|00|6|00|0|00|1|00|
+CiWebHitsFile=
+|00 01 86 E4|
+E|00|3|00|1|00|E|00|8|00|7|00|C|00|4|00|-|00|8|00|6|00|E|00|A|00|-|00|4|00|9|00|4|00|0|00|-|00|9|00|B|00|8|00|A|00|-|00|5|00|B|00|D|00|5|00|D|00|1|00|7|00|9|00|A|00|7|00|3|00|7|00|
+/SUPERBARINSTALL_2.2.1.EXE
+|A3|Hp@|00 81|=Hp@|00 F0 00 00 00|~|0A C7 05|Hp@|00 0A 00 00 00|j|0A 8D|M|F0|Q|8B 15|Hp@|00|R|E8 E1|L|00 00 83 C4 0C 8D|E|F0|P|8B|M|08|Q|E8 DB 0D 00 00 83 C4 08|hlp@|00 8B|U|08|R|E8 DA 0D 00 00 83 C4 08|j|0A 8D|E|F0|P|8B 0D 90|{@|00|Q|E8 AB|L|00 00 83 C4 0C 8D|U|F0|R|8B|E|08|P|E8 B5 0D 00 00 83 C4 08|hpp@|00 8B|M|08|Q|E8|
+/count.cgi
+}|00 0C 00 00 00|
+1853E19A-4E54-4190-8DEB-2E1CC947CD60
+C|00|4|00|6|00|C|00|1|00|B|00|C|00|E|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+|7C|55|7C|0|7C|0|7C 7C|
+/search.php
+i45MQBVUFghDQkCCOqHqPmgGbzTU9IAAA1jAAAArAAAJgAACWwe
+C46C1BE0-3C52-11D0-9200-848C1D000000
+uuid_from_char
+2A6EB050-7F1C-11CE-BE57-00AA0051FE20
+7F5B7F63-F06F-4331-8A26-339E03C0AE3D
+/cdpView.ovpl
+This is a Perfect Keylogger report
+D9EC22E7-1A86-4F7C-8940-0303AE5D6756
+i45MQBVUFghDQkICEywTzzbc2+gVYUVAIGpAAAA2AAAJgAARC1i
+/guestbook.cgi
+E|00|0|00|F|00|1|00|5|00|8|00|E|00|1|00|-|00|C|00|B|00|0|00|4|00|-|00|1|00|1|00|D|00|0|00|-|00|B|00|D|00|4|00|E|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|1|00|1|00|C|00|E|00|8|00|6|00|
+44CCBCEB-BA7E-4C99-A078-9F683832D493
+Created
+/toolbar/search_log.php?
+OWC11.DataSourceControl.11
+DirectAnimation.DASound.1
+/webplus.cgi?Script=/webplus/webping/webping.wml
+00140B79-B1BA-11CE-ABC6-F5B2E79D9E3F
+/cart32.exe
+|A2 D0 D4 D6 DF C1 E1 D5 D6 DC BB DC CE D7|
+C6A96E83-F5AF-4BD4-9BDD-7B18444F814F
+8|00|5|00|B|00|B|00|D|00|9|00|2|00|0|00|-|00|4|00|2|00|A|00|0|00|-|00|1|00|0|00|6|00|9|00|-|00|A|00|2|00|E|00|4|00|-|00|0|00|8|00|0|00|0|00|2|00|B|00|3|00|0|00|3|00|0|00|9|00|D|00|
+|EB|n^|C6 06 9A|1|C9 89|N|01 C6|F|05|
+/document.d2w
+SndInfo
+/readme.eml
+2EFF8C97-F2A8-4395-9F47-9A06F998BF88
+|01 06 00 00 00|
+8|00|6|00|0|00|D|00|2|00|8|00|D|00|0|00|-|00|8|00|B|00|F|00|4|00|-|00|1|00|1|00|C|00|E|00|-|00|B|00|E|00|5|00|9|00|-|00|0|00|0|00|A|00|A|00|0|00|0|00|5|00|1|00|F|00|E|00|2|00|0|00|
+|08|New File File
+/dcshop
+|FF 01 01 03 00 00 00 00|
+l|00 0B 00 00 00 00 00 00 00 00 00|
+8856F961-340A-11D0-A96B-00C04FD705A2
+GETLIST
+up skirt
+Authorization|3A|
+C46C1BDA-3C52-11D0-9200-848C1D000000
+XEXCH50
+IsOldAppInstalled
+xV4|12 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00|
+B|00|B|00|3|00|3|00|9|00|A|00|4|00|6|00|-|00|7|00|C|00|4|00|9|00|-|00|1|00|1|00|d|00|2|00|-|00|9|00|B|00|F|00|3|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|A|00|3|00|4|00|7|00|8|00|9|00|
+0006F033-0000-0000-C000-000000000046
+2|00|8|00|7|00|7|00|6|00|D|00|A|00|D|00|-|00|5|00|9|00|1|00|4|00|-|00|4|00|2|00|A|00|7|00|-|00|9|00|1|00|3|00|9|00|-|00|8|00|F|00|D|00|7|00|C|00|7|00|5|00|6|00|B|00|B|00|D|00|D|00|
+alt.binaries.pictures.tinygirls
+alert tcp $EXTERNAL_NET any -> $HOME_NET 6070 (msg:
+/_vti_pvt/service.cnf
+|FF FA 22 03|
+HtmlDlgSafeHelper.HtmlDlgSafeHelper.1
+|23|[shwproc]
+/search.aspx?
+sys.dbms_repcat_sna.register_snapshot_repgroup
+92883667-E95C-443D-AC96-4CACA27BEB6E
+anon@napster.com
+/CBXml.asp?
+/mlog.phtml
+/admin_password.php
+passcorrect|3B|
+/admin_stats.php
+sys.dbms_repcat_conf.drop_priority_number
+WZFILEVIEW.FileViewCtrl.61
+DirectAnimation.Sequence
+D17506C3-6B26-11D0-8914-00C04FC2A0CA
+/cwmail.exe
+CF_SETDATASOURCEUSERNAME|28 29|
+dbms_repcat.comment_on_priority_group
+/dp/search?
+/files.pl
+00140B30-B1BA-11CE-ABC6-F5B2E79D9E3F
+raw sex
+7007ACC7-3202-11D1-AAD2-00805FC1270E
+i9iF2w+EggAAAItrCIvFA0MMi9CNDDcr0YP6DH8Ei/gr/ovGK8WD+Ax9FI1M|0D 0A|JAGL1itTCAPXi8Xoxfv//+sRjUwkAYvXg+oEjUYE6LL7//+LbCQBhe10NIvV
+542FB453-5003-11CF-92A2-00AA00B8A733
+|89 F7 29 C7 89 F3 89 F9 89 F2 AC|<|FE|
+tfTransferring
+DirectAnimation.PathControl
+6|00|7|00|9|00|E|00|1|00|3|00|2|00|F|00|-|00|5|00|6|00|1|00|B|00|-|00|4|00|2|00|F|00|8|00|-|00|8|00|4|00|6|00|C|00|-|00|A|00|7|00|0|00|D|00|B|00|D|00|C|00|6|00|2|00|9|00|9|00|9|00|
+5|00|3|00|C|00|7|00|4|00|8|00|2|00|6|00|-|00|A|00|B|00|9|00|9|00|-|00|4|00|D|00|3|00|3|00|-|00|A|00|C|00|A|00|4|00|-|00|3|00|1|00|1|00|7|00|F|00|5|00|1|00|D|00|3|00|7|00|8|00|8|00|
+stAlvgus
+/frmCompose.aspx
+AviFix.AviFixer
+|B0 86 01 00 01 00 00 00|0
+Location
+ARKFS|00|root|00|root
+00020423-0000-0000-C000-000000000046
+|02 00 00 00|4x
+filebhejdai|7C|
+q|FB|{|AB|q|FB|{|AB|q|FB|{|AB|q|FB|{|AB|
+checkgroups
+|3B|FolderMonitor
+41B23C28-488E-4e5C-ACE2-BB0BBABE99E8
+Symantec.Norton.AntiVirus.NAVOptions
+/weer.xml
+B|00|A|00|D|00|A|00|8|00|2|00|C|00|B|00|-|00|B|00|F|00|4|00|8|00|-|00|4|00|D|00|7|00|6|00|-|00|9|00|6|00|1|00|1|00|-|00|7|00|8|00|E|00|2|00|C|00|6|00|F|00|4|00|9|00|F|00|0|00|3|00|
+sys.dbms_repcat_conf.add_priority_number
+8EC18CE2-D7B4-11D2-88C8-006008A717FD
+C|00|4|00|6|00|C|00|1|00|B|00|D|00|C|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+/ows-bin/
+/admin_comment.php
+sys.dbms_repcat_conf.alter_priority_varchar2
+ChildWebGuardian|3A|
+C22BB435-9B7F-4B1F-ACBD-CD36D34D6DFF
+/fp30reg.dll
+/?action=log
+E_|00 03 05|
+28776DAD-5914-42A7-9139-8FD7C756BBDD
+C|00|4|00|6|00|C|00|1|00|B|00|E|00|C|00|-|00|3|00|C|00|5|00|2|00|-|00|1|00|1|00|D|00|0|00|-|00|9|00|2|00|0|00|0|00|-|00|8|00|4|00|8|00|C|00|1|00|D|00|0|00|0|00|0|00|0|00|0|00|0|00|
+|00 00 09 01|
+DATE_FORMAT
+WNDMicrosoft
+|FE|7|00 23|
+ejaculat
+/insert.inc.php
+/a1stats/
+1eO8sLlq7UIor1GwCmto7XsiMt9GchrcNlbVPh1GT18n0EDLTWKdYxpB5nZPeoxCHDzQuKOyEtsb|0D 0A|MCqnv2Y1wJoGWMGEslVIzj05hLSGDTLIbGy0uaslY66ENTqEiiXk5HxsL8KRnL2EpjwzDZScLR3G
+Program Launched
+860BB310-5D01-11D0-BD3B-00A0C911CE86
+alert tcp $EXTERNAL_NET any -> $HOME_NET 53 (msg:
+x|00|p|00|_|00|u|00|p|00|d|00|a|00|t|00|e|00|c|00|o|00|l|00|v|00|b|00|m|00|
+/cfdocs/snippets/fileexists.cfm
+User-Agent|3A| Quicktime
+|04 00 07 00|
+Content-Type|3A|
+<title>New Page 1</title>
+/b.cgi?
+dbms_repcat_auth.revoke_surrogate_repcat
+DBB177CC-6908-4b53-9BEE-F1C697818D65
+/dfire.cgi
+alter table
+D|00|i|00|r|00|e|00|c|00|t|00|A|00|n|00|i|00|m|00|a|00|t|00|i|00|o|00|n|00|.|00|D|00|A|00|s|00|t|00|a|00|t|00|i|00|c|00|s|00|
+|FF F3 FF F3 FF F3 FF F3 FF F3|
+gotoadres
+05589FA1-C356-11CE-BF01-00AA0055595A
+FD853CD9-7F86-11D0-8252-00C04FD85AB4
+NTLMSSP|00 03 00 00 00|
+A|00|x|00|K|00|L|00|P|00|r|00|o|00|d|00|6|00|0|00|.|00|K|00|A|00|V|00|6|00|0|00|I|00|n|00|f|00|o|00|
+Theef2.10_
+0|00|0|00|1|00|4|00|0|00|7|00|9|00|7|00|-|00|B|00|1|00|B|00|A|00|-|00|1|00|1|00|C|00|E|00|-|00|A|00|B|00|C|00|6|00|-|00|F|00|5|00|B|00|2|00|E|00|7|00|9|00|D|00|9|00|E|00|3|00|F|00|
+/mylog.phtml
+sys.dbms_upgrade_internal
+/Notificacion.php
+/bsguest.cgi
+|EB|E|EB| [|FC|3|C9 B1 82 8B F3 80|+
+Sifre_Korumasi
+/global.cgi
+/_vti_inf.html
+sys.dbms_repcat_sna_utl.drop_snapshot_repgroup
+/webadmin.dll
+/devrandom/r.php
+dbms_repcat.purge_master_log
+BC5F1E51-5110-11D1-AFF5-006097C9A284
+/DatabaseFunctions.php
+IDAuto.BarCode
+0002E510-0000-0000-C000-000000000046
+/webResults.html?
+SEND FROM|3A|
+1F7DD4F2-CAC3-11D0-A35B-00AA00BDCDFD
+/Form_VBScript.asp
+GET / HTTP/1.0|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|a|0D 0A|
+|0D|Lurker
+de011590-0531-4804-9c9c-3fedc7e6e5c8
+/iisadmpwd/achg.htr
+|90 08 00|3|B1 E5 CF 11 89 F4 00 A0 C9 03|I|CB|
+filediff
+alert ip 66.151.158.177 any -> $HOME_NET any (msg:
+Troyano
+6E3197A3-BBC3-11D4-84C0-00C04F7A06E5
+B|00|A|00|7|00|2|00|6|00|B|00|F|00|9|00|-|00|E|00|D|00|2|00|F|00|-|00|4|00|6|00|1|00|B|00|-|00|9|00|4|00|4|00|7|00|-|00|C|00|D|00|5|00|C|00|7|00|D|00|6|00|6|00|C|00|E|00|8|00|D|00|
+|B0 8E 80 23|
+|01 01 1F|
+/spamrule.dll
+01E04581-4EEE-11D0-BFE9-00AA005B4383
+SIP/2.0 481 Call/Leg Transaction Does Not Exist
+/SiteScope/cgi/go.exe/SiteScope
+adf`%|24|%^pk*|94|
+Killwidows|7C|
+|FF|SMB%
+/exchange/LogonFrm.asp?
+/srv/i?i=
+/banner/banner.asp
+|F5 CB C9 CF C6 F5 C8 C8 CE C7 F5|
+/^[0-9]{1,5}\x00/
+alert tcp $EXTERNAL_NET 53 -> $HOME_NET :1023 (msg:
+/ad.asmx
+AUTHENTICATE CRAM-MD5
+|13|BitTorrent protocol
+WNDkServer
+BM|00 00 00 00|
+/login.uix
+7057E952-BD1B-11D1-8919-00C04FC2C836
+DirectAnimation.DAMontage.1
+79EAC9E7-BAF9-11CE-8C82-00AA004BA90B
+/way-board
+dbms_rectifier_diff.differences
+|1A 01 00 00|
+05E6787D-82D9-4D24-91DD-97FE8D199501
+sys.dbms_repcat_sna.drop_snapshot_repobject
+/newsscript.pl
+/upd/check?version=
+F|00|9|00|E|00|F|00|B|00|E|00|C|00|2|00|-|00|4|00|3|00|0|00|2|00|-|00|1|00|1|00|D|00|2|00|-|00|9|00|5|00|2|00|A|00|-|00|0|00|0|00|C|00|0|00|4|00|F|00|A|00|3|00|4|00|F|00|0|00|5|00|
+EC444CB6-3E7E-4865-B1C3-0DE72EF39B3F

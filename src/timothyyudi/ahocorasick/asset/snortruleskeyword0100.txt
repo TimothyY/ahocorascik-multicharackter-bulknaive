@@ -1,0 +1,100 @@
+ADVDAUDIO.ADVDAUDIOCtrl
+/sitereview.asmx/GetReview
+053AFEBA-D968-435F-B557-19FF76372B1B
+N|00|a|00|v|00|C|00|o|00|m|00|U|00|I|00|.|00|A|00|x|00|S|00|y|00|s|00|L|00|i|00|s|00|t|00|V|00|i|00|e|00|w|00|3|00|2|00|
+/ans.pl?p=../../
+/notfound.php
+510A4910-7F1C-11CE-BE57-00AA0051FE20
+/notifyft
+dbms_repcat.refresh_mview_repgroup
+echo |22|+ +|22|
+|04 03 02 01|n|00 00 00|
+/pfdispaly.cgi
+/bigconf.cgi
+/filemail.pl
+/mdh/adcr2.aspx
+3BB56637-651D-4D1D-AFA4-C0506F57EAF8
+/etc/passwd
+|AB B4|+|F6 04 19 B8 9F CB|t|24|HpR|04 A6 8E|R|17 B1 7F 8A 1E|z|12 8C B8 0C|aVM|81 7C|0|AC|8|BA B5 EE 1A|B|9B|a*xe@|D1|q8|22|T|B7|.`|11 E0|iQ}|C7 CA C1 81 D9|i|B7 A4|C|BE|0|23|2X|9A DF 5C 3B|v|12 CC| |80 AD 7C|cT|19|.|AE|!|8E F8 84|R|F5|1n|D7 1B|8|E8 B0|<U1F|BE B7 16 8B 89 17|Z2|B0 ED|%ED|C4 07 8B B6 CF 92 B2 22|
+/statsconfig.pl
+WALLPAPER
+alert udp $EXTERNAL_NET any -> $HOME_NET 5093 (msg:
+/speedbar/mySpeedbarCfg2.jsp
+SmartCode.ViewerX
+,|3A|,j
+C|00|A|00|P|00|I|00|C|00|O|00|M|00|.|00|C|00|e|00|r|00|t|00|i|00|f|00|i|00|c|00|a|00|t|00|e|00|s|00|
+?|FE 83 1F|
+|F7|F|DA C4|D|22|A|AB E6 0D AA 10 17 A5 9F|=|90 B6|D7|AD F6 EE|UN|E5 17|rx|B7|v|E1 94 C7 8C|Q9y|A1 D9 C9|wL|E2 94|Q|7C 0F|6QA6|02|Y|D4 D2 B0 C9|k|C5|r|B9|m|81 DE|'|08 D8 DB 1B A4 99 AC EB 08 BD A7 24|G|8C BC 07 0D E5 06 7F|3|80 0A|T3|90|B|7F 0F|V|95|m|0D 16|g|0A|Y|CB CF 18 FF CB CA|Z|01|_|DE|Z52|0C|Y|CE|Y|1F|&|8C|W|B0 14|u|5C 88 B1 B0 EB C3|<|84 B4|h|D4|>|B8 1E 0F A6|~
+4|00|4|00|C|00|7|00|9|00|5|00|9|00|1|00|-|00|D|00|0|00|D|00|E|00|-|00|4|00|9|00|C|00|4|00|-|00|B|00|A|00|3|00|C|00|-|00|A|00|4|00|5|00|A|00|B|00|7|00|0|00|0|00|3|00|3|00|5|00|6|00|
+/ultraboard
+OwT4dgXDeVgnYHMODdBsTCbwmeciQpDLT1c3bLF1CDPoOT4eiUYEQgtW6Dyq/V0eWdlNFpXqMULp|0D 0A|QSWsmyBXNyoMu5xxWfoEcA/D8fxQV4hosCndivKbkCHoTCa6MLVnCwngBJFJlBHr7ka36Cpo/Mib
+BA726BF9-ED2F-461B-9447-CD5C7D66CE8D
+accept|3A|
+dbms_repcat.alter_master_propagation
+9|00|8|00|C|00|5|00|3|00|9|00|8|00|4|00|-|00|8|00|B|00|F|00|8|00|-|00|4|00|D|00|1|00|1|00|-|00|9|00|B|00|1|00|C|00|-|00|C|00|3|00|2|00|4|00|F|00|C|00|A|00|9|00|C|00|A|00|D|00|E|00|
+000Chat ouvert...
+XXXX%.172u%300|24|n
+xp_peekqueue
+/103/co.aspx?
+9 |D0 00 92 01 C2 00|R|00|U|00|9 |EC 00|
+CAPICOM.Certificates
+C|07 89|[|08 8D|K|08 89|C|0C B0 0B CD 80|1|C0 FE C0 CD 80 E8 94 FF FF FF|/bin/sh|0A|
+alert udp $EXTERNAL_NET any -> $HOME_NET 4569 (msg:
+E8F92847-7C21-452B-91A5-49D93AA18F30
+18A295DA-088E-42D1-BE31-5028D7F9B9B5
+File Name -~-
+alert udp $EXTERNAL_NET any -> $HOME_NET 41524 (msg:
+|23|+|0D 0A|
+ClassCDDBControl.CddbSegments
+sys.dbms_repcat_mas.do_deferred_repcat_admin
+/GWWEB.EXE
+47C6C527-6204-4F91-849D-66E234DEE015
+8E26BFC1-AFD6-11CF-BFFC-00AA003CFDFC
+JNILOADER.JNILoaderCtrl
+/error.php
+6|00|E|00|D|00|7|00|4|00|A|00|E|00|3|00|-|00|8|00|0|00|6|00|6|00|-|00|4|00|3|00|8|00|5|00|-|00|A|00|A|00|B|00|A|00|-|00|2|00|4|00|3|00|E|00|0|00|3|00|3|00|F|00|7|00|5|00|A|00|3|00|
+S|00|m|00|a|00|r|00|t|00|C|00|o|00|d|00|e|00|.|00|V|00|i|00|e|00|w|00|e|00|r|00|X|00|
+9|00|b|00|9|00|3|00|5|00|4|00|7|00|0|00|-|00|a|00|d|00|4|00|a|00|-|00|1|00|1|00|d|00|5|00|-|00|b|00|6|00|3|00|e|00|-|00|0|00|0|00|c|00|0|00|4|00|f|00|a|00|e|00|d|00|b|00|1|00|8|00|
+A|00|E|00|D|00|9|00|8|00|6|00|3|00|0|00|-|00|0|00|2|00|5|00|1|00|-|00|4|00|E|00|8|00|3|00|-|00|9|00|1|00|7|00|D|00|-|00|4|00|3|00|A|00|2|00|3|00|D|00|6|00|6|00|D|00|5|00|0|00|7|00|
+xp_showcolv
+Y|00|W|00|c|00|V|00|w|00|r|00|.|00|W|00|c|00|V|00|i|00|e|00|w|00|e|00|r|00|
+connect
+|00 00 00 00 00 00 09 01|
+|D7 CD C6 9A|
+/left_main.php
+/modules.php
+|FF|SMB
+Disinfect
+getclient
+FROM_TZ
+C0EF89EE-EEC7-4535-A041-F1EBF79560A7
+ftp.exe
+CFzisjUEyJsg4LLn9YPllwezsmCH/FoLDp8ttt5rlq2cy18Y2O3lemS1iy+B35D9veT2X3ys|0D 0A|6mupMisPtw82NJQBvU4U30nV3kdI4KNtHjiz9AUOmU+oQYcw9M3v9pJHb2MNmFxxkYvyqDWc
+ehlo cybercop|0A|quit|0A|
+760C4B83-E211-11D2-BF3E-00805FBE84A6
+/searchcat.jsp?
+/gozila.cgi
+dbms_repcat.comment_on_mview_repsites
+sys.dbms_repcat_conf.drop_update_resolution
+/printmail.cgi
+/phrase.php?
+4CECCEB2-8359-11D0-A34E-00AA00BDCDFD
+/cgi-bin/prorat.cgi
+all_views
+B|00|0|00|0|00|5|00|E|00|6|00|9|00|0|00|-|00|6|00|7|00|8|00|D|00|-|00|1|00|1|00|D|00|1|00|-|00|B|00|7|00|5|00|8|00|-|00|0|00|0|00|A|00|0|00|C|00|9|00|0|00|5|00|6|00|4|00|F|00|E|00|
+/installer?
+/web-map.cgi
+/UploadScript11.asp
+/admin_tpl_misc_new.php
+&raport
+/squirrelspell/modules/check_me.mod.php
+00020425-0000-0000-C000-000000000046
+RA Chat|00 00|
+|81 80 00 01 00 01 00 00 00 00|
+.html/......
+C|00|6|00|3|00|3|00|4|00|4|00|D|00|8|00|-|00|7|00|0|00|D|00|3|00|-|00|4|00|0|00|3|00|2|00|-|00|9|00|B|00|3|00|2|00|-|00|7|00|A|00|3|00|C|00|A|00|D|00|5|00|0|00|9|00|1|00|A|00|5|00|
+V|0E|1|C0 B0 3B 8D|~|12 89 F9 89 F9|
+f|00|o|00|r|00|m|00|a|00|t|00|m|00|e|00|s|00|s|00|a|00|g|00|e|00|
+alter database
+/bi/servlet/Thinstall
+servlet/.......
