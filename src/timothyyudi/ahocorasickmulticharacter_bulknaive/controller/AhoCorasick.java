@@ -48,13 +48,13 @@ public class AhoCorasick {
 //		System.out.println(printableASCIIList.size());
 	}
 	
-	public void prepareNaiveAlpha(){
-		root.setNextStateCollection(new HashMap<String,State>());
-		for (String printableASCII : printableASCIIList) {
-			root.getNextStateCollection().put(printableASCII, new State(printableASCII, root));
-		}
-//		System.out.println("rootchild size: "+root.getNextStateCollection().size());
-	}
+//	public void prepareNaiveAlpha(){
+//		root.setNextStateCollection(new HashMap<String,State>());
+//		for (String printableASCII : printableASCIIList) {
+//			root.getNextStateCollection().put(printableASCII, new State(printableASCII, root));
+//		}
+////		System.out.println("rootchild size: "+root.getNextStateCollection().size());
+//	}
 	
 	/**A function to move from 1 node of a trie to the others based on next input character*/
 	private State goTo(State node, String nextInputChar){
@@ -82,8 +82,20 @@ public class AhoCorasick {
 		
 		for (int keywordInsertionCounter = 0; keywordInsertionCounter < keyword.length(); keywordInsertionCounter++) {
 			if(keywordInsertionCounter==0){
-				
-				//???
+				State currState0Item = currState0.get(0);
+				//clear
+				for (String printableASCII : printableASCIIList) {
+					String tempConcatenatedBuffer = printableASCII+keyword.charAt(0);
+					if(goTo(currState0Item, tempConcatenatedBuffer)==null){
+						if(currState0Item.getNextStateCollection()==null)currState0Item.setNextStateCollection(new HashMap<String,State>());
+						currState0Item.getNextStateCollection().put(tempConcatenatedBuffer, new State(tempConcatenatedBuffer, root));
+					}
+					nextCurrState0.add(goTo(currState0Item, tempConcatenatedBuffer));
+				}
+				currState0.clear();
+				currState0.addAll(nextCurrState0);
+				nextCurrState0.clear();
+				buffer0=""; //make sure it's empty.
 				
 				buffer1+=Character.toString(keyword.charAt(keywordInsertionCounter));
 				
@@ -364,11 +376,11 @@ public class AhoCorasick {
 			BufferedReader bufferedReader = new BufferedReader(fileReader);
 			while (bufferedReader.read(cBuf, 0, 2) != -1) {
 				sBuf = String.valueOf(cBuf);
-//				columnNumberCounter+=2;
-//				if(sBuf.contains("\n")){
-//					lineNumberCounter++;
-//					columnNumberCounter=1;
-//				}
+				columnNumberCounter+=2;
+				if(sBuf.contains("\n")){
+					lineNumberCounter++;
+					columnNumberCounter=1;
+				}
 //				System.out.println("ME SEARCH: "+sBuf+"@L"+lineNumberCounter+"C"+columnNumberCounter);
 				while (goTo(currState, sBuf)==null&&!currState.equals(root)) { //repeat fail function as long goTo function is failing
 					currState= failFrom(currState);
