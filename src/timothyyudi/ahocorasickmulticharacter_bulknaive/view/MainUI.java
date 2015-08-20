@@ -328,10 +328,10 @@ public class MainUI {
 				f = new File(asset_Home+"snortrulesSimpleInputFile.txt");
 				break;
 			default:
-				f = new File(asset_Home+"snortrulesInputFile.txt");
+//				f = new File(asset_Home+"snortrulesInputFile.txt");
 //				f = new File(asset_Home+"hbot.txt");
 //				f = new File(asset_Home+"slowdownload.txt");
-//				f = new File(asset_Home+"m_orange3.1_100.txt");
+				f = new File(asset_Home+"m_orange3.1_100.txt");
 				break;
 			}
 //			inputString = util.readInputString(f, Charset.defaultCharset());

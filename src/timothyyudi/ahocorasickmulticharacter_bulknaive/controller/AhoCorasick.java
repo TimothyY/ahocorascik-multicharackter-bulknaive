@@ -234,46 +234,6 @@ public class AhoCorasick {
 		}
 	}
 	
-	public void prepare2Trie(){
-		
-		LinkedList<State> oriStateQueue = walkthroughTrie();
-//		LinkedList<State> oriStateQueueForPhase1 = new LinkedList<>(oriStateQueue); 
-		LinkedList<State> oriStateQueueForPhase2 = new LinkedList<>(oriStateQueue); 
-		
-		State tempState; //aka Si, placeholder for loop.
-		HashMap<String, State> tempNextLiteratedStatePointerMap;
-		String tempNewPattern="";
-		
-		// [Phase 2] Start creating derivation node
-		while(!oriStateQueueForPhase2.isEmpty()) {
-			tempState=oriStateQueueForPhase2.pop();
-			tempNextLiteratedStatePointerMap = new HashMap<String,State>();
-			//create a copy so the hashmap can be added, avoid concurrency problem
-			HashMap<String,State> cpOriChildStateHM;
-			if(tempState.getNextStateCollection()!=null){
-				cpOriChildStateHM = new HashMap<String,State>(tempState.getNextStateCollection()); //jika curr state =0 maka ini adalah node lvl 1	
-			
-				for (State stateNXi : cpOriChildStateHM.values()) {//BEGIN 4th phase
-					HashMap<String, State> stateNXiChilds = stateNXi.getNextStateCollection();//contoh anak node level 1
-					if(stateNXiChilds!=null){//???
-						for (State stateNXj : stateNXiChilds.values()) {//BEGIN 5th phase//ada 2 node baru dengan multichar di queuetmpset
-							tempNewPattern = stateNXi.getStateContentCharacter()+stateNXj.getStateContentCharacter();
-							if(tempNextLiteratedStatePointerMap.get(tempNewPattern)==null)tempNextLiteratedStatePointerMap.put(tempNewPattern, stateNXj);
-							//implementasi fullKeywordHashCodeList pada state kedua
-							if(stateNXj.getFullKeywordHashCodeList()==null)stateNXj.setFullKeywordHashCodeList(new ArrayList<Integer>());
-							stateNXj.getFullKeywordHashCodeList().add(stateNXi.getFullKeywordHashCode());
-							stateNXj.getFullKeywordHashCodeList().add(stateNXj.getFullKeywordHashCode());
-//							System.out.println(stateNXi.getStateContentCharacter()+": "+stateNXi.getNextStateCollection().size());
-//							System.out.println(tempNewPattern+" state created");
-						}//END 5th phase
-					}
-					//mungkin bisa improve dengan add fullKeyword dari failnode di sini kekny salah tempat
-				}//END 4th phase
-				tempState.getNextStateCollection().putAll(tempNextLiteratedStatePointerMap);
-			}
-		}//END 2nd Phase
-	}//END
-	
 	/**used to convert the trie state as a linkedlist).
 	 * Only use this on original trie. Usage on derivated trie will cause loop. 
 	 * This includes root state.*/
@@ -299,67 +259,6 @@ public class AhoCorasick {
 		}
 		return resultQueue;
 	}
-	
-//	/**A function to match input string against constructed AhoCorasick trie*/
-//	public void nPatternMatching(File inputFile){
-//		
-//		currState = root;
-//		lineNumberCounter=1;
-//		columnNumberCounter=1;
-//		String inputStringBuffer="";
-//		char[] cBuf = new char[2];
-//		String sBuf = null;
-//		
-//		algoStart=System.nanoTime();
-//		try {
-//			FileReader fileReader = new FileReader(inputFile);
-//			BufferedReader bufferedReader = new BufferedReader(fileReader);
-//			while (bufferedReader.read(cBuf, 0, 2) != -1) {
-//				sBuf = String.valueOf(cBuf);
-//				
-//				columnNumberCounter+=2;
-//				if(sBuf.equals("\n")){
-//					lineNumberCounter++;
-//					columnNumberCounter=1;
-//				}
-//
-//				while (goTo(currState, sBuf)==null&&!currState.equals(root)) { //repeat fail function as long goTo function is failing
-//					try {
-//						if(sBuf.length()==2)
-//							prepareOutputFail(currState.getNextStateCollection().get(Character.toString(cBuf[0])), lineNumberCounter, columnNumberCounter);
-//					} catch (Exception e) {}
-//					
-//					currState= failFrom(currState);
-//				}
-//				if(goTo(currState, sBuf)!=null){
-//					try {
-//						if(sBuf.length()==2)
-//							prepareOutputSuccess(currState.getNextStateCollection().get(Character.toString(cBuf[0])), lineNumberCounter, columnNumberCounter);// tadinya buat cetak yang ke skip tapi malah kena yang emang cuman 1 input.
-//					} catch (Exception e) {}
-//					currState = goTo(currState, sBuf); //set the current node to the result of go to function
-//					try {
-////						prepareOutput(currState, lineNumberCounter, columnNumberCounter, AhoCorasick.SUPPORTSKIPPEDNODEFORSUCCESS);
-//						prepareOutputSuccess(currState, lineNumberCounter, columnNumberCounter);
-//					} catch (Exception e) {}
-////					System.out.println("input: "+inputStringBuffer);
-//				}else if(goTo(currState, sBuf)==null&&currState.equals(root)){	//shifting enforcer
-//					try {
-//						currState = goTo(currState, Character.toString(cBuf[1])); //set the current node to the result of go to function
-////						prepareOutput(currState, lineNumberCounter, columnNumberCounter, AhoCorasick.SUPPORTSKIPPEDNODEFORSUCCESS);
-//						prepareOutputSuccess(currState, lineNumberCounter, columnNumberCounter);
-//					} catch (Exception e) {
-//						currState = root;
-//					}
-//				}
-//			}
-//			fileReader.close();
-//		} catch (IOException e) {
-//			e.printStackTrace();
-//		}
-//		algoEnd = System.nanoTime();
-//		Utility.writeAhoCorasickTime(algoEnd-algoStart);
-//		
-//	}
 
 	/**A function to match input string against constructed AhoCorasick trie*/
 	public void nPatternMatching(File inputFile){
