@@ -279,8 +279,8 @@ public class MainUI {
 				output_ProcessMemoryURI = output_Home+"AhoCorasick_ProcessMemorykjvcustom.txt";
 				break;
 			default:
-//				f = new File(asset_Home+"snortrulessimplekeyword.txt");
-				f = new File(asset_Home+"snortruleskeyword4000.txt");
+				f = new File(asset_Home+"snortrulessimplekeyword.txt");
+//				f = new File(asset_Home+"snortruleskeyword4000.txt");
 				output_PreProcessTimeURI = output_Home+"AhoCorasick_MC_PreProcessTimeSimple.txt";
 				output_InProcessTimeURI = output_Home+"AhoCorasick_MC_InProcessTimeSimple.txt";
 				output_ProcessMemoryURI = output_Home+"AhoCorasick_MC_ProcessMemorySimple.txt";
@@ -328,10 +328,10 @@ public class MainUI {
 				f = new File(asset_Home+"snortrulesSimpleInputFile.txt");
 				break;
 			default:
-//				f = new File(asset_Home+"snortrulesInputFile.txt");
+				f = new File(asset_Home+"snortrulesInputFile.txt");
 //				f = new File(asset_Home+"hbot.txt");
 //				f = new File(asset_Home+"slowdownload.txt");
-				f = new File(asset_Home+"m_orange3.1_100.txt");
+//				f = new File(asset_Home+"m_orange3.1_100.txt");
 				break;
 			}
 //			inputString = util.readInputString(f, Charset.defaultCharset());
@@ -365,7 +365,7 @@ public class MainUI {
 		    //exception handling left as an exercise for the reader
 		}
 		System.out.println("COMPLETED");
-//		ahoCorasick.trieInsight("a");
+		ahoCorasick.trieInsight("kudax");
 		runtime.gc();
 	}
 	

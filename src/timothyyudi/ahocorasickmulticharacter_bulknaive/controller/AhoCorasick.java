@@ -6,6 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.LinkedList;
 
 import timothyyudi.ahocorasickmulticharacter_bulknaive.model.Output;
@@ -48,7 +49,7 @@ public class AhoCorasick {
 	}
 	
 	public void prepareNaiveAlpha(){
-		root.setNextStateCollection(new HashMap<>());
+		root.setNextStateCollection(new HashMap<String,State>());
 		for (String printableASCII : printableASCIIList) {
 			root.getNextStateCollection().put(printableASCII, new State(printableASCII, root));
 		}
@@ -73,49 +74,118 @@ public class AhoCorasick {
 	
 	/**insert keywords to trie*/
 	private void enterKeyword(String keyword){
-		currState = root;
-		keywordInsertionCounter = 0;
-		String initialCharacter = Character.toString(keyword.charAt(0));
-		State naiveAlphaState;
+		ArrayList<State> currState0 = new ArrayList<State>();
+		ArrayList<State> nextCurrState0 = new ArrayList<State>();
+		currState0.add(root);
+		State currState1 = root;
+		String buffer0 = "", buffer1=""; //buffer0 untuk naive.
 		
-		while(keywordInsertionCounter<keyword.length() && goTo(currState, Character.toString(keyword.charAt(keywordInsertionCounter)))!=null){ //while state already exist then go there.
-			currState = goTo(currState, Character.toString(keyword.charAt(keywordInsertionCounter)));
-			keywordInsertionCounter++;
-		}
-	
-		while(keywordInsertionCounter<keyword.length() && goTo(currState, Character.toString(keyword.charAt(keywordInsertionCounter)))==null){ //while state doesnt exist then create new node and go there
-			if(currState.getNextStateCollection()==null)currState.setNextStateCollection(new HashMap<String,State>());
-				currState.getNextStateCollection().put(Character.toString(keyword.charAt(keywordInsertionCounter)), new State(Character.toString(keyword.charAt(keywordInsertionCounter)), root));
-			currState = goTo(currState, Character.toString(keyword.charAt(keywordInsertionCounter)));
+		for (int keywordInsertionCounter = 0; keywordInsertionCounter < keyword.length(); keywordInsertionCounter++) {
+			if(keywordInsertionCounter==0){
+				
+				//???
+				
+				buffer1+=Character.toString(keyword.charAt(keywordInsertionCounter));
+				
+			}else if(keywordInsertionCounter==keyword.length()-1){
+				
+				if(buffer0.length()==2)buffer0="";
+				if(buffer1.length()==2)buffer1="";
+				
+				buffer0+=Character.toString(keyword.charAt(keywordInsertionCounter));
+				buffer1+=Character.toString(keyword.charAt(keywordInsertionCounter));
+				
+				if(buffer1.length()==1){
+					//input concatenated with printable ascci
+					for (String printableASCII : printableASCIIList) {
+						String tempConcatenatedBuffer = buffer1+printableASCII;
+						if(goTo(currState1, tempConcatenatedBuffer)==null){
+							if(currState1.getNextStateCollection()==null)currState1.setNextStateCollection(new HashMap<String,State>());
+							currState1.getNextStateCollection().put(tempConcatenatedBuffer, new State(tempConcatenatedBuffer, root));
+						}
+						if(goTo(currState1, tempConcatenatedBuffer).getFullKeywordHashCodeList()==null)currState1.setFullKeywordHashCodeList(new ArrayList<Integer>());
+						currState1.getFullKeywordHashCodeList().add(keyword.hashCode());
+					}
+				}else if(buffer1.length()==2){
+					if(goTo(currState1, buffer1)==null){
+						if(currState1.getNextStateCollection()==null)currState1.setNextStateCollection(new HashMap<String,State>());
+						currState1.getNextStateCollection().put(buffer1, new State(buffer1, root));
+					}
+					currState1 = goTo(currState1, buffer1);
+					if(currState1.getFullKeywordHashCodeList()==null){
+						currState1.setFullKeywordHashCodeList(new ArrayList<Integer>());
+					};
+					currState1.getFullKeywordHashCodeList().add(keyword.hashCode());
+				}
+				
+				if(buffer0.length()==1){
+					//input concatenated with printable ascci
+					Iterator<State> i = currState0.iterator();
+					while(i.hasNext()){
+						State currState0Item = i.next();
+						for (String printableASCII : printableASCIIList) {
+							String tempConcatenatedBuffer = buffer0+printableASCII;
+							if(goTo(currState0Item, tempConcatenatedBuffer)==null){
+								if(currState0Item.getNextStateCollection()==null)currState0Item.setNextStateCollection(new HashMap<String,State>());
+								currState0Item.getNextStateCollection().put(tempConcatenatedBuffer, new State(tempConcatenatedBuffer, root));
+							}
+							if(goTo(currState0Item, tempConcatenatedBuffer).getFullKeywordHashCodeList()==null)currState0Item.setFullKeywordHashCodeList(new ArrayList<Integer>());
+							currState0Item.getFullKeywordHashCodeList().add(keyword.hashCode());
+						}
+						i.remove();
+					}
+				}else if(buffer0.length()==2){
+					Iterator<State> i = currState0.iterator();
+					while(i.hasNext()){
+						State currState0Item = i.next();
+						if(goTo(currState0Item, buffer0)==null){
+							if(currState0Item.getNextStateCollection()==null)currState0Item.setNextStateCollection(new HashMap<String,State>());
+							currState0Item.getNextStateCollection().put(buffer0, new State(buffer0, root));
+						}
+						if(goTo(currState0Item, buffer0).getFullKeywordHashCodeList()==null)goTo(currState0Item, buffer0).setFullKeywordHashCodeList(new ArrayList<Integer>());
+						goTo(currState0Item, buffer0).getFullKeywordHashCodeList().add(keyword.hashCode());
+						//nextCurrState0.add(goTo(currState0Item, buffer0)); //not used anymore
+						i.remove();
+					}
+					//currState0.addAll(nextCurrState0); //not used anymore
+					//nextCurrState0.clear(); //not used anymore
+				}
+				
+			}else{	
 			
-			keywordInsertionCounter++;
-		}
-		
-		if(keywordInsertionCounter==keyword.length()){
-			currState.setFullKeywordHashCode(keyword.hashCode());
-//			System.out.println("Finale: "+currState.getStateContentCharacter());
-		}
-
-		//add naive omega
-		if(currState.getNextStateCollection()==null) {
-			currState.setNextStateCollection(new HashMap<>());
-		}
-		
-		currState.getNextStateCollection().putIfAbsent("", new State("", root));
-		currState.getNextStateCollection().putIfAbsent("\n", new State("\n", root));
-		currState.getNextStateCollection().putIfAbsent("\r", new State("\r", root));
-		for (int i = 32; i < 127; i++) {
-			currState.getNextStateCollection().putIfAbsent(Character.toString((char)i), new State(Character.toString((char)i), root));
-		}
-		
-//		System.out.println(currState.getNextStateCollection().size());
-		
-		//add naive alpha @root
-//		System.out.println("inserting "+keyword);
-//		System.out.println("root child size: "+root.getNextStateCollection().size());
-		for (State rootChildState : root.getNextStateCollection().values()) {
-			if(rootChildState.getNextStateCollection()==null)rootChildState.setNextStateCollection(new HashMap<String,State>());
-			rootChildState.getNextStateCollection().putIfAbsent(initialCharacter, new State(initialCharacter, root));
+				if(buffer0.length()==2)buffer0="";
+				if(buffer1.length()==2)buffer1="";
+				
+				buffer0+=Character.toString(keyword.charAt(keywordInsertionCounter));
+				buffer1+=Character.toString(keyword.charAt(keywordInsertionCounter));
+				
+				if(buffer0.length()==2){
+					
+					Iterator<State> i = currState0.iterator();
+					while(i.hasNext()){
+						State currState0Item = i.next();
+						if(goTo(currState0Item, buffer0)==null){
+							if(currState0Item.getNextStateCollection()==null)currState0Item.setNextStateCollection(new HashMap<String,State>());
+							currState0Item.getNextStateCollection().put(buffer0, new State(buffer0, root));
+						}
+						nextCurrState0.add(goTo(currState0Item, buffer0));
+						i.remove();
+					}
+					currState0.addAll(nextCurrState0);
+					nextCurrState0.clear();
+					
+				}
+				
+				if(buffer1.length()==2){
+					if(goTo(currState1, buffer1)==null){
+						if(currState1.getNextStateCollection()==null)currState1.setNextStateCollection(new HashMap<String,State>());
+						currState1.getNextStateCollection().put(buffer1, new State(buffer1, root));
+					}
+					currState1 = goTo(currState1, buffer1);
+				}
+				
+			}
+			
 		}
 	}
 	
@@ -176,9 +246,9 @@ public class AhoCorasick {
 					if(stateNXiChilds!=null){//???
 						for (State stateNXj : stateNXiChilds.values()) {//BEGIN 5th phase//ada 2 node baru dengan multichar di queuetmpset
 							tempNewPattern = stateNXi.getStateContentCharacter()+stateNXj.getStateContentCharacter();
-							tempNextLiteratedStatePointerMap.putIfAbsent(tempNewPattern, stateNXj);
+							if(tempNextLiteratedStatePointerMap.get(tempNewPattern)==null)tempNextLiteratedStatePointerMap.put(tempNewPattern, stateNXj);
 							//implementasi fullKeywordHashCodeList pada state kedua
-							if(stateNXj.getFullKeywordHashCodeList()==null)stateNXj.setFullKeywordHashCodeList(new ArrayList<>());
+							if(stateNXj.getFullKeywordHashCodeList()==null)stateNXj.setFullKeywordHashCodeList(new ArrayList<Integer>());
 							stateNXj.getFullKeywordHashCodeList().add(stateNXi.getFullKeywordHashCode());
 							stateNXj.getFullKeywordHashCodeList().add(stateNXj.getFullKeywordHashCode());
 //							System.out.println(stateNXi.getStateContentCharacter()+": "+stateNXi.getNextStateCollection().size());
@@ -355,11 +425,18 @@ public class AhoCorasick {
 //		}
 //	}
 
-	public void trieInsight(String initialStateChara){
-		State initialState = root.getNextStateCollection().get(initialStateChara);
-		System.out.print(initialState.getStateContentCharacter()+": ");
-		for (String key : initialState.getNextStateCollection().keySet()) {
-			System.out.print(key+",");
+	public void trieInsight(String keyword){
+		State pewState = root;
+		System.out.print("root: ");
+		for (State state : root.getNextStateCollection().values()) {
+			System.out.print(state.getStateContentCharacter()+",");
+		}System.out.println();
+		for (int i = 0; i < keyword.length(); i++) {
+			pewState=goTo(pewState, keyword);
+			System.out.print(pewState.getStateContentCharacter()+": ");
+			for (State yadaState : pewState.getNextStateCollection().values()) {
+				System.out.print(yadaState.getStateContentCharacter()+",");
+			}System.out.println("");
 		}
 		
 	}
